@@ -1,4 +1,4 @@
-# A2E: Audio to English 
+# WARDEN
 
 This repository implements a two-stage pipeline:
 
@@ -61,6 +61,10 @@ Fine-tuned Whisper checkpoints are saved to:
 ```
 result/
 ```
+
+## **Checkpoint**
+
+The fine-tuned checkpoint for ASR can be found [here](https://huggingface.co/ZihengZhang/WARDEN-Whisper).
 
 
 
@@ -206,4 +210,8 @@ Each training example should follow:
 ```
 llamafactory-cli train translation/configs/qwen_sft.yaml
 ```
+
+## **Checkpoint**
+
+The fine-tuned checkpoint for translating can be found [here](https://huggingface.co/ZihengZhang/WARDEN-Qwen3).
 
