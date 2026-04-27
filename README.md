@@ -5,6 +5,9 @@ This repository implements a two-stage pipeline:
 1. **ASR fine-tuning** using Whisper for Wardaman transcription
 2. **Translation fine-tuning** using Qwen with LoRA via LLaMAFactory
 
+----
+For data privacy reasons, the complete Wardaman data is available [here](http://hdl.handle.net/2196/884f9353-ea4c-4686-b83c-18cdb828193z).
+
 
 
 # **1. ASR (Whisper Fine-tuning)**
