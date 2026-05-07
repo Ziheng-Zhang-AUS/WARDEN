@@ -64,7 +64,7 @@ The fine-tuned checkpoint for ASR can be found [here](https://huggingface.co/Zih
 
 # **2. Lexicon Retrieval & Injection**
 
-This module augments ASR transcription using a Wardaman-English lexicon.
+This module augments ASR transcription using a Wardaman-English lexicon. The original PDF of the Wardaman-English dictionary can be found at [link](https://www.elararchive.org/uncategorized/IO_d388196b-78ca-48ce-8eb9-86e31597bba0/).
 
 It performs:
 
