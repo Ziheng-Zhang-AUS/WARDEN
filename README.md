@@ -5,10 +5,9 @@ This repository implements a two-stage pipeline:
 1. **ASR fine-tuning** using Whisper for Wardaman transcription
 2. **Translation fine-tuning** using Qwen with LoRA via LLaMAFactory
 
-----
+---
+
 For data privacy reasons, the complete Wardaman data is available [here](http://hdl.handle.net/2196/884f9353-ea4c-4686-b83c-18cdb828193z).
-
-
 
 # **1. ASR (Whisper Fine-tuning)**
 
@@ -19,8 +18,6 @@ conda create -n whisper_release python=3.10
 conda activate whisper_release
 pip install -r asr/requirements.txt
 ```
-
-
 
 ## **Data Format**
 
@@ -42,8 +39,6 @@ Each JSON line file should follow this format:
 { "audio": "filename.wav", "text": "transcription" }
 ```
 
-
-
 ## Training
 
 ```bash
@@ -54,8 +49,6 @@ python asr/train_whisper.py \
   --output_dir results/whisper_medium \
   --max_steps 300
 ```
-
-
 
 ## **Output**
 
@@ -69,10 +62,6 @@ result/
 
 The fine-tuned checkpoint for ASR can be found [here](https://huggingface.co/ZihengZhang/WARDEN-Whisper).
 
-
-
-
-
 # **2. Lexicon Retrieval & Injection**
 
 This module augments ASR transcription using a Wardaman-English lexicon.
@@ -85,31 +74,40 @@ It performs:
 - Top-K filtering
 - Structured injection formatting
 
-
-
 ## **Dictionary Format**
+
+A cleaned lexicon file is provided at:
+
+```text
+
+data/lexicon/lexicon.csv
+
+```
+
+This file is used for information injection during the transcription-translation stage. More than 2,000 lexicon entries were manually cleaned and some of the content was transcribed into natural language to make it easier for large models to understand their meaning more intuitively.
 
 Lexicon must be a CSV file, required columns:
 
 ```
+
 lexical_unit, variant, pos, gloss
+
 ```
-
-
 
 ## **Injection Input Format**
 
 Input JSONL (from ASR output):
 
 ```
+
 { "text": "transcription sentence" }
+
 ```
-
-
 
 ## **Run Lexicon Injection**
 
 ```
+
 python lexicon/lexinject.py \
  --input data/transcribe/train.jsonl \
  --output data/translate/train_with_lexicon.jsonl \
@@ -117,25 +115,24 @@ python lexicon/lexinject.py \
  --top_k 2 \
  --cer_threshold 0.2 \
  --output_mode flat_json
+
 ```
-
-
 
 ## **Output**
 
 Each sample will include an additional field:
 
 ```
+
 {
- "text": "...",
- "lexicon": {
-  "word1": ["gloss1", "gloss2"],
-  "word2": ["gloss3"]
- }
+"text": "...",
+"lexicon": {
+"word1": ["gloss1", "gloss2"],
+"word2": ["gloss3"]
 }
+}
+
 ```
-
-
 
 ## **Statistics**
 
@@ -151,11 +148,7 @@ These metrics are useful for:
 - Zero-shot experiments
 - Injection density control
 
-
-
 # **3. Translation (Qwen + LoRA via LLaMAFactory)**
-
-
 
 ## **Environment Setup**
 
@@ -164,8 +157,6 @@ conda create -n llama_release python=3.10
 conda activate llama_release
 pip install -r translation/requirements.txt
 ```
-
-
 
 ## **Dataset Format**
 
@@ -206,8 +197,6 @@ Each training example should follow:
 }
 ```
 
-
-
 ## **Training**
 
 ```
@@ -217,4 +206,3 @@ llamafactory-cli train translation/configs/qwen_sft.yaml
 ## **Checkpoint**
 
 The fine-tuned checkpoint for translating can be found [here](https://huggingface.co/ZihengZhang/WARDEN-Qwen3).
-
