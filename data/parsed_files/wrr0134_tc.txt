@@ -1,0 +1,39 @@
+00:00:01.966	1.966	00:00:08.065	8.065	00:00:06.099	6.099	Walanja-wu denberr wurr-gindi-yawu yumin-ya ngarlngarlma na wudjingindi-ya minini
+00:00:08.217	8.217	00:00:12.360	12.36	00:00:04.143	4.143	A! might be, yilamagan walanja narri ngala nunja
+00:00:13.728	13.728	00:00:18.658	18.658	00:00:04.930	4.93	Wurryanggiya yani wudarri-ya minini diylgba yanarri-ya wumiri-ya jingindi-ya go
+00:00:18.815	18.815	00:00:21.643	21.643	00:00:02.828	2.828	Walanja galul, yumin-ya
+00:00:22.870	22.87	00:00:32.441	32.441	00:00:09.571	9.571	Nana deb wurr-bundi-ya, wujalarri-ya na wumunburra ngamandaga-yi yumin-yi wu-jalarri-ya dolb
+00:00:33.306	33.306	00:00:35.410	35.41	00:00:02.104	2.104	Dolb wendiyawu walanja
+00:00:35.759	35.759	00:00:39.909	39.909	00:00:04.150	4.15	Minini larri-ya na bidamarla-wunya wurrugu
+00:00:41.263	41.263	00:00:44.971	44.971	00:00:03.708	3.708	Sometime modorl durd wurr-mendi-ya wurrugu minini
+00:00:50.465	50.465	00:00:52.302	52.302	00:00:01.837	1.837	Yawe, nganinggin minini dana
+00:00:56.697	56.697	00:00:58.343	58.343	00:00:01.646	1.646	Yingyi yadagbarlan?
+00:00:58.872	58.872	00:01:16.774	76.774	00:00:17.902	17.902	Yeah, sweetie, sweetie, yawe, mangali, mangali ya, mangali, mangali, yilgbayi
+00:01:34.045	94.045	00:01:36.666	96.666	00:00:02.621	2.621	Wujerrij-ba wurranggi-ya warlabang
+00:01:37.511	97.511	00:01:43.187	103.187	00:00:05.676	5.676	Yawe warlabang wurranggi-ya wurr-yorri-ya gangman
+00:01:44.376	104.376	00:01:48.094	108.094	00:00:03.718	3.718	Walanja-wurr-mendiya, wung(gun?)burr-gandi-ya minini
+00:01:48.927	108.927	00:02:04.040	124.04	00:00:15.113	15.113	Minini wunggunburr-gandiya birlbirl-mala buy, gangma-wa, walanja-wa, wudirri-ya na, wurr-ginyerri-ya dawung-beng, wurrginyerri-ya murl
+00:02:07.472	127.472	00:02:11.381	131.381	00:00:03.909	3.909	Wurr-mendiya yarlarrg wurrugu wurr-bujurriya gonjon
+00:02:11.471	131.471	00:02:13.432	133.432	00:00:01.961	1.961	Murl wurr-gindi-ya gonjo-ya na
+00:02:14.704	134.704	00:02:15.632	135.632	00:00:00.928	0.928	Jerri-ya
+00:02:16.391	136.391	00:02:18.713	138.713	00:00:02.322	2.322	Wurr-ginyerri-ya wu-dirri-ya lurrbu
+00:02:20.258	140.258	00:02:21.163	141.163	00:00:00.905	0.905	Yijungang
+00:02:23.167	143.167	00:02:35.025	155.025	00:00:11.858	11.858	Walanja ngamandagan gangman wudirri-ya, yawe
+00:02:38.791	158.791	00:02:39.639	159.639	00:00:00.848	0.848	jegban
+00:02:40.089	160.089	00:02:46.744	166.744	00:00:06.655	6.655	Lunggura jegban galulul
+00:02:46.836	166.836	00:02:50.597	170.597	00:00:03.761	3.761	Barrwarrwa wurranggiya yirrgulu-warr wurr-gomarlarri-ya
+00:02:55.605	175.605	00:02:57.925	177.925	00:00:02.320	2.32	Minini galgalgal wunggunburr-gindi-ya
+00:02:58.029	178.029	00:03:00.998	180.998	00:00:02.969	2.969	Walanja gangman wularriya
+00:03:03.014	183.014	00:03:04.350	184.35	00:00:01.336	1.336	Yilgbayiwan
+00:03:09.625	189.625	00:03:12.598	192.598	00:00:02.973	2.973	Warlabang warlabang wurranggiyawu
+00:03:14.139	194.139	00:03:15.792	195.792	00:00:01.653	1.653	Warlabang wurranggi-ya
+00:03:33.522	213.522	00:03:34.960	214.96	00:00:01.438	1.438	wurrbujurriya gonjon
+00:03:40.037	220.037	00:03:41.617	221.617	00:00:01.580	1.58	Wurr-wudbarri-ya wuja
+00:03:42.027	222.027	00:03:43.263	223.263	00:00:01.236	1.236	Diyl wurrbundiya
+00:03:45.009	225.009	00:03:46.803	226.803	00:00:01.794	1.794	Jerrin-mala jingindi-ya wurrugu
+00:03:47.705	227.705	00:03:50.097	230.097	00:00:02.392	2.392	Yidodban gangmawu
+00:03:50.249	230.249	00:03:51.061	231.061	00:00:00.812	0.812	Walanja-wu
+00:03:52.282	232.282	00:03:55.573	235.573	00:00:03.291	3.291	Yijad wuja wurr-marnburriya wurr-ginyerri nanya na
+00:03:57.131	237.131	00:03:57.783	237.783	00:00:00.652	0.652	Yawe
+00:03:59.178	239.178	00:04:01.210	241.21	00:00:02.032	2.032	Dimalan wurrgindi-ya gunga galulul
+00:04:03.940	243.94	00:04:05.466	245.466	00:00:01.526	1.526	Wurr-ginyerri-ya dimalan-barra

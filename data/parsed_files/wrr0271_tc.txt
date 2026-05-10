@@ -1,0 +1,162 @@
+00:00:01.180	1.18	00:00:06.620	6.62	00:00:05.440	5.44	….wudjangandiiii wurr-wojbarnarri boooo
+00:00:08.170	8.17	00:00:10.710	10.71	00:00:02.540	2.54	Bornong  la Heywood
+00:00:15.270	15.27	00:00:15.860	15.86	00:00:00.590	0.59	minini
+00:00:17.430	17.43	00:00:21.550	21.55	00:00:04.120	4.12	Bardarrmarri (FM: marranyin) Bornong
+00:00:21.882	21.882	00:00:24.500	24.5	00:00:02.618	2.618	Gaygba wurr-yanarri(?) ngamanda-warda
+00:00:25.528	25.528	00:00:31.910	31.91	00:00:06.382	6.382	Gurruyawan Nanba wudjangandi Geledji, ya Geledji-warr
+00:00:36.264	36.264	00:00:39.323	39.323	00:00:03.059	3.059	Wiyan ya-jingin yiwarnwarnin Heywood
+00:00:41.970	41.97	00:00:45.294	45.294	00:00:03.324	3.324	Gurruyawan wurranggi Garnawuna 
+00:00:49.999	49.999	00:00:51.469	51.469	00:00:01.470	1.47	FM: all the lancewood join up la Wujarr
+00:00:53.352	53.352	00:00:57.852	57.852	00:00:04.500	4.5	Arayt lurrbu wudjangandi nanawunyin
+00:00:57.911	57.911	00:01:03.234	63.234	00:00:05.323	5.323	Gagawli-warr megerrman
+00:01:04.646	64.646	00:01:05.440	65.44	00:00:00.794	0.794	Borle-wuya
+00:01:06.176	66.176	00:01:13.705	73.705	00:00:07.529	7.529	Nanba-wan wudjangandi walig wurrangiya Garnmarnmalin
+00:01:20.940	80.94	00:01:23.676	83.676	00:00:02.736	2.736	Garnmarnmalin yanima wurr-marnburriya giyndan
+00:01:26.910	86.91	00:01:29.234	89.234	00:00:02.324	2.324	FM: yinggiya-yi marnburriya giyndan?
+00:01:29.322	89.322	00:01:31.528	91.528	00:00:02.206	2.206	Jigirrija-yi marnburriya
+00:01:34.528	94.528	00:01:38.469	98.469	00:00:03.941	3.941	Gujingga ngendiya dabdaba jingindiya
+00:01:40.676	100.676	00:01:50.176	110.176	00:00:09.500	9.5	Yanggi galma nanawunyin I forget somewhere that hill that little boy 
+00:01:51.734	111.734	00:01:52.352	112.352	00:00:00.618	0.618	FM: Wanben
+00:01:53.705	113.705	00:01:54.352	114.352	00:00:00.647	0.647	Yeah Wanben
+00:01:56.263	116.263	00:01:57.940	117.94	00:00:01.677	1.677	Wanben wudjangandi 
+00:01:58.617	118.617	00:02:03.058	123.058	00:00:04.441	4.441	Wanben mulu wurranggi dawurlan Wanben wudjingindi ngalamiynmiyn 
+00:02:03.088	123.088	00:02:09.382	129.382	00:00:06.294	6.294	Dan.ganud wudjingindi Wanben.... julu 
+00:02:10.470	130.47	00:02:16.793	136.793	00:00:06.323	6.323	Gurruyawan Wanben Wubulyawun ledba-wuya yawu-dayin, ledba-wuya Wubulyawun and Wanben, ledba-wuya yanima yawudjingin.ga
+00:02:20.323	140.323	00:02:22.058	142.058	00:00:01.735	1.735	Yanima walig wurranggi
+00:02:25.587	145.587	00:02:28.175	148.175	00:00:02.588	2.588	Morlomlomba  Morlomlomba
+00:02:41.999	161.999	00:02:44.116	164.116	00:00:02.117	2.117	Gagawli and Morlomlomba [a few exchanges prior]
+00:02:48.058	168.058	00:02:51.352	171.352	00:00:03.294	3.294	You might have been writeim but that might be that different page
+00:03:01.735	181.735	00:03:02.617	182.617	00:00:00.882	0.882	Morlomlombe
+00:03:04.793	184.793	00:03:06.999	186.999	00:00:02.206	2.206	FM: ngamanda wurr-yanarri Morlomlombe
+00:03:07.205	187.205	00:03:11.470	191.47	00:00:04.265	4.265	Nanawunyin linin-mala you know like snake him makeim
+00:03:11.617	191.617	00:03:15.823	195.823	00:00:04.206	4.206	Linin-yi marraj yawurrwaja wubirral wuwarlam
+00:03:16.529	196.529	00:03:20.970	200.97	00:00:04.441	4.441	Linin-yi marraj yawurrwaja wubirral wuwarlam
+00:03:24.029	204.029	00:03:31.146	211.146	00:00:07.117	7.117	Yijarlo-mala yawudjangan ngarrugu warlbag 
+00:03:31.293	211.293	00:03:40.352	220.352	00:00:09.059	9.059	Only ngawun linin-biji ya-waja nanawunyin warlbag yanja dawurlan
+00:03:41.587	221.587	00:03:44.558	224.558	00:00:02.971	2.971	Gota onefella peel off the skin 
+00:03:45.499	225.499	00:03:49.087	229.087	00:00:03.588	3.588	Gota new skin, likey that, and that mawarlam ya-waja
+00:03:55.617	235.617	00:03:59.205	239.205	00:00:03.588	3.588	FM: marluga? Or yinggiya? marluga
+00:04:01.323	241.323	00:04:03.234	243.234	00:00:01.911	1.911	Yeah guyamin-bi mulurru and marluga
+00:04:09.323	249.323	00:04:12.117	252.117	00:00:02.794	2.794	Gurruyawan wurranggi borle-ma
+00:04:13.441	253.441	00:04:15.558	255.558	00:00:02.117	2.117	Dibardba buyn.ga wiya-wa
+00:04:18.323	258.323	00:04:21.176	261.176	00:00:02.853	2.853	Wungayajawun-ya barlba weyn.ga
+00:04:21.764	261.764	00:04:25.705	265.705	00:00:03.941	3.941	Bard wendi borrilan yirrgulu-ya
+00:04:26.441	266.441	00:04:32.823	272.823	00:00:06.382	6.382	Yanggi Mardbinyang Gurruyawan wudjangandi dawurlan  
+00:04:40.411	280.411	00:04:50.500	290.5	00:00:10.089	10.089	Wu-loyirriya yigerrewun
+00:04:50.676	290.676	00:04:56.558	296.558	00:00:05.882	5.882	Nother one I been forget Balagagarnaya, Balagagarnaya
+00:05:00.911	300.911	00:05:05.470	305.47	00:00:04.559	4.559	Dan-guya Balagagarnaya yawurr-marnbun house 
+00:05:08.970	308.97	00:05:16.500	316.5	00:00:07.530	7.53	Whole lot yawurr-marnbun bangbun-wan dan.guyugun yibiyan-wan dang-guyugun diw-garra yawurrudba-wuya wumunburra like a ping pong
+00:05:17.441	317.441	00:05:18.588	318.588	00:00:01.147	1.147	Balagagarnaya
+00:05:18.735	318.735	00:05:26.117	326.117	00:00:07.382	7.382	FM: Balagagarnay ya-jingin mulurru or marluga?
+00:05:26.147	326.147	00:05:33.794	333.794	00:00:07.647	7.647	Guyaminbi bangbun dan-guyugun, yibiyan dangguyugun diw-garra
+00:05:34.470	334.47	00:05:40.970	340.97	00:00:06.500	6.5	You callim nest, you can look that nest, him likey that
+00:05:56.794	356.794	00:05:59.088	359.088	00:00:02.294	2.294	Yawurr-marnbun jolbord marraj
+00:06:00.470	360.47	00:06:08.117	368.117	00:00:07.647	7.647	Jolbord marraj yawudan, gurruyawan yawurrya sol-warra-warr yawurr-men dan.ganung shell whatsname barnnga 
+00:06:08.205	368.205	00:06:17.970	377.97	00:00:09.765	9.765	 yijaga-warra diw-garra wumunburra-wan diw-garra lowaglowa wurr-wudbarriya
+00:06:28.529	388.529	00:06:35.852	395.852	00:00:07.323	7.323	Marluga and mulurru play like yijurn-barra
+00:06:35.970	395.97	00:06:37.735	397.735	00:00:01.765	1.765	That balagagarnan bowerbird
+00:07:00.000	420.0	00:07:05.705	425.705	00:00:05.705	5.705	Gurruyawan nan-ba wurranggi-wuya diw-garra nyangandiya gornbun 
+00:07:10.000	430.0	00:07:14.058	434.058	00:00:04.058	4.058	Nanawunyin wurr-gindiya yingyi gornbuya 
+00:07:14.264	434.264	00:07:17.000	437.0	00:00:02.736	2.736	La Bloomer mob Gornbuya na [Shipton Billabong]
+00:07:29.235	449.235	00:07:30.970	450.97	00:00:01.735	1.735	I been forget that one
+00:07:41.794	461.794	00:07:44.205	464.205	00:00:02.411	2.411	That bird, you know, Gornbun
+00:07:48.058	468.058	00:07:52.764	472.764	00:00:04.706	4.706	Galul wurranggiya galul warduj 
+00:07:52.823	472.823	00:07:58.941	478.941	00:00:06.118	6.118	Gurruyawan wing yanima wurr-gindiya yanima
+00:07:59.000	479.0	00:08:04.911	484.911	00:00:05.911	5.911	Ngamandagan marraj that plane lowaglowa wudjingindiya
+00:08:05.058	485.058	00:08:10.411	490.411	00:00:05.353	5.353	Darab wurr-wendiya darab belgin-ya
+00:08:17.705	497.705	00:08:22.500	502.5	00:00:04.795	4.795	Gornbu-wuya yeah, yanima wurr-yanarri
+00:08:23.000	503.0	00:08:27.176	507.176	00:00:04.176	4.176	Darab wurr-wendiya Shipton Billabong gornbu-ya
+00:08:29.000	509.0	00:08:33.088	513.088	00:00:04.088	4.088	Nanba-wan dujud wurranggi Gurnmawurnmang
+00:08:33.147	513.147	00:08:35.029	515.029	00:00:01.882	1.882	FM: Gurrgba ngadjingin danya-wunyi mogurn-garr
+00:08:43.000	523.0	00:08:45.470	525.47	00:00:02.470	2.47	Gurruyawun yingyi wurr-gindi Gurnmawurnmang
+00:08:46.735	526.735	00:08:48.647	528.647	00:00:01.912	1.912	FM: ngamanda-wu yingyi wurr-gindi, Gurnmawurnmang?
+00:08:57.000	537.0	00:09:03.970	543.97	00:00:06.970	6.97	Gurnmawurnmang Gurrgba yanima na gurrgba-wan
+00:09:05.058	545.058	00:09:07.058	547.058	00:00:02.000	2.0	FM: OK, Gurnmawurnmang etc.
+00:09:15.058	555.058	00:09:22.000	562.0	00:00:06.942	6.942	Yanima borle-ma...I forgit that place now, I think you been writeim there?
+00:09:25.029	565.029	00:09:29.235	569.235	00:00:04.206	4.206	I been show you thatun yesterday
+00:09:29.323	569.323	00:09:31.441	571.441	00:00:02.118	2.118	FM: Ah! Wumawurd?
+00:09:31.529	571.529	00:09:35.500	575.5	00:00:03.971	3.971	FM: no more Wurdab.  BH: No more Wurdab.
+00:09:43.676	583.676	00:09:47.470	587.47	00:00:03.794	3.794	From Delamere Yard, sunrise, from Gurnmawurnmang
+00:09:47.588	587.588	00:09:53.382	593.382	00:00:05.794	5.794	Him langa road...ah Christ almighty
+00:09:54.058	594.058	00:10:01.000	601.0	00:00:06.942	6.942	FM: No more Golorog-ja, no more Warnmarring
+00:10:01.088	601.088	00:10:05.676	605.676	00:00:04.588	4.588	No Warnmarring this side
+00:10:07.000	607.0	00:10:15.735	615.735	00:00:08.735	8.735	I forget...FM: julu. BH: julu all right but Mardum not Mardum
+00:10:18.558	618.558	00:10:22.058	622.058	00:00:03.500	3.5	FM: no more Mardum, no more Munurryang
+00:10:34.117	634.117	00:10:36.205	636.205	00:00:02.088	2.088	Mighte I get it after
+00:10:44.470	644.47	00:10:49.941	649.941	00:00:05.471	5.471	FM: Yerrerreban. BH: No, Yerrerreban higher up
+00:10:50.970	650.97	00:10:57.970	657.97	00:00:07.000	7.0	FM: Wujojong? BH: No, him thatay again. Ah, Wujojong?
+00:10:59.058	659.058	00:11:02.382	662.382	00:00:03.324	3.324	Yeaj, Wujojong, yeah Wujojong.
+00:11:06.588	666.588	00:11:10.411	670.411	00:00:03.823	3.823	Ledba yawudan dawurlan jongorlon-ma namanya 
+00:11:10.970	670.97	00:11:20.029	680.029	00:00:09.059	9.059	*Yiyanggu thatay yanima ya-yu that way ledba wu-darri Wubulyawun that way 
+00:11:20.117	680.117	00:11:25.558	685.558	00:00:05.441	5.441	Nanba-wan wurranggi barrwarlan Gurnmawurnmang-ba wu-lawurri 
+00:11:26.294	686.294	00:11:31.000	691.0	00:00:04.706	4.706	Nanawunyin gunudjarri ? wu-loyirri
+00:11:31.117	691.117	00:11:33.470	693.47	00:00:02.353	2.353	FM: The same marluga and mulurru?
+00:11:35.500	695.5	00:11:40.705	700.705	00:00:05.205	5.205	Gornbu-wuya. Dan-guya wudjangandi  dan-guya wurranggi-wan Yingalarri-warr
+00:11:44.970	704.97	00:11:53.823	713.823	00:00:08.853	8.853	Yingalarri, Wirliyngunyang all the painting there barlb yawudjingin.ga
+00:11:55.000	715.0	00:12:00.500	720.5	00:00:05.500	5.5	Wurliyngunyang, yeah, Wurliyngunyan
+00:12:01.029	721.029	00:12:07.117	727.117	00:00:06.088	6.088	Diya-diya-warang barlb wurr-weyn.ga
+00:12:09.000	729.0	00:12:12.735	732.735	00:00:03.735	3.735	Got im feather, y know, painting on the wall
+00:12:25.000	745.0	00:12:27.941	747.941	00:00:02.941	2.941	Barlb wudjingindiya, barlb yawudjingin.ga gaya
+00:12:41.470	761.47	00:12:46.941	766.941	00:00:05.471	5.471	I been forget tell you first place creation story 
+00:12:46.970	766.97	00:12:49.529	769.529	00:00:02.559	2.559	FM: oh well you tell that one
+00:12:52.441	772.441	00:12:56.529	776.529	00:00:04.088	4.088	Dan-ya lagla-ya jingiyn.ga ngawun
+00:12:57.205	777.205	00:13:02.500	782.5	00:00:05.295	5.295	Danani yumin yinan gaya ngawun
+00:13:03.441	783.441	00:13:05.500	785.5	00:00:02.059	2.059	Julu-wu ngawun
+00:13:06.294	786.294	00:13:09.117	789.117	00:00:02.823	2.823	Murrgun aanani gorrondolmi
+00:13:09.176	789.176	00:13:14.058	794.058	00:00:04.882	4.882	Jingindiya danani yigoyog-ja wiya-ya bilawma jingiyn.ga
+00:13:14.117	794.117	00:13:15.911	795.911	00:00:01.794	1.794	Yigoyogin Like a salt water
+00:13:15.941	795.941	00:13:18.676	798.676	00:00:02.735	2.735	Nanawunyin gorrondolmi jingindi 
+00:13:20.088	800.088	00:13:21.941	801.941	00:00:01.853	1.853	? yanggiya-wan
+00:13:22.617	802.617	00:13:31.500	811.5	00:00:08.883	8.883	Yiwarnagari-wan marluga no more Jabirringgi, Jabirringgi gurruya,  Jabirringi-wuya
+00:13:35.029	815.029	00:13:46.500	826.5	00:00:11.471	11.471	Mulurru Dungdung jingindiya duba gurruyawan narri jingiyn.ga bulmarrab gorrondolmi
+00:13:46.558	826.558	00:13:54.058	834.058	00:00:07.500	7.5	Gala nga-lawun Lawurri yanarri gudang-ba yi-nyangandi? Nganbu-?
+00:13:54.088	834.088	00:13:58.205	838.205	00:00:04.117	4.117	Gorro-wa nga-nyangandi, lagla-ya nga-jingiyn.ga
+00:13:58.264	838.264	00:13:59.764	839.764	00:00:01.500	1.5	Gudang gila yinyeng?
+00:14:00.235	840.235	00:14:02.735	842.735	00:00:02.500	2.5	Wiya-ya yanarri go 
+00:14:02.823	842.823	00:14:07.441	847.441	00:00:04.618	4.618	Gurruyawan ngorlogba wudjingindi yingelen wudjingindi-wan na
+00:14:07.558	847.558	00:14:12.764	852.764	00:00:05.206	5.206	Yingelen wudjingiyn.ga dagbarlarri-wan wurren 
+00:14:12.852	852.852	00:14:15.411	855.411	00:00:02.559	2.559	Barrunin wayana guwarlambarla wayana
+00:14:22.558	862.558	00:14:29.029	869.029	00:00:06.471	6.471	Warrija mob wayana and ngamandagan all the judja 
+00:14:30.000	870.0	00:14:31.264	871.264	00:00:01.264	1.264	ngawurnen
+00:14:32.029	872.029	00:14:34.441	874.441	00:00:02.412	2.412	Gurruyawan mulurru nyangandi werr wiya-wa
+00:14:34.941	874.941	00:14:36.500	876.5	00:00:01.559	1.559	Warlag? jingindiya
+00:14:36.764	876.764	00:14:40.382	880.382	00:00:03.618	3.618	Wardangba jingindi yani narri narderr-yi galul-wa
+00:14:41.411	881.411	00:14:42.911	882.911	00:00:01.500	1.5	Nyangandi duba
+00:14:43.088	883.088	00:14:46.529	886.529	00:00:03.441	3.441	A! Gudang-ba yi-nyangandi? Yanarri go 
+00:14:46.764	886.764	00:14:48.794	888.794	00:00:02.030	2.03	Ngayugu nga-nyangandi wume-wa
+00:14:48.941	888.941	00:14:50.588	890.588	00:00:01.647	1.647	Ngala yinyeng?
+00:14:50.676	890.676	00:14:52.470	892.47	00:00:01.794	1.794	Ngayugu dan-gu wiya-wu
+00:14:54.000	894.0	00:15:00.852	900.852	00:00:06.852	6.852	gurruyawan ngulu-wuya wu-dayirri yingelen wurr-marnburri na 
+00:15:00.911	900.911	00:15:05.000	905.0	00:00:04.089	4.089	Dan-guya-wan wudjingindi duba na, wurren-wan wunggunburr-gandi 
+00:15:05.088	905.088	00:15:06.441	906.441	00:00:01.353	1.353	Wonggo lege ngawurnen
+00:15:06.500	906.5	00:15:10.911	910.911	00:00:04.411	4.411	Mangagali wu-loyirri wungun-ganga mulurru-yi 
+00:15:10.970	910.97	00:15:16.588	916.588	00:00:05.618	5.618	Mulurru-yi yanarri wurrugu ngayugu ngawun-gan dawurlan
+00:15:16.676	916.676	00:15:19.617	919.617	00:00:02.941	2.941	Dan.ganung ngawun-gan bandimi-warr
+00:15:22.000	922.0	00:15:31.705	931.705	00:00:09.705	9.705	Baj-barra [gamburrgila?] bandimi-warr 
+00:15:34.000	934.0	00:15:39.235	939.235	00:00:05.235	5.235	Gabarri Danani yiwun-dagbarla yarrulan
+00:15:39.352	939.352	00:15:42.823	942.823	00:00:03.471	3.471	Yarrulan gabarri yanarri wurrugu narderr
+00:15:43.441	943.441	00:15:48.558	948.558	00:00:05.117	5.117	nan-guya-wan wudjangan.ga narderr wudjingindi wayana gujingga wayana wangga gujiga everything 
+00:15:55.323	955.323	00:16:02.588	962.588	00:00:07.265	7.265	Mulurru gandi mudu-warr bandimi-warr dan.ganud wardardirrg wu-loyirriwa
+00:16:02.647	962.647	00:16:05.264	965.264	00:00:02.617	2.617	Gurruyawan lurrbu wudjangandi dan-ya-wunyin 
+00:16:14.970	974.97	00:16:25.029	985.029	00:00:10.059	10.059	[Dog tries to open door, Dixie there]
+00:16:26.529	986.529	00:16:33.735	993.735	00:00:07.206	7.206	Gurruyawan ngamandagan-wan gorrondolmi nyangandi gunga yanarri gunga mulurru-wu
+00:16:34.558	994.558	00:16:40.764	1000.764	00:00:06.206	6.206	A Dung-dung yanarri Ngamanda-wu yiwun-dagbarlan wurren dan-ya wiya-wagbawun-ya
+00:16:42.029	1002.029	00:16:47.147	1007.147	00:00:05.118	5.118	Mulurru yanarri gunga yinggawun wurren yiwun-dagbarlan wiya-ya 
+00:16:47.235	1007.235	00:16:52.764	1012.764	00:00:05.529	5.529	Nganinggin wurren nga-wundagbarlan danani warlarrgu
+00:16:55.000	1015.0	00:17:00.941	1020.941	00:00:05.941	5.941	Gorrondolmi yanarri go, a! Wiyan nga-mewe ngoyma ngan-gan galma
+00:17:01.470	1021.47	00:17:04.764	1024.764	00:00:03.294	3.294	Yanggi-wan yarrandi ngendi na
+00:17:04.852	1024.852	00:17:07.529	1027.529	00:00:02.677	2.677	Gurruyawan ngabarlngabarl nyangandi na bulma
+00:17:08.000	1028.0	00:17:16.147	1036.147	00:00:08.147	8.147	Ngabarl ngabarl Badbad gindi na laglan dawurlan gorro-wa jongon-ba namanya
+00:17:17.264	1037.264	00:17:21.941	1041.941	00:00:04.677	4.677	Narderr yanarri wurrugu yiwarnwarnin-junuyn  
+00:17:22.029	1042.029	00:17:25.617	1045.617	00:00:03.588	3.588	Wunggun-mendiya wurren gunga galul lun 
+00:17:26.794	1046.794	00:17:28.382	1048.382	00:00:01.588	1.588	Mulurru gabarri yanggi 
+00:17:29.029	1049.029	00:17:41.029	1061.029	00:00:12.000	12.0	Gurruyawan nanawunyin nu-yo ngamandagan gorrondolmi ngamandagan jigirrija marnburri-ya giyndan
+00:17:41.441	1061.441	00:17:42.852	1062.852	00:00:01.411	1.411	Gurruyawun jambung (? Junbung?) gindi
+00:17:43.294	1063.294	00:17:46.441	1066.441	00:00:03.147	3.147	Giyndan.warra gala yo nanawunyin gorrondolmi
+00:17:48.500	1068.5	00:17:52.294	1072.294	00:00:03.794	3.794	Gurruyawan diw wudbarri and mordol-wan mod bundi
+00:17:57.000	1077.0	00:17:59.000	1079.0	00:00:02.000	2.0	FM: ngamanda mod bundi? 
+00:17:59.058	1079.058	00:18:01.117	1081.117	00:00:02.059	2.059	Mordol 
+00:18:03.470	1083.47	00:18:12.794	1092.794	00:00:09.324	9.324	Gurruyawan yiwarnagari yanarri bangbu-wuya darni ngamandagan barnangga and jindal 
+00:18:12.911	1092.911	00:18:17.441	1097.441	00:00:04.530	4.53	Dang-guya whitefella callim menewga
+00:18:17.970	1097.97	00:18:22.352	1102.352	00:00:04.382	4.382	Yanima Delamere-warr Wugleni oneside 
+00:18:24.205	1104.205	00:18:31.911	1111.911	00:00:07.706	7.706	I been forget that place, closeup la Yiwarlarlay

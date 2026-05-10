@@ -1,0 +1,37 @@
+00:00:02.763	2.763	00:00:05.160	5.16	00:00:02.397	2.397	??? ngorlogba yanarri yirrugu
+00:00:05.780	5.78	00:00:06.234	6.234	00:00:00.454	0.454	Ngawun
+00:00:07.144	7.144	00:00:08.636	8.636	00:00:01.492	1.492	Ngawun nganjigbe lurruja
+00:00:09.585	9.585	00:00:11.239	11.239	00:00:01.654	1.654	Catchimup nga-yana nana mernden
+00:00:13.984	13.984	00:00:16.600	16.6	00:00:02.616	2.616	nganjigbe toomuchi ??? yadarri
+00:00:17.200	17.2	00:00:21.844	21.844	00:00:04.644	4.644	Mernden might be ngorlogba yajingin gunga nan-gu wurren-ngunung
+00:00:22.545	22.545	00:00:25.150	25.15	00:00:02.605	2.605	Gagung-ngunung darni-wunyin marrb mendi yinyigbe-yi
+00:00:26.396	26.396	00:00:31.124	31.124	00:00:04.728	4.728	Ngorlogba jingindi wonggo ngamandagan long time yirrugu ngawun
+00:00:32.269	32.269	00:00:33.748	33.748	00:00:01.479	1.479	Gayawun gila ngorlogba y'know?
+00:00:34.769	34.769	00:00:38.120	38.12	00:00:03.351	3.351	Dabidabi madin yayirr-men.ga go
+00:00:38.754	38.754	00:00:41.038	41.038	00:00:02.284	2.284	Ngawun gayardung nother day
+00:00:41.536	41.536	00:00:44.390	44.39	00:00:02.854	2.854	I dunno yanima na nyanga ngunung dawurlan
+00:00:45.532	45.532	00:00:51.060	51.06	00:00:05.528	5.528	Gurru-nga-yara yinggi dan-ya laglag-ya nganinggin-ya Mennge-ya yanyangan dawurlan
+00:00:53.885	53.885	00:00:55.499	55.499	00:00:01.614	1.614	Yawurr-ya dawurlan
+00:00:56.717	56.717	00:01:00.610	60.61	00:00:03.893	3.893	??? meleman yanyangan cloud
+00:01:01.735	61.735	00:01:11.902	71.902	00:00:10.167	10.167	Marlnga diw ya-wudba gerleng ya-jingin, yani darni marlnga ya-nyangan, lege
+00:01:12.572	72.572	00:01:16.057	76.057	00:00:03.485	3.485	Nanani-wan yidan ngawurren na
+00:01:16.760	76.76	00:01:32.568	92.568	00:00:15.808	15.808	Dawurlan damirlan yawudba marlnga yanyangan ngijba ye-meyen nana marlnga, ngij ye-meyen yewen darni-giji baraj worrb worrb yewen wuduwudu wiyan yani
+00:01:33.664	93.664	00:01:38.627	98.627	00:00:04.963	4.963	Arayt nanbawan damirlan na nyangandi yirrugu yijad na
+00:01:39.541	99.541	00:01:45.695	105.695	00:00:06.154	6.154	Yewen wuduwudu yirrugu danya worrb worrb nana wiyan yani
+00:01:47.724	107.724	00:01:51.636	111.636	00:00:03.912	3.912	Ngorrogorro-warrma na meleman ya-jingin na marlnga
+00:01:52.495	112.495	00:01:53.399	113.399	00:00:00.904	0.904	Janginyina-warang
+00:01:55.198	115.198	00:01:58.611	118.611	00:00:03.413	3.413	Yanyangan yijad wiyan
+00:02:00.221	120.221	00:02:02.722	122.722	00:00:02.501	2.501	Doow-marla yanyangan yirrugu janginyina
+00:02:05.418	125.418	00:02:08.408	128.408	00:00:02.990	2.99	Yanyangan yirrugu nanani yijad wiyan bulu-warang
+00:02:09.407	129.407	00:02:13.207	133.207	00:00:03.800	3.8	Bulu ya lawun yirrugu wiyan worrb ye-wen yijad na
+00:02:13.380	133.38	00:02:13.993	133.993	00:00:00.613	0.613	Yijad
+00:02:14.279	134.279	00:02:14.657	134.657	00:00:00.378	0.378	Ya
+00:02:15.129	135.129	00:02:16.158	136.158	00:00:01.029	1.029	Morrma ya-nyangan
+00:02:16.189	136.189	00:02:21.071	141.071	00:00:04.882	4.882	Morrma ya-nyangan thatun ye-wen.ga morrma yanyangan thatun juyn yanja na
+00:02:21.895	141.895	00:02:25.738	145.738	00:00:03.843	3.843	Ye-wen naaa girrb ya-yana
+00:02:26.932	146.932	00:02:28.345	148.345	00:00:01.413	1.413	Larrawad yanja
+00:02:28.821	148.821	00:02:29.426	149.426	00:00:00.605	0.605	Larrawad
+00:02:29.548	149.548	00:02:32.942	152.942	00:00:03.394	3.394	Larrawad yanja na, wiyan girdibun na
+00:02:33.066	153.066	00:02:34.738	154.738	00:00:01.672	1.672	Girdibun larrawad yanja
+00:02:35.142	155.142	00:02:35.715	155.715	00:00:00.573	0.573	Yawe
+00:02:36.883	156.883	00:02:41.085	161.085	00:00:04.202	4.202	Wirriggayla yilamagan lurrbu yanyangan again yirrugu

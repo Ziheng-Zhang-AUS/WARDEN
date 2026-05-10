@@ -1,0 +1,55 @@
+00:00:00.850	0.85	00:00:01.860	1.86	00:00:01.010	1.01	Wiyan ya-nyangan
+00:00:03.890	3.89	00:00:05.370	5.37	00:00:01.480	1.48	First I tellim you now
+00:00:06.982	6.982	00:00:10.206	10.206	00:00:03.224	3.224	Nana wiyan ya-nyangan bilawma Wumanngegba
+00:00:13.068	13.068	00:00:21.637	21.637	00:00:08.569	8.569	Yanja nana wiyan yanima Bulanin a Giwnin wiyan 
+00:00:22.102	22.102	00:00:24.154	24.154	00:00:02.052	2.052	wiyan ya-nyangan barrwa
+00:00:25.361	25.361	00:00:27.275	27.275	00:00:01.914	1.914	Yijarlo ya-nyangan bulma 
+00:00:28.344	28.344	00:00:34.379	34.379	00:00:06.035	6.035	Wiyan nanani yiman yayungga Jarrang-ba dawurlan
+00:00:34.568	34.568	00:00:42.327	42.327	00:00:07.759	7.759	ya-dagbarlan ngamandagan wuwarlam gunga
+00:00:42.465	42.465	00:00:44.016	44.016	00:00:01.551	1.551	Marie Allen ya-gurrgba
+00:00:45.740	45.74	00:00:51.033	51.033	00:00:05.293	5.293	Yanima yi-wudba fishy line nana wiyan lal yanja 
+00:00:51.275	51.275	00:00:52.326	52.326	00:00:01.051	1.051	Gurruyawan ya-nyangan wuyn 
+00:00:53.378	53.378	00:01:02.154	62.154	00:00:08.776	8.776	Like a caustic? Or something, he come back here
+00:01:03.512	63.512	00:01:20.269	80.269	00:00:16.757	16.757	You know that Jarrang, whirlpool? Clean water there, you know not that ... why that clean one there?
+00:01:21.945	81.945	00:01:28.432	88.432	00:00:06.487	6.487	Yigarlarl-wunyin darni, dan.guyugun wiyan yigoyogin 
+00:01:30.674	90.674	00:01:44.647	104.647	00:00:13.973	13.973	You can drinkim, yigoyogin, him gotta lime like a carbide lamp, him gotta lime
+00:01:45.026	105.026	00:01:48.566	108.566	00:00:03.540	3.54	Nanawunyin lime-garang yanyangan.ga wiyan, Beetaloo-wa
+00:01:50.675	110.675	00:01:54.296	114.296	00:00:03.621	3.621	Ya-nyangan nanawunyin Beetaloo-wa, Newcastle 
+00:01:55.377	115.377	00:01:58.377	118.377	00:00:03.000	3.0	Newcastle-wa Yellow Waterhole
+00:01:59.189	119.189	00:02:01.432	121.432	00:00:02.243	2.243	Top Springs here, Yellow Waterhole 
+00:02:02.188	122.188	00:02:05.026	125.026	00:00:02.838	2.838	Nanba-wan jiyl wendi ya-nyangan Liwaja
+00:02:06.783	126.783	00:02:10.594	130.594	00:00:03.811	3.811	Wiyan yanima milky water ngabulu-warra 
+00:02:12.540	132.54	00:02:15.324	135.324	00:00:02.784	2.784	Nanbawan dirib ya-nyangan Dilinyang
+00:02:16.972	136.972	00:02:24.026	144.026	00:00:07.054	7.054	Red one water...nanba-wan dirib yanja 
+00:02:24.215	144.215	00:02:27.134	147.134	00:00:02.919	2.919	Number six bore gamanji now
+00:02:28.378	148.378	00:02:30.026	150.026	00:00:01.648	1.648	Ya-nyangan yawurr-men.ga lirrminin
+00:02:30.080	150.08	00:02:32.324	152.324	00:00:02.244	2.244	Yigoyogin wiyan ya-nyangan bul now
+00:02:33.107	153.107	00:02:36.297	156.297	00:00:03.190	3.19	Nanya-wunyin makeim that wuwarlam 
+00:02:36.972	156.972	00:02:42.783	162.783	00:00:05.811	5.811	Mefella been boilim tea there before, him like a carbide
+00:02:42.918	162.918	00:02:44.729	164.729	00:00:01.811	1.811	？
+00:02:44.891	164.891	00:02:46.351	166.351	00:00:01.460	1.46	Nanba-wan jiyl yayn.ga 
+00:02:46.409	166.409	00:02:49.247	169.247	00:00:02.838	2.838	yanja barrwarlan bul ya-nyangan Jarrang-ya 
+00:02:50.323	170.323	00:02:56.026	176.026	00:00:05.703	5.703	That’s gotim that mandagan that lime 
+00:02:56.539	176.539	00:03:07.080	187.08	00:00:10.541	10.541	FM: what did the marlarluga call that lime? Limey water?
+00:03:07.945	187.945	00:03:11.972	191.972	00:00:04.027	4.027	Yigoyogin, yigoyin wiyan
+00:03:12.868	192.868	00:03:14.949	194.949	00:00:02.081	2.081	And Jamuynbjung been callim maynmag
+00:03:16.732	196.732	00:03:21.246	201.246	00:00:04.514	4.514	Gota Wardaman yigoyogin that salty water
+00:03:22.596	202.596	00:03:28.813	208.813	00:00:06.217	6.217	Anyway that’s the way we look that Flora River bulma buyn.ga
+00:03:30.864	210.864	00:03:32.188	212.188	00:00:01.324	1.324	Jiyl gunga nan-ba
+00:03:34.512	214.512	00:03:40.431	220.431	00:00:05.919	5.919	They wanta try open up putim big drill la Marie place
+00:03:44.486	224.486	00:03:47.324	227.324	00:00:02.838	2.838	Gina Rinehart makeim wrong 
+00:03:48.621	228.621	00:03:53.216	233.216	00:00:04.595	4.595	Yknow, him greedy for money him still comin back
+00:03:54.323	234.323	00:04:05.215	245.215	00:00:10.892	10.892	He wanta tryim whatsaname langa lime la Heywood Bornong
+00:04:06.945	246.945	00:04:08.297	248.297	00:00:01.352	1.352	La Bornong 
+00:04:08.431	248.431	00:04:12.323	252.323	00:00:03.892	3.892	I been say no that’s my dreaming
+00:04:13.756	253.756	00:04:18.756	258.756	00:00:05.000	5.0	Nanyawunyin him gotim carbide
+00:04:19.891	259.891	00:04:31.054	271.054	00:00:11.163	11.163	Carbide lamp carbide comes out of the limestone
+00:04:35.513	275.513	00:04:44.188	284.188	00:00:08.675	8.675	The heater over? When you makeim hot one well him boil himself 
+00:04:49.080	289.08	00:04:53.945	293.945	00:00:04.865	4.865	They been try, he been say no
+00:04:55.269	295.269	00:05:05.431	305.431	00:00:10.162	10.162	That water him come all the way from Dorisvale side, from Kaway and 
+00:05:06.162	306.162	00:05:13.972	313.972	00:00:07.810	7.81	And that whatsaname Manbulloo mango farm and they hit that water 
+00:05:14.053	314.053	00:05:24.566	324.566	00:00:10.513	10.513	And water him go up 20 metre in the end they beat it, took a long time 
+00:05:24.621	324.621	00:05:33.729	333.729	00:00:09.108	9.108	Nearly got wiped off. And they been coverimup finish and put a lid la that thing. Whitefella no good.
+00:05:36.999	336.999	00:05:44.810	344.81	00:00:07.811	7.811	No we stopim from fracking and everything, Gina Rinehart he been make up but him in trouble now etc.
+00:05:44.945	344.945	00:05:50.620	350.62	00:00:05.675	5.675	They put putim la TV, yeah, I been look la TV
+00:05:51.377	351.377	00:05:52.972	352.972	00:00:01.595	1.595	That ? one 

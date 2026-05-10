@@ -1,0 +1,8 @@
+00:00:00.224	0.224	00:00:05.533	5.533	00:00:05.309	5.309	what's it, they'd cut hte wood
+00:00:05.713	5.713	00:00:07.554	7.554	00:00:01.841	1.841	they put it into hte spear
+00:00:08.175	8.175	00:00:11.823	11.823	00:00:03.648	3.648	they put the wire into the spear
+00:00:12.655	12.655	00:00:16.778	16.778	00:00:04.123	4.123	they closed the hole up with wax
+00:00:17.952	17.952	00:00:21.538	21.538	00:00:03.586	3.586	wire, they took it hunting
+00:00:22.049	22.049	00:00:24.992	24.992	00:00:02.943	2.943	they speared fish in hte river
+00:00:27.072	27.072	00:00:33.235	33.235	00:00:06.163	6.163	crayfish, fish, for crocodiles, they speared
+00:00:35.348	35.348	00:00:37.947	37.947	00:00:02.599	2.599	they used that wax

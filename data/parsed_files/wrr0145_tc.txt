@@ -1,0 +1,10 @@
+00:00:00.097	0.097	00:00:05.001	5.001	00:00:04.904	4.904	munin yayu jiyila-ya, yangugun belgin
+00:00:08.807	8.807	00:00:10.833	10.833	00:00:02.026	2.026	ngamandawu belgin?
+00:00:15.814	15.814	00:00:22.692	22.692	00:00:06.878	6.878	yangun na ya
+00:00:22.784	22.784	00:00:31.699	31.699	00:00:08.915	8.915	yawurrgin.ga layin nanan ya-lan, yawurrgin.ga layin, yawudin lurrbu
+00:00:37.969	37.969	00:00:43.606	43.606	00:00:05.637	5.637	munin yawurrgin wurrugu balng bangginya wurreya, that un mugurn yayu
+00:00:45.026	45.026	00:00:48.006	48.006	00:00:02.980	2.98	right through ? wuduwudu wurren
+00:00:52.501	52.501	00:00:53.410	53.41	00:00:00.909	0.909	bangginya yawurrgin
+00:00:57.988	57.988	00:01:08.941	68.941	00:00:10.953	10.953	nanya mugurn yawudjingin mugurn, mugurn yayungga barrunin mugurn-gujban
+00:01:09.519	69.519	00:01:16.340	76.34	00:00:06.821	6.821	mugurn wagbawun, munin-wan yawurrgin wurrugu, munin-wan bag yawurrbun wurrugu bangginya
+00:01:16.717	76.717	00:01:23.000	83.0	00:00:06.283	6.283	wurren yawurrya lowaglowa, yawudjangan lurrbu mugurn yawudjingin juynbi

@@ -1,0 +1,24 @@
+00:00:02.751	2.751	00:00:06.141	6.141	00:00:03.390	3.39	danani ngunggun? madin bornorron-gu
+00:00:09.280	9.28	00:00:15.969	15.969	00:00:06.689	6.689	ngamandagan jarrang-barra nyangandi yibalanggin wiyan wendiyaaa
+00:00:16.423	16.423	00:00:22.787	22.787	00:00:06.364	6.364	jarrang nyangan.ga, nyangandiya jarran yaningbarra
+00:00:23.863	23.863	00:00:28.762	28.762	00:00:04.899	4.899	warrag-wan yanggiya wiya-warra, nyangandiya bulmarrab, warrag
+00:00:29.837	29.837	00:00:32.491	32.491	00:00:02.654	2.654	and wojbarnarriya galul na, bornorron
+00:00:33.664	33.664	00:00:40.566	40.566	00:00:06.902	6.902	gorrg! godorrg-marla yanggiyawu. yaaa nyangandiya yilamagan lowfella now
+00:00:41.043	41.043	00:00:48.417	48.417	00:00:07.374	7.374	nana bornorron galul-wa, berlberlma nyangandiyawu, nanbawan gabarri warrag
+00:00:48.620	48.62	00:00:57.524	57.524	00:00:08.904	8.904	ngugngug yanarri barrwa, wiyaya, yani wod! nyangandi wiyawa na yijaga jangangaba
+00:00:59.105	59.105	00:01:06.076	66.076	00:00:06.971	6.971	ngamandagan, gab! larri yijeng, yardagbarlan nana yijeng na
+00:01:06.675	66.675	00:01:12.002	72.002	00:00:05.327	5.327	warrag-ji ngarlaga-ya, dolb mendi gunga wiya-warr
+00:01:12.964	72.964	00:01:16.448	76.448	00:00:03.484	3.484	nana-wan yardagbarlan na ngarlaga-ya warrag-ji yardagbarlan
+00:01:19.416	79.416	00:01:21.296	81.296	00:00:01.880	1.88	warragji yardagbarlan?
+00:01:23.695	83.695	00:01:24.815	84.815	00:00:01.120	1.12	yawe, ngarlagaya
+00:01:28.601	88.601	00:01:29.245	89.245	00:00:00.644	0.644	wurryanarriya
+00:01:30.978	90.978	00:01:35.611	95.611	00:00:04.633	4.633	yawe, wurryanarriya yirrugu madin, nganburrwondiya, nganburryanarri
+00:01:36.175	96.175	00:01:40.912	100.912	00:00:04.737	4.737	nganinggin-yi yibiwi-yi nganyanarri yijamuyn-yi yawe
+00:01:43.150	103.15	00:01:50.000	110.0	00:00:06.850	6.85	ngarlaga-ya na yardagbarlan balng, yirrmen ngayanarri wurrugu wurre-wu nganinggin-gu danmulu-wu
+00:01:51.084	111.084	00:01:54.783	114.783	00:00:03.699	3.699	jabiday-mulu, nga-yanarri go yingerrmen.ga warrag
+00:01:55.254	115.254	00:01:59.966	119.966	00:00:04.712	4.712	milid nga-giyan ngarlaga yagan.ga nana ngamandagan
+00:02:00.852	120.852	00:02:07.486	127.486	00:00:06.634	6.634	gudarrg yanja dana galul, gagaygba and jarrang-wan
+00:02:08.699	128.699	00:02:14.647	134.647	00:00:05.948	5.948	nyangandiya gabarri ngijba, diyidin nirriya yumin
+00:02:15.031	135.031	00:02:20.984	140.984	00:00:05.953	5.953	diyidin-garang and gal nyangandi-wan go wiya-wa janganga(y?)ma jingindiwu
+00:02:21.174	141.174	00:02:25.868	145.868	00:00:04.694	4.694	gudarrg! yanarri, dolb mendi galul-wa wag gindi na
+00:02:27.073	147.073	00:02:29.017	149.017	00:00:01.944	1.944	ngugngug yanarri wiya-ya

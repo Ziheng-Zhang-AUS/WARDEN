@@ -1,0 +1,19 @@
+00:00:04.863	4.863	00:00:07.440	7.44	00:00:02.577	2.577	walanja wurr-buyirr... wurr-bujurriya gonjon
+00:00:07.812	7.812	00:00:08.542	8.542	00:00:00.730	0.73	ngoyma
+00:00:09.427	9.427	00:00:12.617	12.617	00:00:03.190	3.19	nanba-wan wonggo balyag wurr-mendiya mordorl
+00:00:13.392	13.392	00:00:15.580	15.58	00:00:02.188	2.188	gaya-wun wurr-bujurriya go gonjon
+00:00:16.242	16.242	00:00:24.129	24.129	00:00:07.887	7.887	walanja-yi gabarri bardarrmarriya luwu-wa galunglan-wan werrma-wu
+00:00:25.028	25.028	00:00:30.073	30.073	00:00:05.045	5.045	nanba-wan bul bundiya na(wi) walanja lun-gari-ya
+00:00:31.117	31.117	00:00:32.286	32.286	00:00:01.169	1.169	danani ya-nyangan
+00:00:32.640	32.64	00:00:38.475	38.475	00:00:05.835	5.835	wurrmug wendiya go nana gonjon yibam-ba gonjon
+00:00:39.101	39.101	00:00:40.421	40.421	00:00:01.320	1.32	werr nyangandiyawu
+00:00:40.565	40.565	00:00:42.316	42.316	00:00:01.751	1.751	nana-wan wurr-bundiya na
+00:00:42.341	42.341	00:00:45.649	45.649	00:00:03.308	3.308	nyaj wulinyjerriya ngarlaga-wan
+00:00:46.678	46.678	00:00:49.192	49.192	00:00:02.514	2.514	mordorl-wa-wan yirr wurr-mendiya
+00:00:49.938	49.938	00:00:50.778	50.778	00:00:00.840	0.84	walanja
+00:00:52.459	52.459	00:00:53.676	53.676	00:00:01.217	1.217	yirr wurr-mendiya
+00:00:54.405	54.405	00:00:56.741	56.741	00:00:02.336	2.336	yiberr-wuya-wan bag wurr-mendiya
+00:00:59.337	59.337	00:01:01.250	61.25	00:00:01.913	1.913	mordorl-wa yirr wurr-mendiya
+00:01:01.892	61.892	00:01:03.587	63.587	00:00:01.695	1.695	mordorl-wuya bag wurr-mendiya 
+00:01:04.986	64.986	00:01:07.469	67.469	00:00:02.483	2.483	wurr-gandiya na lurrbu
+00:01:08.465	68.465	00:01:09.647	69.647	00:00:01.182	1.182	nguyiyin-wan

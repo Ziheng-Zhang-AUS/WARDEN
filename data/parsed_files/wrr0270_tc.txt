@@ -1,0 +1,101 @@
+00:00:01.720	1.72	00:00:03.180	3.18	00:00:01.460	1.46	FM: ngamanda Wumenngegba? 
+00:00:03.710	3.71	00:00:06.330	6.33	00:00:02.620	2.62	White cockatoo, nanawunyin menngen
+00:00:06.608	6.608	00:00:08.695	8.695	00:00:02.087	2.087	FM: Menngen, Kaway Springs
+00:00:10.216	10.216	00:00:12.260	12.26	00:00:02.044	2.044	FM: Kaway Springs, and ngamanda laglan
+00:00:12.956	12.956	00:00:17.057	17.057	00:00:04.101	4.101	Jiyila wiyan and malmalmaj
+00:00:17.477	17.477	00:00:20.608	20.608	00:00:03.131	3.131	Bega, grow, wiya-ya
+00:00:20.694	20.694	00:00:21.318	21.318	00:00:00.624	0.624	FM: malmalmaj
+00:00:21.405	21.405	00:00:22.347	22.347	00:00:00.942	0.942	Yeah, malmalmaj
+00:00:25.043	25.043	00:00:27.231	27.231	00:00:02.188	2.188	Nanba-wan wudjangandi Wubulyawun-garr
+00:00:27.535	27.535	00:00:29.999	29.999	00:00:02.464	2.464	FM: Wubulyawun thatun julu
+00:00:30.043	30.043	00:00:30.970	30.97	00:00:00.927	0.927	Wubulyawun, julu ya-jingin
+00:00:31.188	31.188	00:00:33.869	33.869	00:00:02.681	2.681	Nanba-wan lefthand? laglan, nanawunyin Giwnin
+00:00:35.028	35.028	00:00:41.970	41.97	00:00:06.942	6.942	FM: OK, and Yibulyawun-ba, that julu-wa, Jarnarra-ya
+00:00:42.390	42.39	00:00:46.144	46.144	00:00:03.754	3.754	Jarnarra-ya, nanawunyin yigin? Yibulyawun-ba ledba yawudan Jarnarra-ya
+00:00:46.391	46.391	00:00:48.912	48.912	00:00:02.521	2.521	FM: OK, and ngamanda wurr-yanarri jarnarra-ya
+00:00:49.057	49.057	00:00:55.607	55.607	00:00:06.550	6.55	arnarra-ya nanawunyin wiyan ya-nyangan.ga darni jongon-ba Giw- Bulanin-ba
+00:00:55.738	55.738	00:01:00.593	60.593	00:00:04.855	4.855	Ya-nyangaaan nan-garr-wunyin Dabdaba-warr Dijguya
+00:01:00.854	60.854	00:01:01.492	61.492	00:00:00.638	0.638	FM: Dijguya
+00:01:01.680	61.68	00:01:04.375	64.375	00:00:02.695	2.695	Nanba-wan wiyan ngabulg wendi 
+00:01:05.042	65.042	00:01:09.810	69.81	00:00:04.768	4.768	Borle ya-nyangan  nanawunyin Wurdambu aa whatsaname Yiwalma
+00:01:10.071	70.071	00:01:15.144	75.144	00:00:05.073	5.073	Yirr-yanarriya Flora Giwnin yidjingiyn.ga again danawunyin Mathison-garr  
+00:01:15.868	75.868	00:01:17.086	77.086	00:00:01.218	1.218	Dana yayangga Flora-warr
+00:01:17.999	77.999	00:01:21.868	81.868	00:00:03.869	3.869	Jarnarraya Nanawunyin Jarnarraya bla him aaa 
+00:01:25.361	85.361	00:01:26.782	86.782	00:00:01.421	1.421	FM: barragbarrag int it
+00:01:26.918	86.918	00:01:32.243	92.243	00:00:05.325	5.325	Barragbarrag and ngamandagan wurr-gindiya barragbarrag
+00:01:33.431	93.431	00:01:37.837	97.837	00:00:04.406	4.406	Oh Christ I’m trying to think of algae name blangta him
+00:01:38.053	98.053	00:01:39.269	99.269	00:00:01.216	1.216	Danjan, danjan
+00:01:39.550	99.55	00:01:40.100	100.1	00:00:00.550	0.55	FM: Danjan
+00:01:40.144	100.144	00:01:42.158	102.158	00:00:02.014	2.014	Danjan they been ?? danjan
+00:01:42.506	102.506	00:01:43.883	103.883	00:00:01.377	1.377	FM danjan wurr-gindi 
+00:01:45.129	105.129	00:01:49.086	109.086	00:00:03.957	3.957	Algae, algae, algae now, danjan 
+00:01:49.188	109.188	00:01:51.652	111.652	00:00:02.464	2.464	FM: algae wurr-gindi, ngamanda-wu
+00:01:52.028	112.028	00:01:57.608	117.608	00:00:05.580	5.58	Well wurr-gindi like that, well, mernden, mernden-mulu-yi they can’t know im
+00:01:57.796	117.796	00:02:05.404	125.404	00:00:07.608	7.608	They reckon yiwarnagari might be ngardan yumin-biji ya-jingin.ga nanawunyin ngamandagan wurr-gindiya
+00:02:05.535	125.535	00:02:06.883	126.883	00:00:01.348	1.348	FM: nyangurlang wurr-gindi?
+00:02:09.375	129.375	00:02:10.491	130.491	00:00:01.116	1.116	Buwarraja time 
+00:02:10.637	130.637	00:02:11.883	131.883	00:00:01.246	1.246	FM: a, buwarraja time
+00:02:12.028	132.028	00:02:12.868	132.868	00:00:00.840	0.84	Yeah, buwarraja time 
+00:02:18.463	138.463	00:02:19.695	139.695	00:00:01.232	1.232	Dangmulu...every one
+00:02:20.347	140.347	00:02:26.072	146.072	00:00:05.725	5.725	Nanawunyin Gorrondolmi yoyn.ga jinimin-yi garnin-yi yoyn.ga
+00:02:26.303	146.303	00:02:29.376	149.376	00:00:03.073	3.073	Nanawunyin gayardung wurranggi nan-guya bangbu-wuya damirlan na wudjangandi
+00:02:29.753	149.753	00:02:34.463	154.463	00:00:04.710	4.71	Yanima wurranggiiii nanawunyin Bornong galgal
+00:02:35.173	155.173	00:02:41.651	161.651	00:00:06.478	6.478	Darni wurranggi Gurruyawan wurre-yi wudbarri wujaa [wiyan?] finish
+00:02:41.839	161.839	00:02:45.433	165.433	00:00:03.594	3.594	Twofella been mandagan na, ngabulg wendi digirrijbi
+00:02:46.564	166.564	00:02:49.448	169.448	00:00:02.884	2.884	Nan-guya bangbu-wuya wudjangandi ngamanda nga-yanarriii
+00:02:49.521	169.521	00:02:58.680	178.68	00:00:09.159	9.159	*Yimarnayn ngarrugu ngamanda-warda  guguj yigulan wagbawun nayirri nanawunyin
+00:02:58.796	178.796	00:03:00.984	180.984	00:00:02.188	2.188	Danawunyin jingiyn.ga wumunburra-wuya ya-jingin yanima 
+00:03:01.883	181.883	00:03:08.666	188.666	00:00:06.783	6.783	Dendenin and mandagan yanarri welejban
+00:03:08.753	188.753	00:03:12.695	192.695	00:00:03.942	3.942	FM dendenin welejban bangbu-wuya
+00:03:12.810	192.81	00:03:16.665	196.665	00:00:03.855	3.855	And yimarnayn wurrugu-wuya bulgu ya-yu ngalamiynmiyn
+00:03:17.318	197.318	00:03:19.101	199.101	00:00:01.783	1.783	Yanima ? ya-yu gorrowa (or Flora-wa?)
+00:03:20.898	200.898	00:03:25.043	205.043	00:00:04.145	4.145	Nanba-wan wudjangandi-wuya Dabdaba-warr 
+00:03:26.463	206.463	00:03:28.434	208.434	00:00:01.971	1.971	Wu-loyirri Dabdaba
+00:03:30.636	210.636	00:03:37.318	217.318	00:00:06.682	6.682	Nanawunyin Flora River and Heywood Creek him run
+00:03:39.695	219.695	00:03:40.782	220.782	00:00:01.087	1.087	Wurdambu-wa
+00:03:42.434	222.434	00:03:46.390	226.39	00:00:03.956	3.956	Jarnarraya jarnarraya wu-loyiyn.ga
+00:03:47.144	227.144	00:03:50.781	230.781	00:00:03.637	3.637	Nanba-wan mulb wurranggi dawurlan ganggarlan-ma
+00:03:51.666	231.666	00:03:52.970	232.97	00:00:01.304	1.304	Nanawunyin Jerren
+00:03:54.072	234.072	00:03:55.608	235.608	00:00:01.536	1.536	Ngamandagan goyin
+00:04:00.999	240.999	00:04:05.536	245.536	00:00:04.537	4.537	Nanawunyin goyin where Sugarbag Creek they callim
+00:04:07.847	247.847	00:04:15.241	255.241	00:00:07.394	7.394	Ngamandagan walngin-gu goyin-gu yigoyin yurrba yawudjingin dalalama 
+00:04:16.454	256.454	00:04:20.908	260.908	00:00:04.454	4.454	Yanima yawudjingin barlba 
+00:04:28.515	268.515	00:04:30.939	270.939	00:00:02.424	2.424	Whitefella been callim Sugarbag Creek
+00:04:31.574	271.574	00:04:35.877	275.877	00:00:04.303	4.303	FM: ngamanda dalalaman yawudjingin yumin
+00:04:36.060	276.06	00:04:37.060	277.06	00:00:01.000	1.0	yimunburra
+00:04:37.726	277.726	00:04:44.423	284.423	00:00:06.697	6.697	Yimunburra bigone bigone one side longlong ya-jingin
+00:04:44.635	284.635	00:04:48.756	288.756	00:00:04.121	4.121	Nanba-wan wudjangandi Bulanin-ba bow Wurr-wendi 
+00:04:57.332	297.332	00:05:05.817	305.817	00:00:08.485	8.485	Nanba-wan ganggarlan wurranggi Jerren Jerrenba wurranggi nanawunyin  
+00:05:05.878	305.878	00:05:10.484	310.484	00:00:04.606	4.606	nanawunyin ngamandagan Gandawag I been forget  ?
+00:05:10.544	310.544	00:05:14.302	314.302	00:00:03.758	3.758	Gandawag dan-ba yayn.ga dawurlan ngegbarri
+00:05:16.151	316.151	00:05:23.787	323.787	00:00:07.636	7.636	Danawunyin onefella ? Waterbag Junction and Flora
+00:05:24.272	324.272	00:05:28.726	328.726	00:00:04.454	4.454	Nanyawan jingindi Gandawag
+00:05:29.241	329.241	00:05:31.453	331.453	00:00:02.212	2.212	 Poisonim wurr-yanarri garnmarnmalin-barra
+00:05:32.726	332.726	00:05:35.605	335.605	00:00:02.879	2.879	Gota cheeky yan
+00:05:36.847	336.847	00:05:40.786	340.786	00:00:03.939	3.939	And from there madin wurr-gelewurri go damirlan 
+00:05:40.939	340.939	00:05:46.211	346.211	00:00:05.272	5.272	He been break the law, modba bundi laglan 
+00:05:47.696	347.696	00:05:50.606	350.606	00:00:02.910	2.91	Wudjingindi-wan gurruyawan yiwol wu-darri
+00:05:51.514	351.514	00:05:58.545	358.545	00:00:07.031	7.031	Hey! Ngamanda-warda danani o! Yiwol ya-nyangan yanima
+00:05:58.727	358.727	00:06:00.242	360.242	00:00:01.515	1.515	New moon now gandawag
+00:06:00.848	360.848	00:06:05.424	365.424	00:00:04.576	4.576	O! Gandawag nyangandi lurrbu na
+00:06:06.030	366.03	00:06:08.424	368.424	00:00:02.394	2.394	Ya-jingiyan yibi
+00:06:08.756	368.756	00:06:11.878	371.878	00:00:03.122	3.122	*Jingiyn.ga ....gandawag  all the way
+00:06:12.030	372.03	00:06:19.000	379.0	00:00:06.970	6.97	Yawudjingin Yingawuyu-mulu yurrba yawudjingin go jumba gandawag-ja nana jumba-wa
+00:06:20.241	380.241	00:06:26.878	386.878	00:00:06.637	6.637	Nanba-wan galma wurranggi jabalawarna-ya 
+00:06:28.454	388.454	00:06:30.999	390.999	00:00:02.545	2.545	Ya, jabalawarna-ya wudjingindiya birliwirlib
+00:06:31.999	391.999	00:06:37.757	397.757	00:00:05.758	5.758	Wiyan yanjaga burrngburrngma bambung Barrwarlan Beyerlen-garr 
+00:06:38.545	398.545	00:06:44.120	404.12	00:00:05.575	5.575	Wiyan ya-nyangan bulma mobonyi wurrwurrma jarrang
+00:06:44.666	404.666	00:06:48.787	408.787	00:00:04.121	4.121	?garnawunya lurrbu ya-yan.ga wiyan dirib 
+00:06:51.302	411.302	00:07:00.545	420.545	00:00:09.243	9.243	Warrigbengbi nanawunyin Dawurlanma nanyawunyin garnbayn-ya Palm Creek
+00:07:05.818	425.818	00:07:07.030	427.03	00:00:01.212	1.212	FM: Flora yirrgulun
+00:07:07.181	427.181	00:07:10.424	430.424	00:00:03.243	3.243	Yeah dawurlan yirrgulun yanja Ted Morris-garr
+00:07:12.333	432.333	00:07:15.787	435.787	00:00:03.454	3.454	Gurruyawan lurrbu wurranggi yingyi wurr-gindiya, wurranggiya gajigaji
+00:07:16.424	436.424	00:07:18.606	438.606	00:00:02.182	2.182	Yanima-garra ngarrwun-gomarlan marluga-wuya wurr-yanarri
+00:07:19.605	439.605	00:07:27.272	447.272	00:00:07.667	7.667	Wurrgomarlarriya-wuya gunudjarri ngamandagan gunudjarri black-headed python
+00:07:27.393	447.393	00:07:41.999	461.999	00:00:14.606	14.606	Yiwarnagari...eniwe nan-guya wurranggi danyawunyin yijogorl-ya
+00:07:46.999	466.999	00:07:49.150	469.15	00:00:02.151	2.151	Yijogorlya-wa dawurlan wurranggi 
+00:07:54.393	474.393	00:07:58.696	478.696	00:00:04.303	4.303	Him gota firestick -wuya gandiya merleng yijaga-ya
+00:08:00.151	480.151	00:08:05.302	485.302	00:00:05.151	5.151	Marluga-yi na  gurruyawan narrng weyn.ga yimunburra-ya
+00:08:05.363	485.363	00:08:10.847	490.847	00:00:05.484	5.484	Jingindiya gaygba jingindiya ngawun eee digirrij yanggi
+00:08:11.180	491.18	00:08:19.362	499.362	00:00:08.182	8.182	Digirrij yayn.ga-warra yaningbarra nana-wunyin na yimeleman jingiyn.ga yibam thatun na quiet snake 
+00:08:20.939	500.939	00:08:28.151	508.151	00:00:07.212	7.212	Black-headed python ya-gin whitefella-yi, yeah black-headed python

@@ -1,0 +1,44 @@
+00:00:03.750	3.75	00:00:06.860	6.86	00:00:03.110	3.11	I’ll try to talk to you again 
+00:00:07.380	7.38	00:00:09.980	9.98	00:00:02.600	2.6	I’m talking, me 
+00:00:12.180	12.18	00:00:13.700	13.7	00:00:01.520	1.52	About my father
+00:00:14.370	14.37	00:00:17.010	17.01	00:00:02.640	2.64	How he acted towards us
+00:00:17.960	17.96	00:00:23.770	23.77	00:00:05.810	5.81	He didn’t send us to others to sleep (live), no
+00:00:24.340	24.34	00:00:30.530	30.53	00:00:06.190	6.19	We didn’t go sit down asking the old ladies and old men, no
+00:00:31.460	31.46	00:00:33.790	33.79	00:00:02.330	2.33	He told us, you stay in one place
+00:00:34.396	34.396	00:00:41.810	41.81	00:00:07.414	7.414	With your grandfather, your grandmother and your mother, you stay
+00:00:42.706	42.706	00:00:49.137	49.137	00:00:06.431	6.431	I’ll hit you, you don’t give cheek to them, no
+00:00:49.188	49.188	00:00:50.343	50.343	00:00:01.155	1.155	You look after them quietly
+00:00:51.862	51.862	00:00:55.741	55.741	00:00:03.879	3.879	Whatsit, you get wáter for them, you get wood for them
+00:00:56.913	56.913	00:01:00.120	60.12	00:00:03.207	3.207	You give them tucker
+00:01:00.748	60.748	00:01:06.041	66.041	00:00:05.293	5.293	My father worked there in the yard
+00:01:06.368	66.368	00:01:08.299	68.299	00:00:01.931	1.931	He had two others
+00:01:08.738	68.738	00:01:09.979	69.979	00:00:01.241	1.241	My two brothers
+00:01:10.758	70.758	00:01:16.327	76.327	00:00:05.569	5.569	My two brothers were on horseback
+00:01:17.344	77.344	00:01:27.637	87.637	00:00:10.293	10.293	My father took them on horseback to muster up animals 
+00:01:28.879	88.879	00:01:31.258	91.258	00:00:02.379	2.379	My father was a horsetailer
+00:01:31.455	91.455	00:01:36.318	96.318	00:00:04.863	4.863	Maybe he was headstockman, whites gave (this job) to him
+00:01:38.758	98.758	00:01:42.879	102.879	00:00:04.121	4.121	He came home, ate
+00:01:44.258	104.258	00:01:50.914	110.914	00:00:06.656	6.656	They said to me, he said to me, Let’s go now, to your cousins
+00:01:51.965	111.965	00:01:54.155	114.155	00:00:02.190	2.19	Gin.gina and Ngabiji, you go to those two
+00:01:55.621	115.621	00:02:03.086	123.086	00:00:07.465	7.465	Leave your mother to these two [i.e., make room for them]
+00:02:04.723	124.723	00:02:06.896	126.896	00:00:02.173	2.173	Your two brothers
+00:02:08.430	128.43	00:02:20.672	140.672	00:00:12.242	12.242	You go stay with your mother, mother here and father and my old lady grandmother Yidorog 
+00:02:21.666	141.666	00:02:30.727	150.727	00:00:09.061	9.061	I went to stay with her, my grandmother, I went to my grandfather
+00:02:38.485	158.485	00:02:41.757	161.757	00:00:03.272	3.272	I didn’t go just anywhere, no
+00:02:43.212	163.212	00:02:53.424	173.424	00:00:10.212	10.212	Then my father’d say to me, Let’s go foraging now
+00:02:55.151	175.151	00:03:06.302	186.302	00:00:11.151	11.151	Foraging for what, for goann, he took those two my brothers
+00:03:07.091	187.091	00:03:14.909	194.909	00:00:07.818	7.818	For goanna, for echidna, for kangaroo
+00:03:15.651	195.651	00:03:16.500	196.5	00:00:00.849	0.849	They killed them
+00:03:17.665	197.665	00:03:19.090	199.09	00:00:01.425	1.425	They brought them to us
+00:03:20.483	200.483	00:03:25.937	205.937	00:00:05.454	5.454	Old man made a fire, grandfather, for us, in the ground over
+00:03:27.679	207.679	00:03:29.013	209.013	00:00:01.334	1.334	They cooked, covered up
+00:03:30.421	210.421	00:03:34.876	214.876	00:00:04.455	4.455	Then he called out to me
+00:03:35.451	215.451	00:03:38.572	218.572	00:00:03.121	3.121	I didn’t rush out to them, no
+00:03:39.238	219.238	00:03:41.601	221.601	00:00:02.363	2.363	I left them, I stayed in one place
+00:03:43.040	223.04	00:03:46.040	226.04	00:00:03.000	3.0	Try going to meat, I said
+00:03:47.221	227.221	00:03:48.787	228.787	00:00:01.566	1.566	My father might hit me
+00:03:49.667	229.667	00:03:50.848	230.848	00:00:01.181	1.181	I can’t rush out
+00:03:52.008	232.008	00:03:53.524	233.524	00:00:01.516	1.516	He called out to me himself
+00:03:54.726	234.726	00:04:01.635	241.635	00:00:06.909	6.909	Go look about meat, where’s that child, he said to me
+00:04:02.255	242.255	00:04:04.467	244.467	00:00:02.212	2.212	I went to him, picked up the meat
+00:04:05.103	245.103	00:04:07.103	247.103	00:00:02.000	2.0	Take it back now

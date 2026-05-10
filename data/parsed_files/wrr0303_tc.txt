@@ -1,0 +1,37 @@
+00:00:03.250	3.25	00:00:05.880	5.88	00:00:02.630	2.63	Yiwarnagari madin girr nga-gandi go
+00:00:09.850	9.85	00:00:12.860	12.86	00:00:03.010	3.01	Yidjingindi-wuya marluga-wuya
+00:00:13.120	13.12	00:00:16.120	16.12	00:00:03.000	3.0	Yijad na nga-nayirri ngabulu
+00:00:17.181	17.181	00:00:25.454	25.454	00:00:08.273	8.273	Yigeyu gunga dagbarlarriya na yingawa go marluga-yi Pine Creek-ja yinggangala
+00:00:27.908	27.908	00:00:31.090	31.09	00:00:03.182	3.182	One girl dagbarlarri Pine Creek
+00:00:31.840	31.84	00:00:41.886	41.886	00:00:10.046	10.046	Arayt yanarri go nganja na Pine Creek-garr yanarri ngunung nana marluga Domawug go yibiwi
+00:00:43.227	43.227	00:00:56.408	56.408	00:00:13.181	13.181	Wonggo yingani-waja nganjigbe lambarra Pine Creek-garr ngana-yu yijamuyn-gari danani yayungga Pine Creek-ja, yanarri gunga
+00:00:57.113	57.113	00:01:03.386	63.386	00:00:06.273	6.273	Yimarnayn-yi bundiya toomuchi ngamanda-warang wiya-warang-nyi
+00:01:04.318	64.318	00:01:13.477	73.477	00:00:09.159	9.159	Yanarri go yibiwi ngunung, yawe ga dana wurren too ga nunja-wuya, wonggo yini-waja
+00:01:16.613	76.613	00:01:25.500	85.5	00:00:08.887	8.887	Nungguru-wan yanarri go yanarri go yibiwi ngunung wonggo yini-waja yarrulan dang-mulu yijordjordin
+00:01:26.272	86.272	00:01:28.522	88.522	00:00:02.250	2.25	Ngawurnen here yarrulan
+00:01:30.147	90.147	00:01:36.351	96.351	00:00:06.204	6.204	Nganinggin yibiwi ngan-gelewurri Pine Creek-garr 
+00:01:36.518	96.518	00:01:44.759	104.759	00:00:08.241	8.241	Yidjingindiya-wuya guyamin murrgun week go look yinggangala
+00:01:48.425	108.425	00:01:56.407	116.407	00:00:07.982	7.982	Yibiwi ngunung ngan-gelewurri gunga nunja-wuya gomarla yimarnayn yinggi, wonggo yini-jingin dan-ya
+00:01:58.444	118.444	00:02:04.277	124.277	00:00:05.833	5.833	Ngan-gelewurri yidjingindi-wuya langa nangala na Pine Creek
+00:02:05.000	125.0	00:02:10.148	130.148	00:00:05.148	5.148	Yirranggi-wuya train-barra, nanba-wan lurrbu yidjangandi
+00:02:17.258	137.258	00:02:25.888	145.888	00:00:08.630	8.63	Train-barra yirranggi-wuya yawe, ngan-gandi yidjingindi-wuya la nangala ngorlogba
+00:02:26.537	146.537	00:02:33.555	153.555	00:00:07.018	7.018	A yirr-ya-wan lurrbu yilamagan yi-nyangayan anytime-biji
+00:02:34.333	154.333	00:02:37.147	157.147	00:00:02.814	2.814	Yanarri go dana na bangbun nganburr-wondi mami yinggi yanarri go 
+00:02:37.481	157.481	00:02:41.777	161.777	00:00:04.296	4.296	Ali? Yanarri go
+00:02:42.136	162.136	00:03:02.545	182.545	00:00:20.409	20.409	Nganjagi lurrbu manbulloo-warr haveim wurren then, yawe, before that yibiyan been ngamandagan julumab
+00:03:02.954	182.954	00:03:10.681	190.681	00:00:07.727	7.727	Yana go wurre-wu ngani-ni ngunung layin mayin, ngawun, ga wonggo ngan-wojbarnan
+00:03:10.909	190.909	00:03:17.500	197.5	00:00:06.591	6.591	Well ngayiynja-wuya wuja-wu gandi-wan wuja-wu na
+00:03:17.909	197.909	00:03:27.682	207.682	00:00:09.773	9.773	Ngayiynja gala nganinggin-malang wuja-wu, nganja, wurranggi-wuya na, wurranggi-wuya wuja-wu
+00:03:28.181	208.181	00:03:36.272	216.272	00:00:08.091	8.091	Marluga nana dembu yanggi wuja-wu, moticar diwdiw wudbarriya
+00:03:36.772	216.772	00:03:40.409	220.409	00:00:03.637	3.637	Yibiyan-mala(ng?) yanggiya yumin-ya galul
+00:03:42.675	222.675	00:03:50.750	230.75	00:00:08.075	8.075	Wojbarnarriya  marluga July him reckon
+00:03:52.875	232.875	00:03:55.950	235.95	00:00:03.075	3.075	Ngamanda dana ngawulug-ji ye-ngegen yanarri
+00:03:56.450	236.45	00:04:00.900	240.9	00:00:04.450	4.45	He been lookim yum-nya denberr jingiyn.ga
+00:04:00.950	240.95	00:04:05.250	245.25	00:00:04.300	4.3	Ngalaga walanja denberr gindi yanarri go him reckon that marluga
+00:04:06.025	246.025	00:04:09.375	249.375	00:00:03.350	3.35	Ngalaga ngawulug walanja denberr wurr-gindi
+00:04:10.100	250.1	00:04:16.750	256.75	00:00:06.650	6.65	Ngamandagan girrb jingindiya nyengnyengma jingindiya 
+00:04:17.688	257.688	00:04:23.338	263.338	00:00:05.650	5.65	Werreynburri yilamagan ngamanda-warda yanarri wurrugu
+00:04:23.450	263.45	00:04:26.000	266.0	00:00:02.550	2.55	Yilamagan yinyang na yimburr-werreynburri 
+00:04:29.500	269.5	00:04:36.275	276.275	00:00:06.775	6.775	No wonggo yanima-garra wonggo yi-nayana ngunung, wonggo yanima-ma-garra yina-yana yanarri nana marluga
+00:04:38.175	278.175	00:04:45.175	285.175	00:00:07.000	7.0	Yinyang na yi-nyangan jajali ngunung nga-yanarri wurrugu Well, yilgbayi-wan nganja-wan he been talk that marluga
+00:04:46.013	286.013	00:04:47.188	287.188	00:00:01.175	1.175	yilgbayiwan

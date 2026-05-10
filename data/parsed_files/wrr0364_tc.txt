@@ -1,0 +1,18 @@
+00:00:00.980	0.98	00:00:04.380	4.38	00:00:03.400	3.4	Ngarrya gilibi-wu ngarr-me	
+00:00:04.629	4.629	00:00:07.693	7.693	00:00:03.064	3.064	Yirranggi yirr-mendiya wurr-mendiya gilibi na
+00:00:08.548	8.548	00:00:13.354	13.354	00:00:04.806	4.806	Yin.gunburr-gandiya guramana-wu gilibi-wu and goyin-gu
+00:00:17.402	17.402	00:00:19.386	19.386	00:00:01.984	1.984	Goyin yirr-mendiya 
+00:00:19.806	19.806	00:00:22.161	22.161	00:00:02.355	2.355	Wurr-gindiya yibumbu-ya 	
+00:00:22.241	22.241	00:00:24.306	24.306	00:00:02.065	2.065	FM: wu-dagbalarriya barndan or axe	
+00:00:24.596	24.596	00:00:26.209	26.209	00:00:01.613	1.613	Barndan	
+00:00:30.080	30.08	00:00:31.741	31.741	00:00:01.661	1.661	wu-lumarriya na goyin	
+00:00:31.854	31.854	00:00:34.773	34.773	00:00:02.919	2.919	Dogdog wurr-gindiya yirrugu yibumbu-ya na     
+00:00:35.532	35.532	00:00:38.064	38.064	00:00:02.532	2.532	Fruit tin ngadagbarlarriya	ngayugji
+00:00:38.323	38.323	00:00:40.984	40.984	00:00:02.661	2.661	Wurr-gindiya ngunung goyin
+00:00:41.322	41.322	00:00:43.742	43.742	00:00:02.420	2.42	Nana yinggawun gaya ngayi-nyja lurrbu	
+00:00:44.338	44.338	00:00:46.806	46.806	00:00:02.468	2.468	Yiguyu-warr yinggi wurr-yanarriya nganu
+00:00:48.031	48.031	00:00:50.983	50.983	00:00:02.952	2.952	Yilgbayi nganburr-gandiya bogogo	Yilgbayi nganburr-gandiya bogogo	
+00:00:55.774	55.774	00:00:59.258	59.258	00:00:03.484	3.484	? Nga-gomarlarriya yiguyu-ngunung house-garr 
+00:01:00.597	60.597	00:01:01.758	61.758	00:00:01.161	1.161	Work yanarriyaw
+00:01:01.854	61.854	00:01:03.693	63.693	00:00:01.839	1.839	Nga-jingindiya golma yanimayi	
+00:01:04.581	64.581	00:01:05.629	65.629	00:00:01.048	1.048	Kitchen-ya

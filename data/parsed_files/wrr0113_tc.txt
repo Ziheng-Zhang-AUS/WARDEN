@@ -1,0 +1,334 @@
+00:00:05.289	5.289	00:00:07.811	7.811	00:00:02.522	2.522	Nganbudirri na Manbulloo-warr yidjangandi
+00:00:07.992	7.992	00:00:08.268	8.268	00:00:00.276	0.276	Mulb
+00:00:09.116	9.116	00:00:10.594	10.594	00:00:01.478	1.478	Marlarluga mululurru 
+00:00:12.130	12.13	00:00:14.651	14.651	00:00:02.521	2.521	Muymuy-wa yidjangandi yirrug-giji
+00:00:15.615	15.615	00:00:16.122	16.122	00:00:00.507	0.507	Mulb
+00:00:17.290	17.29	00:00:23.087	23.087	00:00:05.797	5.797	yirrundarri yijarlo Marlarluga darni wudjingindiya jaburru  Manbulloo-ya
+00:00:24.440	24.44	00:00:28.940	28.94	00:00:04.500	4.5	Yidjangandiiii dan-garr yin.gunburrgindi wululu
+00:00:29.790	29.79	00:00:30.380	30.38	00:00:00.590	0.59	Mernde-yi
+00:00:31.369	31.369	00:00:34.892	34.892	00:00:03.523	3.523	Dan-ya nujingi, nurrugun.gin nurrugu laglan
+00:00:36.165	36.165	00:00:40.046	40.046	00:00:03.881	3.881	toomuchi Mernde-yi ya-gan nana na laglan muymuy
+00:00:41.440	41.44	00:00:47.253	47.253	00:00:05.813	5.813	Mernde-yi mendi wurr-yanarri lafta nunja gudani-warda
+00:00:49.575	49.575	00:00:51.185	51.185	00:00:01.610	1.61	Yidjingindiya Manbulloo-ya na
+00:00:52.677	52.677	00:00:55.355	55.355	00:00:02.678	2.678	Yidjingindiyaaa wudirriya  marluga lurrbuyi
+00:00:56.168	56.168	00:01:05.575	65.575	00:00:09.407	9.407	Bardigi watermelon rockmelon and ngamandagan Pumpkin wayana 
+00:01:06.321	66.321	00:01:08.423	68.423	00:00:02.102	2.102	Wudirriya yirrugu lun-mala
+00:01:10.592	70.592	00:01:15.761	75.761	00:00:05.169	5.169	Yibiwi-ngunung ngulu narri na marluga gila yimarnayn-ngunung
+00:01:18.762	78.762	00:01:23.118	83.118	00:00:04.356	4.356	Aaa lambarra yanarri go
+00:01:25.219	85.219	00:01:26.202	86.202	00:00:00.983	0.983	 ngamandagan
+00:01:28.219	88.219	00:01:31.626	91.626	00:00:03.407	3.407	Jabija yinggi whatsaname wuwarlam yanarri go
+00:01:31.745	91.745	00:01:32.271	92.271	00:00:00.526	0.526	Yawe
+00:01:34.338	94.338	00:01:37.388	97.388	00:00:03.050	3.05	Well nyanga  go na dan-garr
+00:01:38.355	98.355	00:01:42.135	102.135	00:00:03.780	3.78	Ngangwon yinggi nganinggin wurren nga-gi-yan yinggi
+00:01:43.016	103.016	00:01:45.168	105.168	00:00:02.152	2.152	yigurrul toomuchi ya-nayin dan-ya na
+00:01:45.897	105.897	00:01:47.491	107.491	00:00:01.594	1.594	Ngulungulu na yayiwuda
+00:01:48.779	108.779	00:01:50.694	110.694	00:00:01.915	1.915	Yarrban-yi-mala
+00:01:51.745	111.745	00:01:54.728	114.728	00:00:02.983	2.983	Yarrulan toomuchi yawudjingin ngawurnen dan-ya
+00:01:56.473	116.473	00:01:58.151	118.151	00:00:01.678	1.678	Marluga-ya ngan-gindi na
+00:01:58.592	118.592	00:02:02.677	122.677	00:00:04.085	4.085	Marluga duba nganingin-garr yibiwi-warr nyangandi 
+00:02:03.152	123.152	00:02:04.932	124.932	00:00:01.780	1.78	Wudjingindiya-wuya na ngorlogba
+00:02:05.965	125.965	00:02:07.152	127.152	00:00:01.187	1.187	Yanarri gunga
+00:02:08.202	128.202	00:02:09.338	129.338	00:00:01.136	1.136	Gaygbarri ngunung
+00:02:09.491	129.491	00:02:11.575	131.575	00:00:02.084	2.084	 Nyanga go duba-warr nan-garr 	
+00:02:12.288	132.288	00:02:14.474	134.474	00:00:02.186	2.186	Ngamandaga-warr murag-garr
+00:02:14.796	134.796	00:02:17.135	137.135	00:00:02.339	2.339	Nganjagi go duba ngajingindi go marluga-ya
+00:02:17.965	137.965	00:02:21.948	141.948	00:00:03.983	3.983	Ngamanda-warda nganinggin-gu dan-garr marluga-warr nganu 
+00:02:22.626	142.626	00:02:25.897	145.897	00:00:03.271	3.271	Nananu na yimarnayn yinggi 
+00:02:26.812	146.812	00:02:29.168	149.168	00:00:02.356	2.356	yimbudagbarla-wa na marluga-yi 
+00:02:30.168	150.168	00:02:32.931	152.931	00:00:02.763	2.763	wonggo ngulungulu yinuwundan dan.ganud yarrulan 
+00:02:33.718	153.718	00:02:34.752	154.752	00:00:01.034	1.034	menyin-berreng
+00:02:36.405	156.405	00:02:37.660	157.66	00:00:01.255	1.255	ali yilgbayi
+00:02:37.847	157.847	00:02:38.728	158.728	00:00:00.881	0.881	menyin-berreng.
+00:02:38.745	158.745	00:02:39.508	159.508	00:00:00.763	0.763	Yawe.
+00:02:41.525	161.525	00:02:44.118	164.118	00:00:02.593	2.593	Nga-yanarri go yilgbayi nga-jingin go marluga-ya
+00:02:44.626	164.626	00:02:46.203	166.203	00:00:01.577	1.577	yirranggiyawuya barrwa
+00:02:46.372	166.372	00:02:49.982	169.982	00:00:03.610	3.61	jabalawarna-ya yidjingindi-wuya bornborn
+00:02:50.287	170.287	00:02:53.982	173.982	00:00:03.695	3.695	yiwalng yirrbundiya-wuya ngabundiya go yiwalng  nganinggin
+00:02:54.812	174.812	00:02:57.066	177.066	00:00:02.254	2.254	jiyl jiyl nga-mendiya barlawarlarr nga-gindiya
+00:02:57.236	177.236	00:02:59.965	179.965	00:00:02.729	2.729	yirranggiya-wuya bush-garr 
+00:03:02.083	182.083	00:03:04.355	184.355	00:00:02.272	2.272	yidjingindiya-wuya nan-beng mugurn
+00:03:06.271	186.271	00:03:08.593	188.593	00:00:02.322	2.322	yibiwi-ngunung jingindiya warljub
+00:03:09.237	189.237	00:03:14.406	194.406	00:00:05.169	5.169	yirrugu marluga-wuya yidjingindiya ngamandagan veranda-ya mugurn
+00:03:16.491	196.491	00:03:21.304	201.304	00:00:04.813	4.813	yidjingindiyaaa.. nirriya yirrugu
+00:03:21.660	201.66	00:03:24.762	204.762	00:00:03.102	3.102	nganja na yirr-me-we bardigi
+00:03:24.830	204.83	00:03:27.898	207.898	00:00:03.068	3.068	Marlarluga wurranggiya beyerlen-ma 
+00:03:28.118	208.118	00:03:30.829	210.829	00:00:02.711	2.711	Wurrmendiya bardigi garrbgarrb
+00:03:32.423	212.423	00:03:33.474	213.474	00:00:01.051	1.051	Farm-ya
+00:03:33.914	213.914	00:03:36.558	216.558	00:00:02.644	2.644	Wurrmendiya garrb-garrb potato
+00:03:36.677	216.677	00:03:38.304	218.304	00:00:01.627	1.627	Ngamandagan bardigi
+00:03:39.762	219.762	00:03:46.830	226.83	00:00:07.068	7.068	Ngamandagan pumpkin wayana Wurr-mendiya  watermelon
+00:03:47.219	227.219	00:03:49.406	229.406	00:00:02.187	2.187	wudirriya yirrugu  lun
+00:03:53.728	233.728	00:03:55.847	235.847	00:00:02.119	2.119	Wonggo yininyja warawad na marluga
+00:03:55.864	235.864	00:03:56.728	236.728	00:00:00.864	0.864	Lambarra-ngunung
+00:03:57.287	237.287	00:03:59.287	239.287	00:00:02.000	2.0	Jingi go dan-ya na lege-weng
+00:04:00.321	240.321	00:04:03.185	243.185	00:00:02.864	2.864	Nganjigbe toomuchi damirlan mernde-yi waray ngan-gan
+00:04:03.931	243.931	00:04:05.728	245.728	00:00:01.797	1.797	Wurg nga-yana go mernde-wu
+00:04:06.728	246.728	00:04:09.219	249.219	00:00:02.491	2.491	marluga siddown duba there now
+00:04:09.694	249.694	00:04:11.321	251.321	00:00:01.627	1.627	yidjingindi-wuya lege-weng
+00:04:15.236	255.236	00:04:18.032	258.032	00:00:02.796	2.796	Yin.gun-wajarri na yibiwi-yi ngunung
+00:04:18.355	258.355	00:04:20.813	260.813	00:00:02.458	2.458	Yiguyu-ngunung-biji nga-dagbalarriya
+00:04:22.626	262.626	00:04:24.728	264.728	00:00:02.102	2.102	 Nga-jingindiya go nan-gu marluga-wu
+00:04:25.423	265.423	00:04:28.338	268.338	00:00:02.915	2.915	 Ngamanda-warda girr gandiya marluga-yi
+00:04:28.694	268.694	00:04:31.355	271.355	00:00:02.661	2.661	Nganjigbe lurrbu na dawurlan ganggarlan-ma
+00:04:33.762	273.762	00:04:34.863	274.863	00:00:01.101	1.101	Ngamandaga-yi 
+00:04:35.931	275.931	00:04:39.321	279.321	00:00:03.390	3.39	Fremantle farm, yanarri ngunung
+00:04:40.847	280.847	00:04:43.237	283.237	00:00:02.390	2.39	Ngangwaja na, nga-nyangan gurruya
+00:04:43.830	283.83	00:04:45.728	285.728	00:00:01.898	1.898	Yanggi na dawurlan-ma ganggarlan-ma
+00:04:48.541	288.541	00:04:51.965	291.965	00:00:03.424	3.424	Warlad na jingindi nana marluga
+00:04:53.305	293.305	00:04:54.881	294.881	00:00:01.576	1.576	Warlad jingindi 
+00:04:58.372	298.372	00:05:00.711	300.711	00:00:02.339	2.339	ngamanda go wuwarlam?
+00:05:06.897	306.897	00:05:07.677	307.677	00:00:00.780	0.78	Jabija
+00:05:13.592	313.592	00:05:14.626	314.626	00:00:01.034	1.034	Him warlad na
+00:05:18.830	318.83	00:05:19.898	319.898	00:00:01.068	1.068	nana marluga
+00:05:22.490	322.49	00:05:26.558	326.558	00:00:04.068	4.068	Yidjingindiya… lusim meyirri
+00:05:27.745	327.745	00:05:31.355	331.355	00:00:03.610	3.61	Wonggo wurr-yanarri yirrugu
+00:05:31.397	331.397	00:05:32.465	332.465	00:00:01.068	1.068	Marluga-wu nan-gu
+00:05:33.694	333.694	00:05:36.864	336.864	00:00:03.170	3.17	Gurruya-biji bubuyma yin.gunburrwondi madin 
+00:05:37.626	337.626	00:05:40.066	340.066	00:00:02.440	2.44	Marluga-wan lusim meyirri
+00:05:41.490	341.49	00:05:45.965	345.965	00:00:04.475	4.475	Yidjingindiya lurleglurle gunga marluga-wu
+00:05:49.202	349.202	00:05:51.694	351.694	00:00:02.492	2.492	Thatun wurg ngayanarri yaningbarra
+00:05:52.593	352.593	00:05:58.881	358.881	00:00:06.288	6.288	Ngawungomarlarriya mululurru wurg-garr laundry-warr	
+00:06:00.151	360.151	00:06:01.541	361.541	00:00:01.390	1.39	Wurg nga-yanarriya
+00:06:02.627	362.627	00:06:07.915	367.915	00:00:05.288	5.288	Wurranggiya ngamandagan house-garr ngawun-gomarlarriya
+00:06:09.609	369.609	00:06:10.915	370.915	00:00:01.306	1.306	Yijad na nganayirri
+00:06:11.829	371.829	00:06:13.982	373.982	00:00:02.153	2.153	Yiwarnagari marluga na ngulu narri ngunung
+00:06:16.881	376.881	00:06:18.999	378.999	00:00:02.118	2.118	Yiwarnagari marluga ngulu yanarri ngunung
+00:06:19.762	379.762	00:06:24.576	384.576	00:00:04.814	4.814	nyangayn.ga Borroloola-wa nana marluga ngulu narri nganung 
+00:06:25.677	385.677	00:06:27.169	387.169	00:00:01.492	1.492	Dana nu-jingi-wuya na
+00:06:28.440	388.44	00:06:29.796	389.796	00:00:01.356	1.356	Yiwarnagari marluga
+00:06:30.592	390.592	00:06:31.864	391.864	00:00:01.272	1.272	Lambarra ngunung
+00:06:32.728	392.728	00:06:34.135	394.135	00:00:01.407	1.407	Yanarri ngunung dadi
+00:06:35.457	395.457	00:06:37.982	397.982	00:00:02.525	2.525	Yibiwi-yi ngunung
+00:06:38.559	398.559	00:06:43.694	403.694	00:00:05.135	5.135	Yanarri ngunung wonggo yiniwaja barigbarig-mala Nana marluga nu-jingi-wuya 
+00:06:44.982	404.982	00:06:47.033	407.033	00:00:02.051	2.051	Nga-jingindi na go
+00:06:47.423	407.423	00:06:49.067	409.067	00:00:01.644	1.644	 Jandangbi na nan-ya marluga-ya
+00:06:50.168	410.168	00:06:51.694	411.694	00:00:01.526	1.526	 Wurren birdij nganarri
+00:06:52.999	412.999	00:06:54.151	414.151	00:00:01.152	1.152	 Nganinggin wurren
+00:06:58.134	418.134	00:06:59.151	419.151	00:00:01.017	1.017	Domawug
+00:07:00.677	420.677	00:07:01.778	421.778	00:00:01.101	1.101	Birdij nga-narri 
+00:07:01.931	421.931	00:07:03.321	423.321	00:00:01.390	1.39	Domawug Christine.
+00:07:03.355	423.355	00:07:03.948	423.948	00:00:00.593	0.593	Yawe.
+00:07:05.084	425.084	00:07:06.507	426.507	00:00:01.423	1.423	Yidjingindiwuyaa…
+00:07:08.440	428.44	00:07:09.660	429.66	00:00:01.220	1.22	 Ngan-gandi hospital
+00:07:11.846	431.846	00:07:13.643	433.643	00:00:01.797	1.797	wudu mangali nga-dagbarlarri
+00:07:16.508	436.508	00:07:17.779	437.779	00:00:01.271	1.271	 Yingawa ngunung
+00:07:19.101	439.101	00:07:20.016	440.016	00:00:00.915	0.915	Nanbawan
+00:07:23.592	443.592	00:07:26.592	446.592	00:00:03.000	3.0	Nga-nyangandi lurrbu wurre-warang nga-dagbarlarriya
+00:07:27.016	447.016	00:07:27.864	447.864	00:00:00.848	0.848	Manbulloo-warr?
+00:07:27.881	447.881	00:07:28.745	448.745	00:00:00.864	0.864	na manbulloo-warr
+00:07:30.745	450.745	00:07:35.017	455.017	00:00:04.272	4.272	Yaningbarra wudjangandiya gabarri Yijarlo yibiyan
+00:07:35.711	455.711	00:07:38.558	458.558	00:00:02.847	2.847	Delamere-wa-wan mub na wurr-yanarri 
+00:07:38.881	458.881	00:07:41.152	461.152	00:00:02.271	2.271	Wudjangandi Delamere-wa
+00:07:42.576	462.576	00:07:43.830	463.83	00:00:01.254	1.254	Marluga jabuj ngunung
+00:07:45.677	465.677	00:07:46.627	466.627	00:00:00.950	0.95	Derderde ngunung
+00:07:47.457	467.457	00:07:50.694	470.694	00:00:03.237	3.237	Yilamagan mulurru lusim meyirri Darlunggag marluga
+00:07:52.253	472.253	00:07:53.135	473.135	00:00:00.882	0.882	Nyangandi
+00:07:53.542	473.542	00:07:57.745	477.745	00:00:04.203	4.203	Gin.gina twofella ngabijiji been there yidjingindi
+00:07:58.813	478.813	00:08:02.440	482.44	00:00:03.627	3.627	Nan-beng warrb yin.gunburrwajarri
+00:08:04.440	484.44	00:08:08.914	488.914	00:00:04.474	4.474	Nan-beng warrb yin.gunburrwajarri
+00:08:09.948	489.948	00:08:13.965	493.965	00:00:04.017	4.017	Yaningbarra wurrngundiya wiyan na wiyan
+00:08:16.083	496.083	00:08:18.049	498.049	00:00:01.966	1.966	Wurranggiya town-garr y know
+00:08:19.016	499.016	00:08:20.779	500.779	00:00:01.763	1.763	Yimarnayn blanga Gin.gina
+00:08:23.524	503.524	00:08:27.084	507.084	00:00:03.560	3.56	Dis las one na yimarnayn bla him
+00:08:27.474	507.474	00:08:30.508	510.508	00:00:03.034	3.034	la dis lot Majiwarn mob go yibiwi
+00:08:31.982	511.982	00:08:34.728	514.728	00:00:02.746	2.746	Yanggiya town nyangandiya lurrbu wiya-warang
+00:08:35.660	515.66	00:08:38.219	518.219	00:00:02.559	2.559	Nirriya wiyan go gin.gina-wu lun-garr
+00:08:39.101	519.101	00:08:43.016	523.016	00:00:03.915	3.915	 Aaa ngamanda-wu yi-nirri go wiyan marluga nga-yanarri go
+00:08:43.813	523.813	00:08:45.524	525.524	00:00:01.711	1.711	 O ya yinyang-marla 
+00:08:46.287	526.287	00:08:51.203	531.203	00:00:04.916	4.916	Wonggo yinijingin dan-ya Gin.gina-ya ngan-yanarriya Gin.gina-wu
+00:08:52.202	532.202	00:08:55.321	535.321	00:00:03.119	3.119	A yilgbayi nganja lurrbu
+00:08:56.152	536.152	00:08:58.372	538.372	00:00:02.220	2.22	Nganja go lurrbu mululurru-wu
+00:08:58.559	538.559	00:09:01.474	541.474	00:00:02.915	2.915	Mulurru Yadurrgu been come up East Arm-ba
+00:09:02.236	542.236	00:09:04.999	544.999	00:00:02.763	2.763	This time na, ngajingindi la that mulurru na
+00:09:06.236	546.236	00:09:08.050	548.05	00:00:01.814	1.814	That marluga yanggiya wurg
+00:09:09.440	549.44	00:09:13.575	553.575	00:00:04.135	4.135	Mayin layin ginyerriya wurrugu la stockcamp Stew wayana
+00:09:18.168	558.168	00:09:21.067	561.067	00:00:02.899	2.899	Nirriya ngunung lun-mala
+00:09:22.236	562.236	00:09:23.762	563.762	00:00:01.526	1.526	Yidjingindiwuyaaa
+00:09:24.016	564.016	00:09:26.270	566.27	00:00:02.254	2.254	Yijad little bit nayirri ngunung 
+00:09:27.202	567.202	00:09:31.507	571.507	00:00:04.305	4.305	yiguyu-wu ngajingindiya go
+00:09:34.948	574.948	00:09:36.626	576.626	00:00:01.678	1.678	Gin.gina yanarri ngunung
+00:09:37.745	577.745	00:09:39.355	579.355	00:00:01.610	1.61	Ngayi-ngun-guya nana wiyan
+00:09:40.685	580.685	00:09:45.279	585.279	00:00:04.594	4.594	No nganayu, wonggo yi-nga-ngun nana wiyan
+00:09:46.050	586.05	00:09:48.728	588.728	00:00:02.678	2.678	Nu-ngu-wuya nga-yanarri go
+00:09:49.914	589.914	00:09:54.474	594.474	00:00:04.560	4.56	Yimburrwondi yimarnayn yinggi nu-ngu nana wiyan wonggo ngayugu
+00:09:54.541	594.541	00:09:56.592	596.592	00:00:02.051	2.051	Ngamandagan yiniyana nganung
+00:10:00.948	600.948	00:10:03.083	603.083	00:00:02.135	2.135	Wonggo yinga-ngun nga-yanarri go
+00:10:04.914	604.914	00:10:06.490	606.49	00:00:01.576	1.576	Marluga-yi  mog yingan-me
+00:10:07.507	607.507	00:10:11.372	611.372	00:00:03.865	3.865	Marluga too ya-ngun yinggi wiyan yanarri 
+00:10:11.897	611.897	00:10:16.457	616.457	00:00:04.560	4.56	Yilgbayi wonggo yingangun wiyan nga-yanarri go
+00:10:17.067	617.067	00:10:21.541	621.541	00:00:04.474	4.474	I gotim wurren wurre-warang ngunung	ngayanarri go
+00:10:22.524	622.524	00:10:29.422	629.422	00:00:06.898	6.898	Nga-ngundiya na wiyan wuduwudu beer
+00:10:29.643	629.643	00:10:31.084	631.084	00:00:01.441	1.441	Nganburr-wondiya garnin
+00:10:31.338	631.338	00:10:33.219	633.219	00:00:01.881	1.881	Wiyan nga-ngundiya yawe
+00:10:33.999	633.999	00:10:35.812	635.812	00:00:01.813	1.813	Nga-ngundiya na garnin
+00:10:37.152	637.152	00:10:41.508	641.508	00:00:04.356	4.356	Gala nganjagiya na shopping mightbe nganjagiya
+00:10:45.457	645.457	00:10:49.389	649.389	00:00:03.932	3.932	yirranggiya na shopping-garr  Lurrbu yidjangandiya
+00:10:50.050	650.05	00:10:53.525	653.525	00:00:03.475	3.475	Yin.gunburr-gandiya moticar-warra lurrbu
+00:10:53.711	653.711	00:10:56.490	656.49	00:00:02.779	2.779	Yin.gunbudirriya manbulloo-warr lun
+00:10:58.135	658.135	00:11:00.931	660.931	00:00:02.796	2.796	Yidjingindiya nan-beng na lege-weng
+00:11:08.406	668.406	00:11:11.762	671.762	00:00:03.356	3.356	 Nanba-wan wiyan na nga-ngundi
+00:11:14.677	674.677	00:11:15.812	675.812	00:00:01.135	1.135	ngawurnen?
+00:11:16.134	676.134	00:11:17.100	677.1	00:00:00.966	0.966	Ngawurnen na 
+00:11:19.456	679.456	00:11:21.473	681.473	00:00:02.017	2.017	guda jingindi nana wurren
+00:11:21.677	681.677	00:11:23.660	683.66	00:00:01.983	1.983	Wurren jingindi yiguyu-ya ngunung
+00:11:25.965	685.965	00:11:28.168	688.168	00:00:02.203	2.203	Nganjigbe wiya-wu nga-ngu-wa
+00:11:28.592	688.592	00:11:29.931	689.931	00:00:01.339	1.339	Nga-ngu-wa wiyan na
+00:11:32.355	692.355	00:11:35.117	695.117	00:00:02.762	2.762	Nganinggin yiguyu joy nga-wondi that wurren 
+00:11:36.474	696.474	00:11:39.847	699.847	00:00:03.373	3.373	Dagbarla nganu wurren nganjigbe wiya-warr nga-ngu-wa wiyan
+00:11:40.864	700.864	00:11:44.847	704.847	00:00:03.983	3.983	Nganjigbe wiya-wu nan bulugbulug-mala
+00:11:45.304	705.304	00:11:48.660	708.66	00:00:03.356	3.356	And mulurru wiyan too ngundiya mami
+00:11:51.288	711.288	00:11:53.525	713.525	00:00:02.237	2.237	Yiguyu ngunung wiyan ngundiya
+00:11:56.016	716.016	00:11:57.338	717.338	00:00:01.322	1.322	FM: Gulirdang?
+00:11:58.016	718.016	00:11:58.846	718.846	00:00:00.830	0.83	Yibuluy
+00:12:02.457	722.457	00:12:07.152	727.152	00:00:04.695	4.695	Nganjayn.ga na wiya-wu bulugbulug-mala  dilyag  nganbudarri 
+00:12:09.101	729.101	00:12:11.304	731.304	00:00:02.203	2.203	Dana-ga wardirrg ya-nyangan wiya-wu
+00:12:12.067	732.067	00:12:13.762	733.762	00:00:01.695	1.695	A go on nga-yanarri go
+00:12:15.049	735.049	00:12:18.456	738.456	00:00:03.407	3.407	dan.ganud wardardirrg ngala gelengama nuwun-dan
+00:12:21.050	741.05	00:12:23.050	743.05	00:00:02.000	2.0	And after thatun na  Ngamandagan na
+00:12:26.117	746.117	00:12:28.795	748.795	00:00:02.678	2.678	Nganburr-warlinarri na yimarnayn-gu
+00:12:32.965	752.965	00:12:35.236	755.236	00:00:02.271	2.271	Nana na ya-nyangan nurrugu gimarrig 
+00:12:35.677	755.677	00:12:38.897	758.897	00:00:03.220	3.22	Dilyagba-wu nurrugu dilyagba-wu yinggi
+00:12:39.575	759.575	00:12:41.830	761.83	00:00:02.255	2.255	Wurr-yanarri wurrugu yimarnayn-gu
+00:12:49.219	769.219	00:12:50.304	770.304	00:00:01.085	1.085	Ngamanda-warang
+00:12:51.525	771.525	00:12:56.288	776.288	00:00:04.763	4.763	No, yinyang na yimburrwarlinan wurr-yanarri  ngunung
+00:12:57.355	777.355	00:12:59.423	779.423	00:00:02.068	2.068	Yimarnayn bla olabat ngamanda-wu
+00:13:00.084	780.084	00:13:02.914	782.914	00:00:02.830	2.83	Wonggo nga-wun-gomarlan mambang mambang dan-ya
+00:13:03.559	783.559	00:13:06.525	786.525	00:00:02.966	2.966	Nga-jingindi meself wiyan bulug-mala nga-ngun
+00:13:09.525	789.525	00:13:11.339	791.339	00:00:01.814	1.814	Yirrbuyirriya na menyin
+00:13:11.372	791.372	00:13:12.711	792.711	00:00:01.339	1.339	They been wanta come menyin la me
+00:13:17.118	797.118	00:13:23.067	803.067	00:00:05.949	5.949	Yinyang-nyi na, teachimbat you yin-yanarri ngunung yimarnayn-ji 
+00:13:26.440	806.44	00:13:29.880	809.88	00:00:03.440	3.44	Nganjagi lurrbu yang nga-bundi marluga yimarnayn ngunung
+00:13:30.728	810.728	00:13:34.304	814.304	00:00:03.576	3.576	Aa nganburr-warlinan na bangbu-yi nganjagi.ga darni 
+00:13:34.660	814.66	00:13:36.694	816.694	00:00:02.034	2.034	wiya-wu gila bulugbulug-mala
+00:13:37.372	817.372	00:13:39.304	819.304	00:00:01.932	1.932	Gotim my yiguyu I been talk la him. 
+00:13:40.271	820.271	00:13:46.288	826.288	00:00:06.017	6.017	A wurren ni ngunung lurrbu damirlan nga-gandi go lurrbu wurren lun-mala
+00:13:47.185	827.185	00:13:52.355	832.355	00:00:05.170	5.17	Wurranggi yang wurr-bundi that marluga station-garr wurranggi manbulloo-warr
+00:13:53.168	833.168	00:13:56.948	836.948	00:00:03.780	3.78	Nana bangbun yinggi yingawuyu yinggi yijordjordin
+00:13:58.457	838.457	00:14:05.033	845.033	00:00:06.576	6.576	Ngamandagan yanggu-dan ledba ledba yirrugu yimarnayn
+00:14:06.118	846.118	00:14:08.406	848.406	00:00:02.288	2.288	No no sure enough I tell you what
+00:14:09.727	849.727	00:14:10.711	850.711	00:00:00.984	0.984	Yirrbuyirriya na
+00:14:11.372	851.372	00:14:23.661	863.661	00:00:12.289	12.289	They been wanta look me wiyan-garang too much not too much but y know they been wanta look me ngawundan Not too much but nough to keep me walk, nganjagiya lurrbu na gajigaji
+00:14:25.254	865.254	00:14:28.271	868.271	00:00:03.017	3.017	Wudjangandi ngunung nyengnyengma na menyin menyin-mala [they came shouting]
+00:14:31.576	871.576	00:14:34.915	874.915	00:00:03.339	3.339	Ngayugu-malang yinggiya menyin menyin ngandan nga-yanarri
+00:14:35.779	875.779	00:14:40.050	880.05	00:00:04.271	4.271	no more yinyang na Yimum-gu dan-gu yibiyan-gu
+00:14:42.542	882.542	00:14:43.694	883.694	00:00:01.152	1.152	Ngangbuyan yinggi 
+00:14:44.338	884.338	00:14:47.372	887.372	00:00:03.034	3.034	Well nyanga  ngayibuyingbe ngayanarri go
+00:14:49.254	889.254	00:14:50.270	890.27	00:00:01.016	1.016	FM: yinggiya nana
+00:14:50.644	890.644	00:14:53.796	893.796	00:00:03.152	3.152	That same one bangbun na where metwofella been wanta go gate opener [Kirol]
+00:14:56.660	896.66	00:15:02.016	902.016	00:00:05.356	5.356	Nyanga… no… yeah
+00:15:02.694	902.694	00:15:04.287	904.287	00:00:01.593	1.593	Nyanga na nan-yi ga yibiyan-yi 
+00:15:07.508	907.508	00:15:09.542	909.542	00:00:02.034	2.034	Bla mine derderde na he been jealous me
+00:15:10.982	910.982	00:15:15.660	915.66	00:00:04.678	4.678	Derderde wonggo ngamandagan yimum ngunung
+00:15:20.067	920.067	00:15:22.626	922.626	00:00:02.559	2.559	Nunja-wuya dawurlan Ngayanarri go
+00:15:25.203	925.203	00:15:26.694	926.694	00:00:01.491	1.491	Gayawun ngang-buwa gunga 
+00:15:27.152	927.152	00:15:28.796	928.796	00:00:01.644	1.644	ngamanda-wu nga-yanarri gunga
+00:15:29.168	929.168	00:15:32.219	932.219	00:00:03.051	3.051	No more yinyang na gunga yimum
+00:15:35.728	935.728	00:15:40.457	940.457	00:00:04.729	4.729	Na ngayugu wonggo mambang mambang ngabun marluga nga-yanarri go
+00:15:40.999	940.999	00:15:42.203	942.203	00:00:01.204	1.204	Derderde nganu Derderde-biji
+00:15:42.999	942.999	00:15:46.084	946.084	00:00:03.085	3.085	Nyangandi ngunung punchim ngan-yanarri na
+00:15:47.067	947.067	00:15:48.101	948.101	00:00:01.034	1.034	Yijili durd 
+00:15:54.338	954.338	00:15:58.169	958.169	00:00:03.831	3.831	Wonggo menyin yinganiwon wonggo yingangbun
+00:15:59.474	959.474	00:16:02.406	962.406	00:00:02.932	2.932	Nganiwaja yimarnayn-garang-ngunung
+00:16:04.966	964.966	00:16:07.864	967.864	00:00:02.898	2.898	Ngawun gewernima yiwaja nana marluga barig barig 
+00:16:08.423	968.423	00:16:11.440	971.44	00:00:03.017	3.017	Marluga ngan-gelewurri nga-yanarri go	
+00:16:11.575	971.575	00:16:12.880	972.88	00:00:01.305	1.305	Marluga ngan-gelewurri nga-yanarri go
+00:16:13.220	973.22	00:16:14.745	974.745	00:00:01.525	1.525	Ngan-gelewurri wiya-wu bulugbulug-mala
+00:16:15.702	975.702	00:16:17.974	977.974	00:00:02.272	2.272	Wonggo nganyangandi wurrugu yibiyan-gu dan-garr
+00:16:19.050	979.05	00:16:22.829	982.829	00:00:03.779	3.779	nuwun-dagbarla dan.ganud yibiyan nga-yanarri go
+00:16:24.338	984.338	00:16:26.830	986.83	00:00:02.492	2.492	Yeah, he been menyin la me
+00:16:30.118	990.118	00:16:32.152	992.152	00:00:02.034	2.034	Nganbundiyaaa birliwirlib
+00:16:33.169	993.169	00:16:35.745	995.745	00:00:02.576	2.576	Aaaa weyi mendi yimarnayn-yi
+00:16:37.186	997.186	00:16:40.236	1000.236	00:00:03.050	3.05	Gud gaju  yi-bundi birliwirlib na…
+00:16:40.728	1000.728	00:16:42.846	1002.846	00:00:02.118	2.118	Him Wiya-warang waja	You wanta leaveim
+00:16:43.287	1003.287	00:16:45.304	1005.304	00:00:02.017	2.017	wiya-warang waja waja
+00:16:45.915	1005.915	00:16:47.559	1007.559	00:00:01.644	1.644	Wiya-warang ga yinibu
+00:16:48.745	1008.745	00:16:52.609	1012.609	00:00:03.864	3.864	Digirrij yanarri go yingawuyu go 
+00:16:53.627	1013.627	00:16:55.372	1015.372	00:00:01.745	1.745	Waja na gud gaju 
+00:16:57.202	1017.202	00:16:58.152	1018.152	00:00:00.950	0.95	Waja gila
+00:16:58.321	1018.321	00:16:59.439	1019.439	00:00:01.118	1.118	Ngana-gajun 
+00:17:00.168	1020.168	00:17:06.592	1026.592	00:00:06.424	6.424	yeynjeyn-ga Gayardung yijili durd ngamendi bard nga-wudbarri lay about? something?	Run?-
+00:17:06.982	1026.982	00:17:08.779	1028.779	00:00:01.797	1.797	Yijili-wa bard ngawudbarri 
+00:17:12.355	1032.355	00:17:15.745	1035.745	00:00:03.390	3.39	Den weny-ga galul nga-jingindi go la mejern
+00:17:16.813	1036.813	00:17:24.440	1044.44	00:00:07.627	7.627	Galul-wa Yirrbuyirri-wuya yakay yakay  nga-bundi 
+00:17:24.966	1044.966	00:17:28.033	1048.033	00:00:03.067	3.067	Aaa nana durd me ngunu ngan-bun danani
+00:17:28.101	1048.101	00:17:29.728	1049.728	00:00:01.627	1.627	Baylbaylma ngan-bun Yanarri-wan go
+00:17:32.067	1052.067	00:17:33.847	1053.847	00:00:01.780	1.78	Aaa talk about fight
+00:17:37.202	1057.202	00:17:41.372	1061.372	00:00:04.170	4.17	Ngani-? Lurrbu nganjigbe marluga-wu nga-yanarri go
+00:17:43.152	1063.152	00:17:45.152	1065.152	00:00:02.000	2.0	Wurranggi marluga yang wurrbundi
+00:17:46.237	1066.237	00:17:48.559	1068.559	00:00:02.322	2.322	Marluga yanarri ngunung 
+00:17:49.288	1069.288	00:17:51.830	1071.83	00:00:02.542	2.542	yiynjag-ja wurrugu darni town-garr 
+00:17:52.694	1072.694	00:17:56.067	1076.067	00:00:03.373	3.373	Mambang mambang yiwun-bun yibiyan dan-ya  town-ya yanarri go 
+00:17:56.559	1076.559	00:17:59.932	1079.932	00:00:03.373	3.373	Ngawun Wonggo ngawungomarlan yibiyan mambang mambang 
+00:18:00.322	1080.322	00:18:02.661	1082.661	00:00:02.339	2.339	 Dan.gandud-ji bangbu-yi nganburrwarlinan 
+00:18:03.525	1083.525	00:18:06.897	1086.897	00:00:03.372	3.372	Nganjagan nganinggin-garr yiguyu-warr	
+00:18:07.559	1087.559	00:18:10.915	1090.915	00:00:03.356	3.356	Wiyan bulugbulug-mala Ngayanarri go
+00:18:11.915	1091.915	00:18:15.796	1095.796	00:00:03.881	3.881	Yilgbayi  jingi na ngayi-jingin-guya dan-ya-wunyin 
+00:18:17.966	1097.966	00:18:19.661	1099.661	00:00:01.695	1.695	Marluga too menyin wunggudarri
+00:18:25.745	1105.745	00:18:30.389	1110.389	00:00:04.644	4.644	 Gayawun-biji  yanggi wiya-warang wonggo nunu-bun yingawuyu ngunung 
+00:18:33.169	1113.169	00:18:34.287	1114.287	00:00:01.118	1.118	yilgbayi 
+00:18:37.100	1117.1	00:18:40.863	1120.863	00:00:03.763	3.763	?? I dunno when I been start drinkin, for fight now
+00:18:41.762	1121.762	00:18:43.745	1123.745	00:00:01.983	1.983	Menyin na nganburrwondiya 
+00:18:44.796	1124.796	00:18:50.168	1130.168	00:00:05.372	5.372	Nana bangbun been run [for?] guduru	   I been duck 
+00:18:51.101	1131.101	00:18:52.389	1132.389	00:00:01.288	1.288	Shovel durd ngamendi go 
+00:18:52.440	1132.44	00:18:55.440	1135.44	00:00:03.000	3.0	I been putim la him shovel now,  Good job that stick been there 	
+00:19:00.779	1140.779	00:19:05.694	1145.694	00:00:04.915	4.915	Yijordjord-mulu yanima na ngarr-buyin any kind of stick nga-yanarri wurrugu
+00:19:06.898	1146.898	00:19:11.101	1151.101	00:00:04.203	4.203	FM asks about how do you say dodge?
+00:19:12.508	1152.508	00:19:14.152	1154.152	00:00:01.644	1.644	Naru(ng) nga-wondi
+00:19:18.999	1158.999	00:19:24.067	1164.067	00:00:05.068	5.068	Yumin jingindiya boughshade-ja yirrbuyirri-wuya nyangandi ngunung guduru-warra
+00:19:25.101	1165.101	00:19:27.202	1167.202	00:00:02.101	2.101	dana-wunyin na yigulan wagbawun
+00:19:27.592	1167.592	00:19:29.457	1169.457	00:00:01.865	1.865	Waj waj  ?  nana marluga
+00:19:30.389	1170.389	00:19:32.439	1172.439	00:00:02.050	2.05	he been putim back That guduru na
+00:19:33.067	1173.067	00:19:36.660	1176.66	00:00:03.593	3.593	He been kilim that yumin bag 
+00:19:37.999	1177.999	00:19:41.559	1181.559	00:00:03.560	3.56	Guduru bag bundi thatun na langa that post there..
+00:19:42.965	1182.965	00:19:45.101	1185.101	00:00:02.136	2.136	Ngayugu-wan shovel durd nga-mendi gunga 
+00:19:49.287	1189.287	00:19:50.406	1190.406	00:00:01.119	1.119	yilgbayi-wan
+00:19:50.457	1190.457	00:19:58.592	1198.592	00:00:08.135	8.135	Naru ngawondi naru nganjagi go
+00:20:08.575	1208.575	00:20:12.406	1212.406	00:00:03.831	3.831	Dilyagba (that mean when man been lookin at you looking at, like ngulu…)
+00:20:19.779	1219.779	00:20:31.491	1231.491	00:00:11.712	11.712	Dilyagba that mean got a eye, ngulungulu nganbudarri properly way ‘they looked at me liking me’, i.e., with intent
+00:20:32.117	1232.117	00:20:34.490	1234.49	00:00:02.373	2.373	Yijili-malang damin ngadagbarlarri 
+00:20:36.338	1236.338	00:20:38.253	1238.253	00:00:01.915	1.915	Yiwarnagariyi bangbuyi gabarri yijili durd nganmendi
+00:20:39.203	1239.203	00:20:42.762	1242.762	00:00:03.559	3.559	Yiwarnagariyi bangbuyi gabarri yijili durd nganmendi
+00:20:44.254	1244.254	00:20:48.627	1248.627	00:00:04.373	4.373	Dan-yi na ngangomarlan yimarnayn gayagayardung 
+00:20:49.406	1249.406	00:20:51.626	1251.626	00:00:02.220	2.22	Wonggo nga-gomarlan yinggi yimarnayn
+00:20:52.203	1252.203	00:20:54.762	1254.762	00:00:02.559	2.559	Thatun yinggawun yinggi yimarnayn nga-yanarri go
+00:20:55.253	1255.253	00:20:57.931	1257.931	00:00:02.678	2.678	A yi-bulayin yi-bulayin
+00:20:58.356	1258.356	00:21:00.440	1260.44	00:00:02.084	2.084	He been punchime all right… 
+00:21:00.694	1260.694	00:21:02.575	1262.575	00:00:01.881	1.881	Ngayanarri go  Nga-bundi yagagayma again
+00:21:09.728	1269.728	00:21:11.287	1271.287	00:00:01.559	1.559	Yagagayma ngabundi
+00:21:18.643	1278.643	00:21:27.118	1287.118	00:00:08.475	8.475	I been beltim im yagagayma Yakay yakay him hurtim me likey that 
+00:21:27.186	1287.186	00:21:29.559	1289.559	00:00:02.373	2.373	I dunno why him wanta lookin for fight [Kriol]
+00:21:30.864	1290.864	00:21:34.270	1294.27	00:00:03.406	3.406	Menyin  jealous gather
+00:21:35.491	1295.491	00:21:38.610	1298.61	00:00:03.119	3.119	FM: what does yang mean
+00:21:38.982	1298.982	00:21:41.711	1301.711	00:00:02.729	2.729	tellim that marluga mine [Kriol]
+00:21:42.592	1302.592	00:21:44.813	1304.813	00:00:02.221	2.221	yang wurr-bundi
+00:21:45.067	1305.067	00:21:46.846	1306.846	00:00:01.779	1.779	Yibiyan-gari yibiyan-gari
+00:21:47.186	1307.186	00:21:52.152	1312.152	00:00:04.966	4.966	But ngawun wonggo nganjagi wurrugu yibiyan-gari-warr
+00:21:52.779	1312.779	00:22:01.423	1321.423	00:00:08.644	8.644	Ngajingindiya pub-ya nganjagiya,  werr nganyangandiya 
+00:22:01.678	1321.678	00:22:03.389	1323.389	00:00:01.711	1.711	Nganjagiya lurrbu  na
+00:22:03.863	1323.863	00:22:09.067	1329.067	00:00:05.204	5.204	Wonggo legen-yi bangbu-yi dinma nganbudarri   
+00:22:12.152	1332.152	00:22:21.661	1341.661	00:00:09.509	9.509	they been blame me bla their husbands
+00:22:39.949	1359.949	00:22:40.847	1360.847	00:00:00.898	0.898	Nga-wajarri na (wiyan)
+00:22:41.610	1361.61	00:22:43.033	1363.033	00:00:01.423	1.423	Menyin menyin-berreng
+00:22:43.678	1363.678	00:22:46.678	1366.678	00:00:03.000	3.0	Wonggo yinijagja again Ngayi-jingin-gu danbeng
+00:22:47.644	1367.644	00:22:49.203	1369.203	00:00:01.559	1.559	Nga-jingindiya la that marluga na
+00:22:50.169	1370.169	00:22:51.965	1371.965	00:00:01.796	1.796	Yiwarnagari nyangandi dawung-ba
+00:22:53.355	1373.355	00:22:54.372	1374.372	00:00:01.017	1.017	Nyamanya-wa
+00:22:55.254	1375.254	00:23:00.186	1380.186	00:00:04.932	4.932	Nyangandi yiwarnagari yibiyan Waterloo-wa
+00:23:01.067	1381.067	00:23:04.033	1384.033	00:00:02.966	2.966	Nan-yi na warrguj ngan-mendi ngan-gandi dawurlan
+00:23:08.643	1388.643	00:23:11.626	1391.626	00:00:02.983	2.983	yi-jingindi jinmayi Waterloo.  
+00:23:12.016	1392.016	00:23:14.711	1394.711	00:00:02.695	2.695	Nyangandi ngunung aa ngayinjigbe
+00:23:15.931	1395.931	00:23:19.795	1399.795	00:00:03.864	3.864	Ngayugu yinggi… ngamandagan yimarnayn
+00:23:21.016	1401.016	00:23:23.643	1403.643	00:00:02.627	2.627	No ngajingi-we dan-ya marluga-ya  nganayu
+00:23:24.219	1404.219	00:23:26.016	1406.016	00:00:01.797	1.797	nganayu nana marluga ngayinyja
+00:23:26.948	1406.948	00:23:28.033	1408.033	00:00:01.085	1.085	Waray ngang-gan
+00:23:32.373	1412.373	00:23:38.542	1418.542	00:00:06.169	6.169	Only no bangbun that way la waterloo nga-yanarri go
+00:23:41.203	1421.203	00:23:45.847	1425.847	00:00:04.644	4.644	No more yinyang na  nan-garr Yinyang ngunung yinyilman 
+00:23:51.118	1431.118	00:23:53.237	1433.237	00:00:02.119	2.119	No wonggo ngawaja? nana marluga 
+00:23:55.339	1435.339	00:23:57.169	1437.169	00:00:01.830	1.83	Him all right ngayijingin dan-beng
+00:23:58.965	1438.965	00:24:00.101	1440.101	00:00:01.136	1.136	Yilgbayi-marla
+00:24:24.999	1464.999	00:24:28.852	1468.852	00:00:03.853	3.853	Yidjingindi right through til wurre-warang nganayirri na
+00:24:39.558	1479.558	00:24:41.101	1481.101	00:00:01.543	1.543	Ngan-dirri damirlan lurrbu (from Waterloo to here)
+00:24:43.236	1483.236	00:24:46.151	1486.151	00:00:02.915	2.915	Yidjangandi-wuya Kildirk-garr
+00:24:47.999	1487.999	00:24:51.033	1491.033	00:00:03.034	3.034	Nanbawan ngan-dirri langa Katherine
+00:24:51.389	1491.389	00:24:52.627	1492.627	00:00:01.238	1.238	Look brother mine
+00:24:54.609	1494.609	00:24:55.829	1495.829	00:00:01.220	1.22	Brother-mulu-ngunung

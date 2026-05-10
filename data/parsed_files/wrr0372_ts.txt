@@ -1,0 +1,64 @@
+00:00:11.090	11.09	00:00:15.210	15.21	00:00:04.120	4.12	I am Yidumduma, I’m sitting and telling you a story
+00:00:15.350	15.35	00:00:17.700	17.7	00:00:02.350	2.35	these [things], when the dreamings came
+00:00:18.280	18.28	00:00:23.190	23.19	00:00:04.910	4.91	These things, you follow after, know these stories
+00:00:26.400	26.4	00:00:32.690	32.69	00:00:06.290	6.29	This story I’m telling you, the dreaming was going into the rock
+00:00:34.275	34.275	00:00:39.657	39.657	00:00:05.382	5.382	These two Jabirringgi and Yagjagbula, two brothers, you see them sitting here above
+00:00:40.158	40.158	00:00:40.934	40.934	00:00:00.776	0.776	you see the two of them
+00:00:42.710	42.71	00:00:46.749	46.749	00:00:04.039	4.039	Later I’ll tell you what these two did
+00:00:48.434	48.434	00:00:51.855	51.855	00:00:03.421	3.421	Then their mother came
+00:00:52.802	52.802	00:00:56.355	56.355	00:00:03.553	3.553	[what she was] doing, she had lots of kids from the salt water
+00:00:57.868	57.868	00:01:01.513	61.513	00:00:03.645	3.645	Then she came up, she came to the dry land
+00:01:02.302	62.302	00:01:04.183	64.183	00:00:01.881	1.881	and she made some more children
+00:01:04.921	64.921	00:01:07.000	67.0	00:00:02.079	2.079	She made many lightnings
+00:01:08.316	68.316	00:01:10.895	70.895	00:00:02.579	2.579	Then that rainbow Heard them
+00:01:11.249	71.249	00:01:14.302	74.302	00:00:03.053	3.053	o! there she is making children, lots of children 
+00:01:15.052	75.052	00:01:15.907	75.907	00:00:00.855	0.855	in the dry area
+00:01:16.005	76.005	00:01:17.400	77.4	00:00:01.395	1.395	I told her in the first place
+00:01:17.623	77.623	00:01:20.057	80.057	00:00:02.434	2.434	you were having them there in the water
+00:01:21.326	81.326	00:01:22.787	82.787	00:00:01.461	1.461	In the salt wáter 
+00:01:23.556	83.556	00:01:25.095	85.095	00:00:01.539	1.539	Rainbow was there on her account
+00:01:26.009	86.009	00:01:28.272	88.272	00:00:02.263	2.263	He snuck up to where she was, right here
+00:01:28.626	88.626	00:01:31.153	91.153	00:00:02.527	2.527	He said to that old lady
+00:01:32.026	92.026	00:01:33.973	93.973	00:00:01.947	1.947	Why do you keep having them here?
+00:01:34.170	94.17	00:01:35.959	95.959	00:00:01.789	1.789	Those children are dreaming
+00:01:36.129	96.129	00:01:37.629	97.629	00:00:01.500	1.5	You have them in the water there
+00:01:37.852	97.852	00:01:39.102	99.102	00:00:01.250	1.25	Rainbow said to her
+00:01:40.171	100.171	00:01:42.039	102.039	00:00:01.868	1.868	The old lady said O!
+00:01:42.447	102.447	00:01:48.408	108.408	00:00:05.961	5.961	Here you and I have some in the dry area, some in the water, she said to him like that
+00:01:48.802	108.802	00:01:52.315	112.315	00:00:03.513	3.513	Rainbow shook his head no, and said to her
+00:01:52.710	112.71	00:01:53.946	113.946	00:00:01.236	1.236	I’m going back now
+00:01:55.058	115.058	00:01:57.926	117.926	00:00:02.868	2.868	a big flood might come to you, rainbow said to her
+00:01:58.065	118.065	00:01:59.999	119.999	00:00:01.934	1.934	Rainbow went back
+00:02:14.893	134.893	00:02:16.991	136.991	00:00:02.098	2.098	And he played yarrandi, big
+00:02:17.295	137.295	00:02:22.361	142.361	00:00:05.066	5.066	Then they were there and heard the water rushing out
+00:02:23.360	143.36	00:02:25.606	145.606	00:00:02.246	2.246	Water came this way
+00:02:26.417	146.417	00:02:28.007	148.007	00:00:01.590	1.59	Tumbling forth, and blocked them
+00:02:28.269	148.269	00:02:29.695	149.695	00:00:01.426	1.426	blocked them, rising and blocking 
+00:02:34.705	154.705	00:02:36.607	156.607	00:00:01.902	1.902	All these Little lightnings
+00:02:37.656	157.656	00:02:41.934	161.934	00:00:04.278	4.278	They came down and went up on top
+00:02:43.163	163.163	00:02:47.016	167.016	00:00:03.853	3.853	They looked at that water coming rising
+00:02:47.934	167.934	00:02:51.688	171.688	00:00:03.754	3.754	All these birds and all, were small and they were people
+00:02:52.212	172.212	00:02:55.360	175.36	00:00:03.148	3.148	Then Willy wagtail said to them, I’ll make a camp for you
+00:02:56.114	176.114	00:02:57.688	177.688	00:00:01.574	1.574	They are sleeping
+00:02:59.630	179.63	00:03:02.188	182.188	00:00:02.558	2.558	Willy wagtail made a camp for them
+00:03:03.376	183.376	00:03:06.573	186.573	00:00:03.197	3.197	Then the Willy wagtail said to them
+00:03:07.048	187.048	00:03:08.819	188.819	00:00:01.771	1.771	I made these Stone spears
+00:03:10.246	190.246	00:03:15.278	195.278	00:00:05.032	5.032	You try to spear him for us, this rainbow, you mi- you might spear him dead
+00:03:15.295	195.295	00:03:16.098	196.098	00:00:00.803	0.803	He said to them
+00:03:17.311	197.311	00:03:22.097	202.097	00:00:04.786	4.786	Then the lightnings fitted on two of them, stone spears
+00:03:22.803	202.803	00:03:25.492	205.492	00:00:02.689	2.689	Jabirringgi threw the stone spears at him, throw!
+00:03:27.072	207.072	00:03:29.253	209.253	00:00:02.181	2.181	It stuck in the rainbow
+00:03:29.901	209.901	00:03:31.852	211.852	00:00:01.951	1.951	He didn’t kill him dead, no
+00:03:33.016	213.016	00:03:36.508	216.508	00:00:03.492	3.492	And then Yagjagbula threw a stone spear at him, throw!
+00:03:37.081	217.081	00:03:38.294	218.294	00:00:01.213	1.213	Stuck in him
+00:03:38.770	218.77	00:03:40.623	220.623	00:00:01.853	1.853	Nope, it didn’t kill him dead
+00:03:41.590	221.59	00:03:43.426	223.426	00:00:01.836	1.836	Then two other ones
+00:03:44.491	224.491	00:03:48.491	228.491	00:00:04.000	4.0	One brown falcon, the other grey falcon
+00:03:49.918	229.918	00:03:53.606	233.606	00:00:03.688	3.688	Those two threw stone spear from there
+00:03:53.918	233.918	00:03:56.934	236.934	00:00:03.016	3.016	From Barnanggaya, throw!
+00:03:57.196	237.196	00:04:03.836	243.836	00:00:06.640	6.64	He threw, Brown falcon, the spear came, then it stuck into rainbow’s neck
+00:04:04.754	244.754	00:04:07.754	247.754	00:00:03.000	3.0	And that neck, it cut it off
+00:04:08.639	248.639	00:04:10.377	250.377	00:00:01.738	1.738	The tail was there like this
+00:04:11.360	251.36	00:04:13.295	253.295	00:00:01.935	1.935	The head fell off
+00:04:14.230	254.23	00:04:17.934	257.934	00:00:03.704	3.704	His two eyes came out and fell to the north
+00:04:18.369	258.369	00:04:20.614	260.614	00:00:02.245	2.245	And the wáter is up there in the rock [i.e., the eyes became water pools]

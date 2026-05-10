@@ -1,0 +1,23 @@
+00:00:00.523	0.523	00:00:04.198	4.198	00:00:03.675	3.675	we went (for) mussels, bogeying in the river
+00:00:06.178	6.178	00:00:08.780	8.78	00:00:02.602	2.602	we got heaps of mussels
+00:00:09.328	9.328	00:00:10.465	10.465	00:00:01.137	1.137	we put them in a bucket
+00:00:11.741	11.741	00:00:14.685	14.685	00:00:02.944	2.944	we got them from the mud, at the river pandanus
+00:00:15.535	15.535	00:00:23.130	23.13	00:00:07.595	7.595	I don't know where the snakes were, we got them, nothing, we took them back for the old ladies
+00:00:24.237	24.237	00:00:29.212	29.212	00:00:04.975	4.975	go get mussels for us, we got them and took them back in a bucket
+00:00:29.917	29.917	00:00:35.957	35.957	00:00:06.040	6.04	they made a fire, there you put it on the fire, no water
+00:00:36.819	36.819	00:00:44.882	44.882	00:00:08.063	8.063	just put the mussels, only the mussels on the fire, it cooked now, whatsit
+00:00:46.367	46.367	00:00:48.943	48.943	00:00:02.576	2.576	the mussel (urine) opened up
+00:00:50.656	50.656	00:00:56.246	56.246	00:00:05.590	5.59	that mussel broke open, some of them, they opened up
+00:00:56.943	56.943	00:01:01.983	61.983	00:00:05.040	5.04	it cooked, its water, the mussels
+00:01:04.715	64.715	00:01:12.212	72.212	00:00:07.497	7.497	it was, it boiled, we put it on the fire, it was there
+00:01:13.095	73.095	00:01:17.770	77.77	00:00:04.675	4.675	whatsit, the flesh came out, the mussels were (there)?, and then whatsit
+00:01:20.342	80.342	00:01:27.040	87.04	00:00:06.698	6.698	it was (like) glue, when the shell came off, that mussel like ...
+00:01:28.307	88.307	00:01:35.910	95.91	00:00:07.603	7.603	we picked up the mussels, we threw a lot of them (the shells), and we ate the mussel flesh
+00:01:36.335	96.335	00:01:39.621	99.621	00:00:03.286	3.286	we ate and we put (shells) in whatsit now
+00:01:42.834	102.834	00:01:49.503	109.503	00:00:06.669	6.669	in a bucket, we must put it on what, we put it on a plate to eat the mussel
+00:01:50.741	110.741	00:01:59.317	119.317	00:00:08.576	8.576	they got salt and pepper, they ate it, they tipped it out and ate it, 'you don't eat it'
+00:02:03.441	123.441	00:02:09.686	129.686	00:00:06.245	6.245	they said to them, the children didn't eat it
+00:02:10.746	130.746	00:02:14.376	134.376	00:00:03.630	3.63	old women and men
+00:02:14.732	134.732	00:02:23.000	143.0	00:00:08.268	8.268	yes, we bogeyed for them and got mussels for them, they said to us, this is not (soup), you can't eat it
+00:02:28.864	148.864	00:02:36.912	156.912	00:00:08.048	8.048	soup... it was full up for them in the billy can, full of mussel liquid
+00:02:38.306	158.306	00:02:43.495	163.495	00:00:05.189	5.189	their tucker, meat inside, for what, from the mussel

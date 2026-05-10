@@ -1,0 +1,510 @@
+00:00:19.990	19.99	00:00:24.290	24.29	00:00:04.300	4.3	The father’s sister’s son of my mother’s mother’s brother Yijadalwun
+00:00:26.210	26.21	00:00:27.110	27.11	00:00:00.900	0.9	Yijadalwun
+00:00:28.000	28.0	00:00:28.730	28.73	00:00:00.730	0.73	Yijadalwun
+00:00:33.650	33.65	00:00:35.100	35.1	00:00:01.450	1.45	Old man Yijadalwun?
+00:00:35.150	35.15	00:00:37.720	37.72	00:00:02.570	2.57	Yes, (the one whose) old woman was yimburrwarla (skin)
+00:00:39.200	39.2	00:00:40.390	40.39	00:00:01.190	1.19	Gurriynjinigarri (her name)
+00:00:47.960	47.96	00:00:51.350	51.35	00:00:03.390	3.39	his auntie
+00:00:56.640	56.64	00:00:57.800	57.8	00:00:01.160	1.16	Of old man Ngamunung
+00:01:01.030	61.03	00:01:04.250	64.25	00:00:03.220	3.22	The auntie of old man Ngamuinug
+00:01:07.080	67.08	00:01:10.000	70.0	00:00:02.920	2.92	Sister of old man Wugurlu
+00:01:29.700	89.7	00:01:31.490	91.49	00:00:01.790	1.79	The rest are, who?
+00:01:35.040	95.04	00:01:39.940	99.94	00:00:04.900	4.9	Great-grandparent for old man Gojorlo, his father was Ngananyin
+00:01:40.220	100.22	00:01:42.710	102.71	00:00:02.490	2.49	Those came from there
+00:01:45.000	105.0	00:01:45.670	105.67	00:00:00.670	0.67	Like this
+00:01:57.511	117.511	00:02:03.181	123.181	00:00:05.670	5.67	[FM}(came from Pine Creek?) old men and women, Yiganggurna Alice? 
+00:02:07.045	127.045	00:02:08.340	128.34	00:00:01.295	1.295	No, Walbiyarra [came from Pine Creek]
+00:02:09.738	129.738	00:02:13.442	133.442	00:00:03.704	3.704	Delamere
+00:02:14.147	134.147	00:02:19.090	139.09	00:00:04.943	4.943	Ngayadiwan was his younger sister
+00:02:25.110	145.11	00:02:32.507	152.507	00:00:07.397	7.397	Yangganggurna was the older, the younger Gojorlo
+00:02:35.333	155.333	00:02:37.396	157.396	00:00:02.063	2.063	Gojorlo looked back to Ngayadiwan
+00:02:38.332	158.332	00:02:40.459	160.459	00:00:02.127	2.127	There were three children of Yawaliyn
+00:02:41.348	161.348	00:02:43.173	163.173	00:00:01.825	1.825	Three children of Yawaliyn
+00:02:47.460	167.46	00:02:51.111	171.111	00:00:03.651	3.651	They killed Ngayadiwan
+00:03:02.713	182.713	00:03:07.301	187.301	00:00:04.588	4.588	Argument, maybe they saw, the old men killed her
+00:03:13.872	193.872	00:03:20.809	200.809	00:00:06.937	6.937	They used to make a hole in the nose, when they made it come out, head first, nose… out
+00:03:21.158	201.158	00:03:23.825	203.825	00:00:02.667	2.667	When they grabbed it and bit the head with their mouths, the old men
+00:03:25.284	205.284	00:03:26.761	206.761	00:00:01.477	1.477	They threw it in the sun
+00:03:29.412	209.412	00:03:32.507	212.507	00:00:03.095	3.095	They bit the head and threw it down 
+00:03:38.443	218.443	00:03:41.872	221.872	00:00:03.429	3.429	They heaped i ton the ground, heaped
+00:03:41.888	221.888	00:03:44.237	224.237	00:00:02.349	2.349	OK, I’ll take it to them and cook it
+00:03:45.348	225.348	00:03:47.444	227.444	00:00:02.096	2.096	They took it back to camp in the shade
+00:03:50.000	230.0	00:03:53.206	233.206	00:00:03.206	3.206	They took it back to camp in the shade, to camp
+00:03:53.253	233.253	00:03:55.761	235.761	00:00:02.508	2.508	They singed the hair, finished
+00:03:56.984	236.984	00:04:01.952	241.952	00:00:04.968	4.968	They made a big fire to put it underneath
+00:04:03.047	243.047	00:04:09.079	249.079	00:00:06.032	6.032	When they cicatrized, they ¿ from the back, from the tail
+00:04:09.349	249.349	00:04:10.460	250.46	00:00:01.111	1.111	
+00:04:11.301	251.301	00:04:12.603	252.603	00:00:01.302	1.302	Tied with a strap, they tied the snake up
+00:04:13.365	253.365	00:04:20.857	260.857	00:00:07.492	7.492	Tied with a strap, they tied the snake up
+00:04:20.984	260.984	00:04:24.063	264.063	00:00:03.079	3.079	Tied it and doubled it
+00:04:25.476	265.476	00:04:28.158	268.158	00:00:02.682	2.682	They put it underneath
+00:04:29.460	269.46	00:04:30.809	270.809	00:00:01.349	1.349	They puti t under (the coals)
+00:04:32.761	272.761	00:04:34.253	274.253	00:00:01.492	1.492	And it cooked
+00:04:39.332	279.332	00:04:40.777	280.777	00:00:01.445	1.445	Did you eat it?
+00:04:40.793	280.793	00:04:41.269	281.269	00:00:00.476	0.476	And how
+00:04:41.841	281.841	00:04:44.047	284.047	00:00:02.206	2.206	Good smell, good smell
+00:04:46.269	286.269	00:04:46.984	286.984	00:00:00.715	0.715	fat
+00:04:47.698	287.698	00:04:53.492	293.492	00:00:05.794	5.794	Got fat right up to the tail, the belly too
+00:04:57.400	297.4	00:05:00.400	300.4	00:00:03.000	3.0	Are there a lot of ?
+00:05:02.733	302.733	00:05:18.633	318.633	00:00:15.900	15.9	[what snakes did the old people eat?] black-nosed python, carpet snake
+00:05:19.947	319.947	00:05:24.526	324.526	00:00:04.579	4.579	They didn’t eat the children’s puython
+00:05:24.950	324.95	00:05:25.825	325.825	00:00:00.875	0.875	Only the black-nosed python
+00:05:36.387	336.387	00:05:41.862	341.862	00:00:05.475	5.475	? red and white
+00:05:45.725	345.725	00:05:46.500	346.5	00:00:00.775	0.775	Its cicatrices
+00:05:47.625	347.625	00:05:51.175	351.175	00:00:03.550	3.55	Mark mark y know, its scars
+00:05:51.737	351.737	00:05:53.025	353.025	00:00:01.288	1.288	What time is it?
+00:06:04.025	364.025	00:06:07.237	367.237	00:00:03.212	3.212	We watched the tree 
+00:06:07.250	367.25	00:06:09.525	369.525	00:00:02.275	2.275	
+00:06:13.337	373.337	00:06:15.275	375.275	00:00:01.938	1.938	The (bees) swarm
+00:06:27.512	387.512	00:06:32.300	392.3	00:00:04.788	4.788	You cut it for us
+00:06:34.475	394.475	00:06:38.412	398.412	00:00:03.937	3.937	We cut it, it fell flat
+00:06:39.587	399.587	00:06:42.687	402.687	00:00:03.100	3.1	The tree fell crashing down
+00:06:43.512	403.512	00:06:45.787	405.787	00:00:02.275	2.275	It fell down noisily
+00:07:00.775	420.775	00:07:02.337	422.337	00:00:01.562	1.562	We cut if up now
+00:07:04.387	424.387	00:07:07.912	427.912	00:00:03.525	3.525	We cut it up to the wax 
+00:07:14.987	434.987	00:07:20.912	440.912	00:00:05.925	5.925	We poured it into a billycan
+00:07:24.962	444.962	00:07:30.387	450.387	00:00:05.425	5.425	We filled it up
+00:07:31.550	451.55	00:07:34.725	454.725	00:00:03.175	3.175	We filled the Billy full
+00:07:35.987	455.987	00:07:38.875	458.875	00:00:02.888	2.888	We went looking for another tree
+00:07:39.650	459.65	00:07:43.487	463.487	00:00:03.837	3.837	Looking for another tree
+00:07:44.525	464.525	00:07:49.850	469.85	00:00:05.325	5.325	We looked, one standing there, we looked hard
+00:07:50.975	470.975	00:07:53.162	473.162	00:00:02.187	2.187	We saw a lot of them, they came out
+00:07:53.612	473.612	00:07:56.375	476.375	00:00:02.763	2.763	Bees, many of them came out
+00:07:57.662	477.662	00:07:59.162	479.162	00:00:01.500	1.5	Honey, honey down below
+00:08:04.237	484.237	00:08:06.337	486.337	00:00:02.100	2.1	We saw mine now
+00:08:07.237	487.237	00:08:09.075	489.075	00:00:01.838	1.838	We cut it up, finished
+00:08:10.562	490.562	00:08:14.612	494.612	00:00:04.050	4.05	We cut it up to the wax
+00:08:15.362	495.362	00:08:17.487	497.487	00:00:02.125	2.125	Do you know what gajarrang means? Wax.
+00:08:19.525	499.525	00:08:26.312	506.312	00:00:06.787	6.787	Same as `benegin’. Gajarrang when it [is the wax put to block the exit]
+00:08:27.208	507.208	00:08:34.909	514.909	00:00:07.701	7.701	Right up there, a big one where it stops up the honey, you know
+00:08:37.297	517.297	00:08:39.446	519.446	00:00:02.149	2.149	It makes a wax (stopper) inside the tree
+00:08:46.029	526.029	00:08:51.999	531.999	00:00:05.970	5.97	The honey body
+00:08:52.399	532.399	00:09:01.617	541.617	00:00:09.218	9.218	The waste, that’s in the middle, the body is the clean part, and up above the eggs
+00:09:01.780	541.78	00:09:03.435	543.435	00:00:01.655	1.655	…up to the `nose’
+00:09:04.872	544.872	00:09:07.672	547.672	00:00:02.800	2.8	The `nose’, that’s up to the honey, yes
+00:09:11.272	551.272	00:09:13.108	553.108	00:00:01.836	1.836	I found a new one for you, eh?
+00:09:22.830	562.83	00:09:26.020	566.02	00:00:03.190	3.19	In the shallow water
+00:09:27.980	567.98	00:09:29.580	569.58	00:00:01.600	1.6	There downriver at Galloping Jack’s.
+00:09:30.040	570.04	00:09:31.340	571.34	00:00:01.300	1.3	Downriver there.
+00:09:37.600	577.6	00:09:41.120	581.12	00:00:03.520	3.52	My father was working there on a peanut farm.
+00:09:41.560	581.56	00:09:42.830	582.83	00:00:01.270	1.27	Long ago, I was small.
+00:09:45.150	585.15	00:09:50.120	590.12	00:00:04.970	4.97	We’d been camping, we went (through the) bush back home.
+00:09:51.680	591.68	00:09:54.600	594.6	00:00:02.920	2.92	We walked back, crossing (the river).
+00:09:57.510	597.51	00:09:59.720	599.72	00:00:02.210	2.21	We were going back crossing over, that’s all, only us.
+00:10:00.820	600.82	00:10:03.300	603.3	00:00:02.480	2.48	My father was taking us across.
+00:10:03.310	603.31	00:10:05.390	605.39	00:00:02.080	2.08	He left us across up there.
+00:10:07.520	607.52	00:10:12.250	612.25	00:00:04.730	4.73	Old man Gegeyenman, Gimiyn’s father, yiwangari [skin]
+00:10:14.310	614.31	00:10:15.980	615.98	00:00:01.670	1.67	He came swimming behind.
+00:10:17.070	617.07	00:10:17.970	617.97	00:00:00.900	0.9	Barn-having maybe
+00:10:18.645	618.645	00:10:19.675	619.675	00:00:01.030	1.03	Having killed a man.
+00:10:24.870	624.87	00:10:26.430	626.43	00:00:01.560	1.56	He came swimming.
+00:10:29.020	629.02	00:10:31.030	631.03	00:00:02.010	2.01	He swam towards us.
+00:10:33.410	633.41	00:10:37.920	637.92	00:00:04.510	4.51	He’d committed murder, he killed a man in a tree [as she goes on to describe].
+00:10:37.930	637.93	00:10:39.240	639.24	00:00:01.310	1.31	Kidneyfat-having man
+00:10:40.150	640.15	00:10:41.300	641.3	00:00:01.150	1.15	He speared him.
+00:10:45.190	645.19	00:10:49.800	649.8	00:00:04.610	4.61	In a plum tree. That old man was getting black plums, he was picking them up.
+00:10:50.580	650.58	00:10:53.030	653.03	00:00:02.450	2.45	When he saw a shadow down below. (i.e. on the ground)
+00:10:55.880	655.88	00:11:00.280	660.28	00:00:04.400	4.4	He saw a shadow in the daytime [morning], old man Gegeyenman was eating the plums.
+00:11:00.365	660.365	00:11:02.615	662.615	00:00:02.250	2.25	He saw him moving around
+00:11:03.160	663.16	00:11:04.820	664.82	00:00:01.660	1.66	He looked upwards like this.
+00:11:05.260	665.26	00:11:06.790	666.79	00:00:01.530	1.53	A man was sitting up there.
+00:11:09.290	669.29	00:11:11.020	671.02	00:00:01.730	1.73	He hooked up (on) the woomera (in relation) to/for him.
+00:11:11.390	671.39	00:11:15.830	675.83	00:00:04.440	4.44	He hooked his spear to woomera and speared (him) upwards, Gegeyenman (did)
+00:11:16.710	676.71	00:11:19.460	679.46	00:00:02.750	2.75	And he fell down flat.
+00:11:19.610	679.61	00:11:21.220	681.22	00:00:01.610	1.61	He fell down flat.
+00:11:26.030	686.03	00:11:28.460	688.46	00:00:02.430	2.43	A kidney fat man from the Daly River.
+00:11:30.400	690.4	00:11:33.510	693.51	00:00:03.110	3.11	Like a kidney fat man.
+00:11:34.460	694.46	00:11:36.100	696.1	00:00:01.640	1.64	Did he recognize him?
+00:11:36.500	696.5	00:11:37.740	697.74	00:00:01.240	1.24	No, he didn’t know him.
+00:11:40.510	700.51	00:11:41.770	701.77	00:00:01.260	1.26	A foreigner.
+00:11:44.350	704.35	00:11:45.670	705.67	00:00:01.320	1.32	He would have taken his fat.
+00:11:49.650	709.65	00:11:52.270	712.27	00:00:02.620	2.62	That man would’ve speared him and taken the fat of the old man [Gegeyenman], he looked up and saw him first.
+00:11:53.350	713.35	00:11:54.200	714.2	00:00:00.850	0.85	He speared (him) upwards now.
+00:12:04.040	724.04	00:12:07.830	727.83	00:00:03.790	3.79	When he speared him upwards
+00:12:12.520	732.52	00:12:13.990	733.99	00:00:01.470	1.47	Downriver from Galloping Jack’s 
+00:12:15.150	735.15	00:12:18.400	738.4	00:00:03.250	3.25	Then we swam like that.
+00:12:19.660	739.66	00:12:23.530	743.53	00:00:03.870	3.87	He swam across, `You get them up’ [on the bank], he said to her.
+00:12:23.870	743.87	00:12:26.360	746.36	00:00:02.490	2.49	My father [said to] my mother
+00:12:27.220	747.22	00:12:29.750	749.75	00:00:02.530	2.53	You get them up, you sit up top!
+00:12:29.790	749.79	00:12:33.770	753.77	00:00:03.980	3.98	Maybe the Rainbow [snake] will smell this old man
+00:12:37.100	757.1	00:12:39.950	759.95	00:00:02.850	2.85	The old man jumped in and came on.
+00:12:41.070	761.07	00:12:43.740	763.74	00:00:02.670	2.67	Two rainbow serpents rose up (to/for) him.
+00:12:44.470	764.47	00:12:47.020	767.02	00:00:02.550	2.55	From upstream and downstream.
+00:12:47.410	767.41	00:12:48.550	768.55	00:00:01.140	1.14	Two rainbow serpents?
+00:12:50.950	770.95	00:12:53.720	773.72	00:00:02.770	2.77	From that way, from downstream and upstream. The two came to him now
+00:12:55.270	775.27	00:12:57.270	777.27	00:00:02.000	2.0	My father jumped in the water to(wards) him
+00:12:59.860	779.86	00:13:02.320	782.32	00:00:02.460	2.46	They jumped across to him waa waa
+00:13:06.910	786.91	00:13:09.620	789.62	00:00:02.710	2.71	I tell you in English, from whitefella
+00:13:10.700	790.7	00:13:15.060	795.06	00:00:04.360	4.36	My father is rainbow dreaming you know
+00:13:16.040	796.04	00:13:18.450	798.45	00:00:02.410	2.41	Where did it come from (to/for him)?
+00:13:20.450	800.45	00:13:22.680	802.68	00:00:02.230	2.23	It smelled my father, he is flying fox
+00:13:28.130	808.13	00:13:29.110	809.11	00:00:00.980	0.98	His `totem’
+00:13:45.180	825.18	00:13:47.820	827.82	00:00:02.640	2.64	Old man’s mother.
+00:13:52.910	832.91	00:13:55.040	835.04	00:00:02.130	2.13	His old man (father) was honey.
+00:14:00.510	840.51	00:14:04.830	844.83	00:00:04.320	4.32	They take from mother, I take from father and mother, mine is honey.
+00:14:05.980	845.98	00:14:11.190	851.19	00:00:05.210	5.21	From my father I’m flying fox, from my mother mine is honey.
+00:14:15.460	855.46	00:14:16.820	856.82	00:00:01.360	1.36	We are honey people.
+00:14:37.700	877.7	00:14:39.460	879.46	00:00:01.760	1.76	They would’ve grabbed that old man
+00:14:40.530	880.53	00:14:42.380	882.38	00:00:01.850	1.85	My father got a bit of a hold on him
+00:14:43.140	883.14	00:14:45.090	885.09	00:00:01.950	1.95	He was nearly drowned in middle water
+00:14:46.530	886.53	00:14:49.230	889.23	00:00:02.700	2.7	He was in middle water, come on head up
+00:14:50.250	890.25	00:14:51.390	891.39	00:00:01.140	1.14	Head out he came on.
+00:14:52.900	892.9	00:15:00.880	900.88	00:00:07.980	7.98	He came on head out, he nearly swallowed water [drowned]
+00:15:01.870	901.87	00:15:03.950	903.95	00:00:02.080	2.08	He was just about to drown [Kriol]
+00:15:06.780	906.78	00:15:08.920	908.92	00:00:02.140	2.14	My father dived in and went towards him.
+00:15:09.925	909.925	00:15:11.055	911.055	00:00:01.130	1.13	He pulled him by the arm.
+00:15:12.540	912.54	00:15:13.920	913.92	00:00:01.380	1.38	He pulled him out.
+00:15:14.790	914.79	00:15:16.090	916.09	00:00:01.300	1.3	Up top, he was exhausted.
+00:15:16.660	916.66	00:15:17.310	917.31	00:00:00.650	0.65	He fell down.
+00:15:20.910	920.91	00:15:21.690	921.69	00:00:00.780	0.78	He laid him down.
+00:15:23.540	923.54	00:15:25.810	925.81	00:00:02.270	2.27	The two of them saw the water coming.
+00:15:28.680	928.68	00:15:31.200	931.2	00:00:02.520	2.52	The two of them looked, whatever is coming billowing (so) big?
+00:15:32.917	932.917	00:15:35.188	935.188	00:00:02.271	2.271	He waked him, quick! Get up! Old man.
+00:15:35.195	935.195	00:15:36.577	936.577	00:00:01.382	1.382	Get up! Let’s go up!
+00:15:37.930	937.93	00:15:39.440	939.44	00:00:01.510	1.51	The two of them ran up top [of the bank].
+00:15:40.595	940.595	00:15:43.637	943.637	00:00:03.042	3.042	A cyclone whirlwind stood up (to/for) them
+00:15:45.574	945.574	00:15:48.299	948.299	00:00:02.725	2.725	nana marluga gurryuma new yayi-wudba-yn-ga gorrondolmi-wuya-wu.
+00:15:48.311	948.311	00:15:49.131	949.131	00:00:00.820	0.82	They would’ve got him.
+00:15:51.807	951.807	00:15:53.939	953.939	00:00:02.132	2.132	My father grabbed him really hard.
+00:15:57.113	957.113	00:15:59.364	959.364	00:00:02.251	2.251	He brought him up top.
+00:16:00.325	960.325	00:16:04.204	964.204	00:00:03.879	3.879	He chased us away, `keep going’, he pulled the old man yiwangari along
+00:16:05.240	965.24	00:16:08.758	968.758	00:00:03.518	3.518	My father pushed us away, hey! Go on, run that way
+00:16:09.674	969.674	00:16:11.469	971.469	00:00:01.795	1.795	Just running we went up.
+00:16:14.035	974.035	00:16:14.855	974.855	00:00:00.820	0.82	Was it rain time?
+00:16:21.051	981.051	00:16:25.103	985.103	00:00:04.052	4.052	Like now, rainy season it is going
+00:16:29.895	989.895	00:16:38.602	998.602	00:00:08.707	8.707	The rainbow is dangerous, there wasn’t just one, two of them rose up. (mostly Kriol, except for yimenjen `dangerous’)
+00:16:40.603	1000.603	00:16:42.672	1002.672	00:00:02.069	2.069	They head towards one place
+00:16:50.326	1010.326	00:16:55.308	1015.308	00:00:04.982	4.982	I refused and my younger brother took up an axe now
+00:16:55.636	1015.636	00:16:57.272	1017.272	00:00:01.636	1.636	And cut my arm
+00:16:59.472	1019.472	00:17:03.727	1023.727	00:00:04.255	4.255	My father pounded him to a pulp
+00:17:08.763	1028.763	00:17:09.817	1029.817	00:00:01.054	1.054	On my account 
+00:17:10.309	1030.309	00:17:15.581	1035.581	00:00:05.272	5.272	He hit him, and he {? Bound up?] my arm now
+00:17:16.980	1036.98	00:17:19.453	1039.453	00:00:02.473	2.473	He tied it up?, there was no medicine
+00:17:24.363	1044.363	00:17:27.835	1047.835	00:00:03.472	3.472	There was no medicine, he tied me up with a rag
+00:17:34.545	1054.545	00:17:36.127	1056.127	00:00:01.582	1.582	No medicine before
+00:17:45.618	1065.618	00:17:48.709	1068.709	00:00:03.091	3.091	They grasped the long nose
+00:17:52.162	1072.162	00:17:54.217	1074.217	00:00:02.055	2.055	The long part like this
+00:17:55.272	1075.272	00:17:57.672	1077.672	00:00:02.400	2.4	Make pretty
+00:17:59.144	1079.144	00:18:00.562	1080.562	00:00:01.418	1.418	With a nosepeg
+00:18:04.763	1084.763	00:18:06.708	1086.708	00:00:01.945	1.945	What is `to avoid dalyarra’ [asking for clarification]
+00:18:13.799	1093.799	00:18:19.145	1099.145	00:00:05.346	5.346	They went covered up with soft paperbark
+00:18:20.672	1100.672	00:18:21.908	1101.908	00:00:01.236	1.236	So as to avoid gaze
+00:18:23.181	1103.181	00:18:30.727	1110.727	00:00:07.546	7.546	Young girls went covered up
+00:18:36.163	1116.163	00:18:39.072	1119.072	00:00:02.909	2.909	They were afraid for their children, (ones with) children
+00:18:43.890	1123.89	00:18:45.763	1125.763	00:00:01.873	1.873	They were afraid of dalyarra
+00:18:46.654	1126.654	00:18:50.563	1130.563	00:00:03.909	3.909	They went covered with paperbark
+00:18:50.872	1130.872	00:18:53.654	1133.654	00:00:02.782	2.782	Children too may come quickly 
+00:18:54.709	1134.709	00:18:57.509	1137.509	00:00:02.800	2.8	Maybe we stayed lying down three months
+00:18:59.108	1139.108	00:19:00.581	1140.581	00:00:01.473	1.473	An `old’ woman (i.e. one with a child already)
+00:19:01.344	1141.344	00:19:02.380	1142.38	00:00:01.036	1.036	Long ago
+00:19:04.527	1144.527	00:19:08.127	1148.127	00:00:03.600	3.6	
+00:19:12.981	1152.981	00:19:14.981	1154.981	00:00:02.000	2.0	And then from looking
+00:19:15.199	1155.199	00:19:16.799	1156.799	00:00:01.600	1.6	And then from looking
+00:19:18.544	1158.544	00:19:23.126	1163.126	00:00:04.582	4.582	Men looked
+00:19:26.545	1166.545	00:19:40.681	1180.681	00:00:14.136	14.136	Well they snal, that thing of hers, just as a tee snaps, maybe they kill that pregnant woman now
+00:19:40.908	1180.908	00:19:43.044	1183.044	00:00:02.136	2.136	From looking
+00:19:44.999	1184.999	00:19:46.135	1186.135	00:00:01.136	1.136	I snapped it
+00:19:46.587	1186.587	00:19:49.822	1189.822	00:00:03.235	3.235	Maybe that child will be born dead, wait
+00:19:58.568	1198.568	00:20:07.568	1207.568	00:00:09.000	9.0	They made it so that child would start
+00:20:07.627	1207.627	00:20:11.333	1211.333	00:00:03.706	3.706	She was in pain
+00:20:12.941	1212.941	00:20:15.039	1215.039	00:00:02.098	2.098	She’s having a child, come quickly
+00:20:20.254	1220.254	00:20:22.430	1222.43	00:00:02.176	2.176	They grasped like this
+00:20:23.647	1223.647	00:20:29.509	1229.509	00:00:05.862	5.862	She was like this
+00:20:30.215	1230.215	00:20:31.764	1231.764	00:00:01.549	1.549	Lying on her back
+00:20:34.019	1234.019	00:20:36.254	1236.254	00:00:02.235	2.235	On her back and another woman like this
+00:20:36.353	1236.353	00:20:38.686	1238.686	00:00:02.333	2.333	She sits the same way
+00:20:38.803	1238.803	00:20:41.960	1241.96	00:00:03.157	3.157	They grasped the belly like this
+00:20:42.627	1242.627	00:20:45.176	1245.176	00:00:02.549	2.549	They straightened them, straight
+00:20:48.352	1248.352	00:20:54.019	1254.019	00:00:05.667	5.667	They straightened and the child turned itself
+00:20:55.804	1255.804	00:20:58.451	1258.451	00:00:02.647	2.647	Yes, it’s turned
+00:20:59.940	1259.94	00:21:02.842	1262.842	00:00:02.902	2.902	The head is coming, another one said, from that side
+00:21:03.529	1263.529	00:21:05.235	1265.235	00:00:01.706	1.706	When that child is coming head first
+00:21:06.293	1266.293	00:21:08.450	1268.45	00:00:02.157	2.157	You push on it for her
+00:21:11.411	1271.411	00:21:13.921	1273.921	00:00:02.510	2.51	You push, let her pusch
+00:21:16.000	1276.0	00:21:20.568	1280.568	00:00:04.568	4.568	You push hard
+00:21:25.353	1285.353	00:21:27.490	1287.49	00:00:02.137	2.137	[break]
+00:21:34.420	1294.42	00:21:37.735	1297.735	00:00:03.315	3.315	My father came back
+00:21:38.605	1298.605	00:21:41.157	1301.157	00:00:02.552	2.552	My husband, from work
+00:21:41.368	1301.368	00:21:45.394	1305.394	00:00:04.026	4.026	From hospital? No from the butcher shop
+00:21:47.447	1307.447	00:21:48.078	1308.078	00:00:00.631	0.631	Take it away!
+00:22:04.447	1324.447	00:22:06.263	1326.263	00:00:01.816	1.816	With my picture
+00:22:07.394	1327.394	00:22:09.657	1329.657	00:00:02.263	2.263	We were sleeping and cooking meat
+00:22:10.999	1330.999	00:22:14.104	1334.104	00:00:03.105	3.105	We were cooking meat at night, finished
+00:22:14.973	1334.973	00:22:17.947	1337.947	00:00:02.974	2.974	Well, they smelled us now, the wurrguru
+00:22:18.314	1338.314	00:22:19.735	1339.735	00:00:01.421	1.421	They smelled that meat
+00:22:21.762	1341.762	00:22:24.052	1344.052	00:00:02.290	2.29	First the gordogordog came
+00:22:24.262	1344.262	00:22:27.920	1347.92	00:00:03.658	3.658	Head, only the head came, no legs
+00:22:28.025	1348.025	00:22:28.815	1348.815	00:00:00.790	0.79	rolling
+00:22:30.289	1350.289	00:22:33.078	1353.078	00:00:02.789	2.789	The head is coming, only the head
+00:22:33.814	1353.814	00:22:40.735	1360.735	00:00:06.921	6.921	Have you Heard about this anywhere? Only the head comes, gordogordogordog
+00:22:40.762	1360.762	00:22:47.656	1367.656	00:00:06.894	6.894	Like this big ones, Round ones, it comes rolling
+00:22:49.841	1369.841	00:22:52.104	1372.104	00:00:02.263	2.263	The gordogordog came to us
+00:22:52.868	1372.868	00:22:56.789	1376.789	00:00:03.921	3.921	Not (just) one, nangala, lots, just like leaves
+00:22:57.604	1377.604	00:22:59.631	1379.631	00:00:02.027	2.027	It came smelling the meat
+00:23:00.078	1380.078	00:23:00.972	1380.972	00:00:00.894	0.894	Smelled it
+00:23:03.499	1383.499	00:23:05.552	1385.552	00:00:02.053	2.053	I was listening while lying down
+00:23:06.315	1386.315	00:23:09.236	1389.236	00:00:02.921	2.921	I was listening
+00:23:10.683	1390.683	00:23:18.841	1398.841	00:00:08.158	8.158	And I had Michael, (when he was) little
+00:23:20.473	1400.473	00:23:23.368	1403.368	00:00:02.895	2.895	Hey! I woke him up.  I woke him
+00:23:23.683	1403.683	00:23:24.473	1404.473	00:00:00.790	0.79	My husband
+00:23:24.920	1404.92	00:23:29.131	1409.131	00:00:04.211	4.211	That’s gordogordog coming, wurrguru, yaa yaa waa
+00:23:29.420	1409.42	00:23:33.342	1413.342	00:00:03.922	3.922	They hunted them away now, they chased them away
+00:23:34.473	1414.473	00:23:38.184	1418.184	00:00:03.711	3.711	The gordogordo went 
+00:23:41.868	1421.868	00:23:44.315	1424.315	00:00:02.447	2.447	Where were you campng? Lowdown?
+00:23:44.341	1424.341	00:23:46.473	1426.473	00:00:02.132	2.132	Upriver, on top 
+00:23:47.710	1427.71	00:23:48.657	1428.657	00:00:00.947	0.947	From the south
+00:23:49.709	1429.709	00:23:50.788	1430.788	00:00:01.079	1.079	??
+00:24:02.709	1442.709	00:24:05.735	1445.735	00:00:03.026	3.026	We were camping there and then
+00:24:06.604	1446.604	00:24:07.473	1447.473	00:00:00.869	0.869	We were sleeping no
+00:24:07.999	1447.999	00:24:10.972	1450.972	00:00:02.973	2.973	After we’d chased away the gordogordog they didn’t come again, no
+00:24:12.447	1452.447	00:24:15.710	1455.71	00:00:03.263	3.263	After that came two wurrguru, with two tails
+00:24:22.841	1462.841	00:24:26.368	1466.368	00:00:03.527	3.527	After the gordogordog had gone, they went back
+00:24:26.578	1466.578	00:24:28.052	1468.052	00:00:01.474	1.474	Two wurrguru came out
+00:24:29.289	1469.289	00:24:30.104	1470.104	00:00:00.815	0.815	Climbing a tree
+00:24:32.262	1472.262	00:24:36.078	1476.078	00:00:03.816	3.816	It saw us, it took it away (?)
+00:24:37.499	1477.499	00:24:41.420	1481.42	00:00:03.921	3.921	My husband piched me, (look) up
+00:24:41.420	1481.42	00:24:44.789	1484.789	00:00:03.369	3.369	What is that animal, I said to him, a monkey?
+00:24:46.552	1486.552	00:24:47.289	1487.289	00:00:00.737	0.737	An wurrguru
+00:24:47.499	1487.499	00:24:49.736	1489.736	00:00:02.237	2.237	He boomeranged them with a stick, upwards
+00:24:58.972	1498.972	00:24:59.893	1499.893	00:00:00.921	0.921	With a stick/wood
+00:25:01.025	1501.025	00:25:03.736	1503.736	00:00:02.711	2.711	They fly like birds
+00:25:06.157	1506.157	00:25:08.341	1508.341	00:00:02.184	2.184	Bong! They went [wuma]
+00:25:10.210	1510.21	00:25:15.131	1515.131	00:00:04.921	4.921	Disappeared (like a) spring
+00:25:17.210	1517.21	00:25:19.368	1519.368	00:00:02.158	2.158	Yes they follow strings
+00:25:21.025	1521.025	00:25:23.472	1523.472	00:00:02.447	2.447	Wuma wuma
+00:25:26.710	1526.71	00:25:28.525	1528.525	00:00:01.815	1.815	They follow wuma
+00:25:30.841	1530.841	00:25:31.815	1531.815	00:00:00.974	0.974	They disappeared
+00:25:33.920	1533.92	00:25:35.578	1535.578	00:00:01.658	1.658	I don’t see them more now, nothing
+00:25:44.315	1544.315	00:25:48.973	1548.973	00:00:04.658	4.658	For yimid, it’s nangala [SKINS follow]
+00:25:51.210	1551.21	00:25:52.052	1552.052	00:00:00.842	0.842	spouse
+00:25:56.289	1556.289	00:25:59.499	1559.499	00:00:03.210	3.21	For yiwanay, yimburrwarla
+00:26:05.315	1565.315	00:26:08.815	1568.815	00:00:03.500	3.5	For yurrwarla, yimbanay
+00:26:13.604	1573.604	00:26:18.130	1578.13	00:00:04.526	4.526	And whatsit, for jangala, yimidani
+00:26:23.131	1583.131	00:26:25.946	1585.946	00:00:02.815	2.815	Yimbangari for jabig
+00:26:27.420	1587.42	00:26:29.946	1589.946	00:00:02.526	2.526	For yaynmirra yimbalyarri
+00:26:35.368	1595.368	00:26:38.525	1598.525	00:00:03.157	3.157	Jabija for yiwangari
+00:26:43.552	1603.552	00:26:47.947	1607.947	00:00:04.395	4.395	From jabida yimbanay, yiwanay
+00:26:49.368	1609.368	00:26:53.447	1613.447	00:00:04.079	4.079	From yaynmirra yurrwarla and yimburrwarla
+00:26:56.289	1616.289	00:26:59.341	1619.341	00:00:03.052	3.052	From yimidani jabiday
+00:27:01.920	1621.92	00:27:06.499	1626.499	00:00:04.579	4.579	From yinggangala yiwalyarri, yimbalyarri
+00:27:08.183	1628.183	00:27:11.894	1631.894	00:00:03.711	3.711	For the child, yinggangala
+00:27:12.315	1632.315	00:27:13.262	1633.262	00:00:00.947	0.947	What, yiwangari
+00:27:14.051	1634.051	00:27:18.577	1638.577	00:00:04.526	4.526	From yinggangala, my childre
+00:27:20.183	1640.183	00:27:22.446	1642.446	00:00:02.263	2.263	Two yimbalyarri
+00:27:26.894	1646.894	00:27:32.184	1652.184	00:00:05.290	5.29	I call them juga, child
+00:27:33.157	1653.157	00:27:42.841	1662.841	00:00:09.684	9.684	We call `child’ yiwangari, yimbangari, jabiday, jabijin
+00:27:43.446	1663.446	00:27:46.999	1666.999	00:00:03.553	3.553	From FZdaughter, like from yimidani
+00:27:47.262	1667.262	00:27:49.788	1669.788	00:00:02.526	2.526	Yimburrwarla calls them yigarrwa
+00:27:50.446	1670.446	00:27:54.973	1674.973	00:00:04.527	4.527	They call yimidani yingawa, like that, full one
+00:27:55.605	1675.605	00:27:59.842	1679.842	00:00:04.237	4.237	Really full FZC
+00:28:01.131	1681.131	00:28:05.499	1685.499	00:00:04.368	4.368	Yinggangala like this, you know, whatsit calls them yingawa
+00:28:07.394	1687.394	00:28:08.657	1688.657	00:00:01.263	1.263	From yiwanay
+00:28:09.104	1689.104	00:28:09.946	1689.946	00:00:00.842	0.842	yimbalyarri
+00:28:13.394	1693.394	00:28:16.131	1696.131	00:00:02.737	2.737	Yes, from yimbanay naynmirra, yes, yaynmirra
+00:28:20.815	1700.815	00:28:23.341	1703.341	00:00:02.526	2.526	¿-from they call them yingawa
+00:28:27.605	1707.605	00:28:33.946	1713.946	00:00:06.341	6.341	yimbanayI or yimbanay? Yimbanay
+00:28:36.078	1716.078	00:28:37.815	1717.815	00:00:01.737	1.737	yinggangala
+00:28:38.157	1718.157	00:28:43.499	1723.499	00:00:05.342	5.342	Cousins sleep, what do they call it? They called them yimarnayn
+00:28:44.210	1724.21	00:28:51.578	1731.578	00:00:07.368	7.368	Father? Yiwanay, yinggangala (calls them) yimbanay
+00:28:52.454	1732.454	00:29:10.045	1750.045	00:00:17.591	17.591	Also yimidani yimburrwarla they call them whosit, jangala and yiwanay husband
+00:29:11.842	1751.842	00:29:19.999	1759.999	00:00:08.157	8.157	What do they call it when they sleep wrong way? Wajiwaji?
+00:29:20.052	1760.052	00:29:24.499	1764.499	00:00:04.447	4.447	Yes, wajiwaji, granny-gither
+00:29:25.105	1765.105	00:29:34.473	1774.473	00:00:09.368	9.368	Grannies, cousins, mother- and son-in-law, maybe they sleep 
+00:29:34.578	1774.578	00:29:36.105	1776.105	00:00:01.527	1.527	Today, lots of them
+00:29:38.684	1778.684	00:29:45.078	1785.078	00:00:06.394	6.394	Any sort, no skin, like whitefellas they sleep skin-wise
+00:29:50.736	1790.736	00:29:52.368	1792.368	00:00:01.632	1.632	Yes, straight way
+00:29:56.394	1796.394	00:30:05.183	1805.183	00:00:08.789	8.789	Yes, they had ? from mother-in-law
+00:30:05.499	1805.499	00:30:09.499	1809.499	00:00:04.000	4.0	From mother- and father-in-law
+00:30:14.341	1814.341	00:30:21.288	1821.288	00:00:06.947	6.947	Not straight, wrong way, they didn’t give (promise) them, nothing
+00:30:22.736	1822.736	00:30:25.710	1825.71	00:00:02.974	2.974	His promised wife
+00:30:27.710	1827.71	00:30:31.026	1831.026	00:00:03.316	3.316	Yimid picked her up, yimburrwarla, his cousin
+00:30:32.552	1832.552	00:30:35.105	1835.105	00:00:02.553	2.553	He didn’t give that Yinggangala, no
+00:30:42.051	1842.051	00:30:49.420	1849.42	00:00:07.369	7.369	They pulled the tree
+00:30:50.394	1850.394	00:30:52.920	1852.92	00:00:02.526	2.526	Cocky appled, and whatsit gutta percha
+00:30:58.183	1858.183	00:31:01.789	1861.789	00:00:03.606	3.606	They dragged it…fish
+00:31:02.710	1862.71	00:31:07.815	1867.815	00:00:05.105	5.105	…and they came together in a large wave now
+00:31:11.263	1871.263	00:31:12.947	1872.947	00:00:01.684	1.684	They picked them up in bunches
+00:31:13.683	1873.683	00:31:16.657	1876.657	00:00:02.974	2.974	They picked them up, they threw them up, toss too
+00:31:17.894	1877.894	00:31:20.368	1880.368	00:00:02.474	2.474	Heaped them up, and two others
+00:31:20.999	1880.999	00:31:22.078	1882.078	00:00:01.079	1.079	They made a fire
+00:31:22.683	1882.683	00:31:25.289	1885.289	00:00:02.606	2.606	They made the grass soft
+00:31:26.341	1886.341	00:31:30.184	1890.184	00:00:03.843	3.843	They put grass, they put a log across, whatsit
+00:31:31.263	1891.263	00:31:36.289	1896.289	00:00:05.026	5.026	Black plum, and small black plum, they threw it now
+00:31:37.499	1897.499	00:31:41.420	1901.42	00:00:03.921	3.921	They crumbled it up, it smoked 
+00:31:42.131	1902.131	00:31:45.052	1905.052	00:00:02.921	2.921	…the charcoal
+00:31:49.946	1909.946	00:31:52.735	1912.735	00:00:02.789	2.789	They made a fire, and it burned widely
+00:31:53.684	1913.684	00:31:56.342	1916.342	00:00:02.658	2.658	They made a big fire
+00:31:57.920	1917.92	00:32:00.052	1920.052	00:00:02.132	2.132	They threw the fish and all in the coals
+00:32:07.446	1927.446	00:32:09.946	1929.946	00:00:02.500	2.5	They cooked the meat, fish
+00:32:10.578	1930.578	00:32:11.736	1931.736	00:00:01.158	1.158	And goanna
+00:32:12.789	1932.789	00:32:14.631	1934.631	00:00:01.842	1.842	They worked the firestick
+00:32:14.697	1934.697	00:32:17.170	1937.17	00:00:02.473	2.473	They worked the firedrill, it made a flame now
+00:32:19.736	1939.736	00:32:23.499	1943.499	00:00:03.763	3.763	They rolled it up and put it in a paperbark packet
+00:32:24.893	1944.893	00:32:27.946	1947.946	00:00:03.053	3.053	They took it inside
+00:32:29.131	1949.131	00:32:35.183	1955.183	00:00:06.052	6.052	Gurlinga, that’s a coolamon? Yes, old-fashioned They worked the firedrill 
+00:32:35.526	1955.526	00:32:39.236	1959.236	00:00:03.710	3.71	They carried it with a strap
+00:32:39.631	1959.631	00:32:43.657	1963.657	00:00:04.026	4.026	Dilly bag, y know, where Aboriginal men used to carry
+00:32:44.710	1964.71	00:32:48.578	1968.578	00:00:03.868	3.868	With what, tobacco too
+00:32:49.236	1969.236	00:32:52.105	1972.105	00:00:02.869	2.869	Not really tobacco, this whitefella tobacco now
+00:32:52.446	1972.446	00:32:53.867	1973.867	00:00:01.421	1.421	Bush tobacco
+00:32:56.947	1976.947	00:33:05.210	1985.21	00:00:08.263	8.263	[They were afraid of whites, where were they?] Whites were shooting …
+00:33:05.499	1985.499	00:33:07.920	1987.92	00:00:02.421	2.421	The old ladies were camping up on the hill
+00:33:08.485	1988.485	00:33:10.353	1990.353	00:00:01.868	1.868	Hiding, with the kids
+00:33:10.578	1990.578	00:33:11.789	1991.789	00:00:01.211	1.211	-having, like this
+00:33:14.683	1994.683	00:33:17.525	1997.525	00:00:02.842	2.842	Jabarda, don’t you call out, no, quiet
+00:33:18.605	1998.605	00:33:22.368	2002.368	00:00:03.763	3.763	[they were quiet]? Yes indeed, also the kids and all
+00:33:22.683	2002.683	00:33:25.999	2005.999	00:00:03.316	3.316	Jabarda [skin, Elsie’s father], they were afraid of the rifle, [and were] quiet
+00:33:27.657	2007.657	00:33:31.842	2011.842	00:00:04.185	4.185	He kept them quiet
+00:33:32.763	2012.763	00:33:34.078	2014.078	00:00:01.315	1.315	Your father?
+00:33:34.263	2014.263	00:33:37.605	2017.605	00:00:03.342	3.342	Yes indeed, my father was small, he didn’t call out, not at all
+00:33:39.473	2019.473	00:33:44.920	2024.92	00:00:05.447	5.447	He stayed, early in the morning the old men went out foraging
+00:33:45.815	2025.815	00:33:47.999	2027.999	00:00:02.184	2.184	For echidna some of them, for kangaroo
+00:33:49.447	2029.447	00:33:51.157	2031.157	00:00:01.710	1.71	Some went [fishing?]
+00:33:53.394	2033.394	00:33:54.710	2034.71	00:00:01.316	1.316	They got fish
+00:33:56.657	2036.657	00:34:03.710	2043.71	00:00:07.053	7.053	Turtles and all, at Yerriyn, Horse Spring [do you remember it? Yes]
+00:34:05.026	2045.026	00:34:07.920	2047.92	00:00:02.894	2.894	They got their fish, finished
+00:34:08.815	2048.815	00:34:10.420	2050.42	00:00:01.605	1.605	They took it back up home
+00:34:12.421	2052.421	00:34:14.552	2054.552	00:00:02.131	2.131	Part-cooked, they carried it on their shoulders
+00:34:15.105	2055.105	00:34:19.552	2059.552	00:00:04.447	4.447	With what, paperbark, with a coolamon
+00:34:21.236	2061.236	00:34:23.841	2063.841	00:00:02.605	2.605	They cooked kangaroo and all now
+00:34:23.921	2063.921	00:34:27.157	2067.157	00:00:03.236	3.236	Echidna kangaroo, they cooked it, bandicoot
+00:34:28.342	2068.342	00:34:33.052	2073.052	00:00:04.710	4.71	Whatsit, possum and all, they cooked
+00:34:33.657	2073.657	00:34:36.736	2076.736	00:00:03.079	3.079	FM: they weren’t working at the station
+00:34:37.262	2077.262	00:34:39.367	2079.367	00:00:02.105	2.105	Not yet, they were still shooting them
+00:34:40.525	2080.525	00:34:45.631	2085.631	00:00:05.106	5.106	We ate [food] with no salt
+00:34:54.631	2094.631	00:35:00.552	2100.552	00:00:05.921	5.921	We went from Manbulloo bush, back to Willeroo
+00:35:02.736	2102.736	00:35:03.578	2103.578	00:00:00.842	0.842	We saw
+00:35:04.315	2104.315	00:35:05.710	2105.71	00:00:01.395	1.395	As we were perishing for water
+00:35:06.973	2106.973	00:35:09.631	2109.631	00:00:02.658	2.658	My mother was looking for a tree
+00:35:09.683	2109.683	00:35:12.262	2112.262	00:00:02.579	2.579	She saw a tree fall, [a tree with] a gall
+00:35:16.104	2116.104	00:35:17.420	2117.42	00:00:01.316	1.316	She saw a ¿
+00:35:18.683	2118.683	00:35:21.604	2121.604	00:00:02.921	2.921	Water is there, gulijban [tree]
+00:35:23.078	2123.078	00:35:26.973	2126.973	00:00:03.895	3.895	She called out to her, to my mother, that’s a gulijban, she said to her
+00:35:27.157	2127.157	00:35:27.657	2127.657	00:00:00.500	0.5	Is that right?
+00:35:28.473	2128.473	00:35:32.210	2132.21	00:00:03.737	3.737	Come on, come on, come, we were perishing for water
+00:35:33.289	2133.289	00:35:36.657	2136.657	00:00:03.368	3.368	She took us with the tree, they chop that now?
+00:35:36.973	2136.973	00:35:40.420	2140.42	00:00:03.447	3.447	Duuu duuu they hit the tree with an axe all around
+00:35:41.815	2141.815	00:35:46.604	2146.604	00:00:04.789	4.789	It comes now, it rushes like a current
+00:35:47.657	2147.657	00:35:50.236	2150.236	00:00:02.579	2.579	It rushes
+00:35:52.315	2152.315	00:35:54.578	2154.578	00:00:02.263	2.263	It rushes down
+00:35:56.394	2156.394	00:35:57.710	2157.71	00:00:01.316	1.316	From the tree knots? [akin to kunckle?]
+00:35:59.315	2159.315	00:36:01.157	2161.157	00:00:01.842	1.842	Down below to the gall
+00:36:03.736	2163.736	00:36:07.999	2167.999	00:00:04.263	4.263	They cut the gall open, and ? take out the small one
+00:36:09.473	2169.473	00:36:10.683	2170.683	00:00:01.210	1.21	The water spurts!
+00:36:12.394	2172.394	00:36:15.131	2175.131	00:00:02.737	2.737	It’s Good therem in the gulijban tree
+00:36:16.946	2176.946	00:36:21.104	2181.104	00:00:04.158	4.158	We filled up, we filled up, and [wet?] heads
+00:36:22.289	2182.289	00:36:25.420	2185.42	00:00:03.131	3.131	Finished, we filled up the bucket full, full
+00:36:26.499	2186.499	00:36:28.183	2188.183	00:00:01.684	1.684	She gave it to us, we drank/consumed it
+00:36:30.236	2190.236	00:36:30.657	2190.657	00:00:00.421	0.421	Yes indeed
+00:36:33.578	2193.578	00:36:35.236	2195.236	00:00:01.658	1.658	That tree filled up
+00:36:36.078	2196.078	00:36:39.367	2199.367	00:00:03.289	3.289	They make it, like this, like that tree in the middle
+00:36:44.499	2204.499	00:36:46.683	2206.683	00:00:02.184	2.184	I wanted to have dinner there
+00:36:50.420	2210.42	00:36:51.736	2211.736	00:00:01.316	1.316	A lot of water
+00:36:56.999	2216.999	00:37:01.236	2221.236	00:00:04.237	4.237	Gulijban, the wáter is in the tree
+00:37:05.815	2225.815	00:37:11.025	2231.025	00:00:05.210	5.21	They say lilima, whatsit lilima
+00:37:11.183	2231.183	00:37:12.815	2232.815	00:00:01.632	1.632	Lilima is like a flood/current
+00:37:14.236	2234.236	00:37:17.973	2237.973	00:00:03.737	3.737	Lilima, like it’s got water
+00:37:26.526	2246.526	00:37:29.289	2249.289	00:00:02.763	2.763	[after pause, story of gumurrinji and bornorron]
+00:37:29.499	2249.499	00:37:33.130	2253.13	00:00:03.631	3.631	She said, you killed my children, I’ll gi foraging for plum, when she said this
+00:37:34.026	2254.026	00:37:34.868	2254.868	00:00:00.842	0.842	emu 
+00:37:35.868	2255.868	00:37:38.973	2258.973	00:00:03.105	3.105	For green  and Black plum, when she went away from her foraging, a long way
+00:37:40.367	2260.367	00:37:43.420	2263.42	00:00:03.053	3.053	The brolga was cooking goanna for her in the shade
+00:37:45.262	2265.262	00:37:49.157	2269.157	00:00:03.895	3.895	They had the kids hidden, waiting for her
+00:37:52.288	2272.288	00:37:58.920	2278.92	00:00:06.632	6.632	She took her kids from her, emu’s kids, and hid them there a long way, big children
+00:38:00.157	2280.157	00:38:01.131	2281.131	00:00:00.974	0.974	She hid them
+00:38:02.710	2282.71	00:38:08.078	2288.078	00:00:05.368	5.368	She had two of hers and one last one of emu’s
+00:38:09.789	2289.789	00:38:11.052	2291.052	00:00:01.263	1.263	They kept [them] like that now
+00:38:14.052	2294.052	00:38:16.631	2296.631	00:00:02.579	2.579	Whatsit, a lot of kids of brolga’s
+00:38:18.078	2298.078	00:38:20.525	2300.525	00:00:02.447	2.447	Her kids, she had a lot of them, finished
+00:38:23.315	2303.315	00:38:25.973	2305.973	00:00:02.658	2.658	And her kids, emu’s, she hid from her
+00:38:27.499	2307.499	00:38:29.736	2309.736	00:00:02.237	2.237	They were there, I’m going back now
+00:38:30.078	2310.078	00:38:32.420	2312.42	00:00:02.342	2.342	She went back with Black plums
+00:38:33.631	2313.631	00:38:35.473	2315.473	00:00:01.842	1.842	And with whatsit, green plums
+00:38:35.828	2315.828	00:38:41.591	2321.591	00:00:05.763	5.763	She came back to her with tucker, black plums carried on her should, with tucker
+00:38:42.762	2322.762	00:38:45.683	2325.683	00:00:02.921	2.921	And she sees whats it, brolga was cooking for her, finished
+00:38:47.789	2327.789	00:38:49.841	2329.841	00:00:02.052	2.052	She had goanna partly cooked
+00:38:51.052	2331.052	00:38:56.604	2336.604	00:00:05.552	5.552	Wunggun-wondi wurremulu-wu walanja ngundi dagbarlarri go mordorl wayana
+00:38:57.815	2337.815	00:39:01.262	2341.262	00:00:03.447	3.447	Leg, a cut piece, she left for her
+00:39:01.894	2341.894	00:39:02.868	2342.868	00:00:00.974	0.974	With the tail
+00:39:05.183	2345.183	00:39:06.473	2346.473	00:00:01.290	1.29	She came away home from her
+00:39:06.631	2346.631	00:39:09.473	2349.473	00:00:02.842	2.842	Looking for her children
+00:39:10.683	2350.683	00:39:13.762	2353.762	00:00:03.079	3.079	Where are my kids? She said to brolga
+00:39:15.025	2355.025	00:39:15.894	2355.894	00:00:00.869	0.869	Where are my kids?
+00:39:15.894	2355.894	00:39:18.736	2358.736	00:00:02.842	2.842	No, I killed them, I killed them dead
+00:39:19.815	2359.815	00:39:21.789	2361.789	00:00:01.974	1.974	I killed the lot, she said to her
+00:39:23.104	2363.104	00:39:24.052	2364.052	00:00:00.948	0.948	What for?
+00:39:25.394	2365.394	00:39:27.604	2367.604	00:00:02.210	2.21	They were noisy, no, I killed them all
+00:39:28.894	2368.894	00:39:30.157	2370.157	00:00:01.263	1.263	Your children
+00:39:33.499	2373.499	00:39:35.631	2375.631	00:00:02.132	2.132	She’d killed all her children
+00:39:37.710	2377.71	00:39:40.078	2380.078	00:00:02.368	2.368	She’d killed all of emu’s children
+00:39:40.868	2380.868	00:39:42.973	2382.973	00:00:02.105	2.105	Only two ran away
+00:39:44.946	2384.946	00:39:46.894	2386.894	00:00:01.948	1.948	They ran away from her and disappeared
+00:39:48.341	2388.341	00:39:50.367	2390.367	00:00:02.026	2.026	They fought now, those two mothers 
+00:39:52.236	2392.236	00:39:55.262	2395.262	00:00:03.026	3.026	They fought
+00:39:56.920	2396.92	00:40:00.604	2400.604	00:00:03.684	3.684	They fought each other, finished
+00:40:01.893	2401.893	00:40:04.315	2404.315	00:00:02.422	2.422	Brolga hit emu
+00:40:05.288	2405.288	00:40:11.315	2411.315	00:00:06.027	6.027	Her two arms, and behind, her behind is hunched over 
+00:40:12.262	2412.262	00:40:14.078	2414.078	00:00:01.816	1.816	Her two arms, small wings now
+00:40:15.657	2415.657	00:40:16.815	2416.815	00:00:01.158	1.158	She doesn’t fly
+00:40:17.078	2417.078	00:40:18.420	2418.42	00:00:01.342	1.342	She just runs 
+00:40:19.525	2419.525	00:40:21.552	2421.552	00:00:02.027	2.027	And also emu hit her on the head
+00:40:23.078	2423.078	00:40:27.025	2427.025	00:00:03.947	3.947	Brolga, on the head, on the head, that’s red blood of hers
+00:40:29.815	2429.815	00:40:31.736	2431.736	00:00:01.921	1.921	They two mothers fought, finished 
+00:40:32.341	2432.341	00:40:38.130	2438.13	00:00:05.789	5.789	Brolga asked, what are you like?
+00:40:39.789	2439.789	00:40:41.315	2441.315	00:00:01.526	1.526	I scuttle on the ground
+00:40:43.236	2443.236	00:40:45.026	2445.026	00:00:01.790	1.79	You killed my children, and my arms are finished
+00:40:48.762	2448.762	00:40:49.920	2449.92	00:00:01.158	1.158	I have no children
+00:40:50.157	2450.157	00:40:53.815	2453.815	00:00:03.658	3.658	My hands are two small wings
+00:40:54.947	2454.947	00:40:55.657	2455.657	00:00:00.710	0.71	And you?
+00:40:55.710	2455.71	00:40:56.604	2456.604	00:00:00.894	0.894	I say, `Dorrg’
+00:40:57.973	2457.973	00:40:59.683	2459.683	00:00:01.710	1.71	I go up in the sky
+00:41:01.683	2461.683	00:41:03.288	2463.288	00:00:01.605	1.605	finished
+00:41:12.946	2472.946	00:41:17.157	2477.157	00:00:04.211	4.211	Two nightjars killed him
+00:41:18.631	2478.631	00:41:19.789	2479.789	00:00:01.158	1.158	What, a crocodile
+00:41:20.814	2480.814	00:41:22.946	2482.946	00:00:02.132	2.132	They speared down in the river
+00:41:24.051	2484.051	00:41:25.472	2485.472	00:00:01.421	1.421	Then took it up to the hill
+00:41:26.630	2486.63	00:41:30.025	2490.025	00:00:03.395	3.395	They took it up, spotted niht jar, they have it on their shoulders
+00:41:30.841	2490.841	00:41:32.973	2492.973	00:00:02.132	2.132	They go with i ton their shoulders, yes
+00:41:36.262	2496.262	00:41:38.394	2498.394	00:00:02.132	2.132	They took it up to the hill
+00:41:39.789	2499.789	00:41:40.973	2500.973	00:00:01.184	1.184	From down below at the river
+00:41:47.131	2507.131	00:41:50.157	2510.157	00:00:03.026	3.026	They didn’t fight [short one; wind noise]
+00:41:57.525	2517.525	00:41:58.683	2518.683	00:00:01.158	1.158	Twi nightjars
+00:42:05.868	2525.868	00:42:07.262	2527.262	00:00:01.394	1.394	Just the two of them
+00:42:12.420	2532.42	00:42:13.710	2533.71	00:00:01.290	1.29	They didn’t fight each other
+00:42:24.394	2544.394	00:42:25.130	2545.13	00:00:00.736	0.736	To the hill
+00:42:34.946	2554.946	00:42:40.841	2560.841	00:00:05.895	5.895	Barnangga is the name of the/a place
+00:42:45.341	2565.341	00:42:50.104	2570.104	00:00:04.763	4.763	[pause at this point, resumes at 43:25]
+00:43:35.236	2615.236	00:43:37.709	2617.709	00:00:02.473	2.473	[last section with Ruby Gomnyang re the taking away of her sister by Welfare]
+00:43:37.789	2617.789	00:43:39.499	2619.499	00:00:01.710	1.71	That old man Wurrija
+00:43:45.236	2625.236	00:43:48.210	2628.21	00:00:02.974	2.974	I don’t know what you call that place in language
+00:43:49.867	2629.867	00:43:51.130	2631.13	00:00:01.263	1.263	Which old man?
+00:43:57.156	2637.156	00:44:01.419	2641.419	00:00:04.263	4.263	Jimmy Bagala
+00:44:06.052	2646.052	00:44:07.526	2647.526	00:00:01.474	1.474	I was still small
+00:44:08.078	2648.078	00:44:11.262	2651.262	00:00:03.184	3.184	Old man Gojorlo? He was a little older
+00:44:12.210	2652.21	00:44:13.236	2653.236	00:00:01.026	1.026	He should know
+00:44:15.803	2655.803	00:44:19.686	2659.686	00:00:03.883	3.883	We were camping, mom was keeping us and her mum
+00:44:20.431	2660.431	00:44:24.431	2664.431	00:00:04.000	4.0	She was keeping us, and that policeman, isn’t it, came now
+00:44:25.312	2665.312	00:44:30.528	2670.528	00:00:05.216	5.216	The policeman came and saw, oh, this one’s a half-caste. Isn’t it, he said to her
+00:44:31.529	2671.529	00:44:34.548	2674.548	00:00:03.019	3.019	For this one, my sister
+00:44:36.274	2676.274	00:44:41.823	2681.823	00:00:05.549	5.549	He picked her up, I’ll take you, he said to my mother
+00:44:45.822	2685.822	00:44:47.097	2687.097	00:00:01.275	1.275	Where did he take her?
+00:44:47.273	2687.273	00:44:50.685	2690.685	00:00:03.412	3.412	He took her to the Welfare
+00:44:53.941	2693.941	00:44:56.274	2696.274	00:00:02.333	2.333	He took her to his camp
+00:44:57.862	2697.862	00:44:59.999	2699.999	00:00:02.137	2.137	He took her north to Darwin
+00:45:07.391	2707.391	00:45:08.763	2708.763	00:00:01.372	1.372	They sent her north now
+00:45:08.862	2708.862	00:45:10.411	2710.411	00:00:01.549	1.549	They sent her away north
+00:45:17.372	2717.372	00:45:23.627	2723.627	00:00:06.255	6.255	She came back, they sent my child north, she said
+00:45:24.499	2724.499	00:45:36.157	2736.157	00:00:11.658	11.658	[parts soft]
+00:45:49.210	2749.21	00:45:50.736	2750.736	00:00:01.526	1.526	She went for good now
+00:45:53.499	2753.499	00:45:55.920	2755.92	00:00:02.421	2.421	We stayed, got big
+00:46:07.683	2767.683	00:46:10.841	2770.841	00:00:03.158	3.158	My sister, for Good, I said
+00:46:13.841	2773.841	00:46:15.341	2775.341	00:00:01.500	1.5	We were at Delamere
+00:46:18.131	2778.131	00:46:19.604	2779.604	00:00:01.473	1.473	Yerriyn, isn’t it?
+00:46:22.578	2782.578	00:46:28.157	2788.157	00:00:05.579	5.579	Who was the whitefella then at Delamere?
+00:46:39.236	2799.236	00:46:42.052	2802.052	00:00:02.816	2.816	We stayed there, we got bigger
+00:46:44.184	2804.184	00:46:48.315	2808.315	00:00:04.131	4.131	Who was the whitefella then at Delamere?
+00:46:50.210	2810.21	00:46:52.526	2812.526	00:00:02.316	2.316	Who was that White man?
+00:46:54.131	2814.131	00:46:56.920	2816.92	00:00:02.789	2.789	Micky Bennet’s father
+00:47:00.841	2820.841	00:47:03.394	2823.394	00:00:02.553	2.553	Micky Bennett’s father, your old man
+00:47:03.446	2823.446	00:47:06.183	2826.183	00:00:02.737	2.737	Who’s that old man Jim Bennett
+00:47:12.763	2832.763	00:47:16.236	2836.236	00:00:03.473	3.473	He had an old woman

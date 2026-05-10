@@ -16,6 +16,12 @@ env/
 results/
 translation/saves/
 
+# Data
+data/wave_files
+data/transcribe/
+
+
+
 # Checkpoints
 *.bin
 *.pt

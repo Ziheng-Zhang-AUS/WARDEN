@@ -1,0 +1,134 @@
+00:02:39.692	159.692	00:02:46.961	166.961	00:00:07.269	7.269	My father was good-looking too.
+00:02:49.499	169.499	00:02:54.115	174.115	00:00:04.616	4.616	He liked my mother now.
+00:02:56.076	176.076	00:02:57.730	177.73	00:00:01.654	1.654	Ah, let’s be (together).
+00:02:59.480	179.48	00:03:01.057	181.057	00:00:01.577	1.577	They picked them up now.
+00:03:01.653	181.653	00:03:03.884	183.884	00:00:02.231	2.231	They ran off with them.       [SW seems to be referring to men and women in general with this plural]
+00:03:09.423	189.423	00:03:12.077	192.077	00:00:02.654	2.654	No, Mother never had a promise(d) one.
+00:03:12.405	192.405	00:03:15.228	195.228	00:00:02.823	2.823	Dad picked mom up now
+00:03:15.290	195.29	00:03:16.176	196.176	00:00:00.886	0.886	He picked her up.
+00:03:17.862	197.862	00:03:22.980	202.98	00:00:05.118	5.118	They went somewhere and he brought her back.
+00:03:23.822	203.822	00:03:27.920	207.92	00:00:04.098	4.098	They went for a couple of week and he went back
+00:03:29.746	209.746	00:03:34.544	214.544	00:00:04.798	4.798	They stayed a long time.
+00:03:35.228	215.228	00:03:36.531	216.531	00:00:01.303	1.303	They went back.
+00:03:37.784	217.784	00:03:40.113	220.113	00:00:02.329	2.329	Old man my grandfather said to him
+00:03:42.607	222.607	00:03:44.316	224.316	00:00:01.709	1.709	OK, you two stay (together).
+00:03:46.747	226.747	00:03:52.455	232.455	00:00:05.708	5.708	You keep her, old man said to him
+00:03:53.518	233.518	00:03:55.139	235.139	00:00:01.621	1.621	My grandfather Yilunjabarndin.
+00:04:01.809	241.809	00:04:04.974	244.974	00:00:03.165	3.165	You stay (together) now, that’s OK, when I go.
+00:04:13.632	253.632	00:04:14.746	254.746	00:00:01.114	1.114	They stayed (together).
+00:04:27.354	267.354	00:04:29.278	269.278	00:00:01.924	1.924	No, he came to Willeroo from Delamere
+00:04:31.100	271.1	00:04:35.809	275.809	00:00:04.709	4.709	He was at Willeroo, then the old man went away, rolled up his swag
+00:04:36.366	276.366	00:04:38.290	278.29	00:00:01.924	1.924	He went, I’m going to Delamere. 
+00:04:38.379	278.379	00:04:41.202	281.202	00:00:02.823	2.823	Another old man was there
+00:04:41.670	281.67	00:04:44.113	284.113	00:00:02.443	2.443	Maybe Billycan
+00:04:46.025	286.025	00:04:48.430	288.43	00:00:02.405	2.405	He lived there, at Delamere.
+00:04:49.266	289.266	00:04:50.481	290.481	00:00:01.215	1.215	I’m going to him now.
+00:04:50.569	290.569	00:04:52.961	292.961	00:00:02.392	2.392	Maybe he is sick.
+00:04:53.582	293.582	00:04:54.949	294.949	00:00:01.367	1.367	Maybe he’s OK. 
+00:04:55.164	295.164	00:04:57.797	297.797	00:00:02.633	2.633	We lived together.
+00:04:58.329	298.329	00:05:00.025	300.025	00:00:01.696	1.696	He said to [?, soft]
+00:05:02.366	302.366	00:05:04.619	304.619	00:00:02.253	2.253	He went away before I was born.
+00:05:07.078	307.078	00:05:08.313	308.313	00:00:01.235	1.235	For Good, he went away
+00:05:10.342	310.342	00:05:12.620	312.62	00:00:02.278	2.278	Yeah, now he lived at Delamere.
+00:05:12.683	312.683	00:05:16.961	316.961	00:00:04.278	4.278	I was small.
+00:05:17.253	317.253	00:05:18.810	318.81	00:00:01.557	1.557	I got big(ger) now.
+00:05:19.784	319.784	00:05:25.632	325.632	00:00:05.848	5.848	I got big(ger), what’s it, who
+00:05:26.304	326.304	00:05:29.089	329.089	00:00:02.785	2.785	I said to Gin.gina, I humbugged her.
+00:05:29.646	329.646	00:05:37.570	337.57	00:00:07.924	7.924	I’ll go, where is my grandfather, I would ask her
+00:05:38.215	338.215	00:05:39.392	339.392	00:00:01.177	1.177	Where is my grandfather?
+00:05:40.455	340.455	00:05:43.139	343.139	00:00:02.684	2.684	Old man left us, he’s gone from us? to Delamere. 
+00:05:45.772	345.772	00:05:49.000	349.0	00:00:03.228	3.228	What for? I was always asking.
+00:05:49.519	349.519	00:05:51.025	351.025	00:00:01.506	1.506	Why did he go?
+00:05:51.810	351.81	00:05:54.518	354.518	00:00:02.708	2.708	No, he was thinking about that other old man.
+00:05:55.265	355.265	00:05:57.126	357.126	00:00:01.861	1.861	For that old man, Billycan.
+00:05:57.744	357.744	00:05:59.175	359.175	00:00:01.431	1.431	I have to go there to him now.
+00:05:59.370	359.37	00:06:00.351	360.351	00:00:00.981	0.981	The two of them are living there. 
+00:06:05.728	365.728	00:06:08.044	368.044	00:00:02.316	2.316	OK, I was big now, a young girl.
+00:06:08.329	368.329	00:06:11.405	371.405	00:00:03.076	3.076	But I had no breasts.
+00:06:26.202	386.202	00:06:26.734	386.734	00:00:00.532	0.532	Young girl
+00:06:44.531	404.531	00:06:46.493	406.493	00:00:01.962	1.962	You two stay there.
+00:06:48.509	408.509	00:06:50.156	410.156	00:00:01.647	1.647	We lived there and a white man asked us
+00:06:51.705	411.705	00:06:56.724	416.724	00:00:05.019	5.019	You two yourg girls, will you come with me? I’ll take the two of you.
+00:06:57.528	417.528	00:06:58.469	418.469	00:00:00.941	0.941	To open gates.
+00:06:59.392	419.392	00:07:00.313	420.313	00:00:00.921	0.921	Where?
+00:07:01.097	421.097	00:07:02.999	422.999	00:00:01.902	1.902	Well, to Delamere, right?
+00:07:04.469	424.469	00:07:05.646	425.646	00:00:01.177	1.177	Do the two of you have a family?
+00:07:06.431	426.431	00:07:08.470	428.47	00:00:02.039	2.039	No! we lied to him  
+00:07:09.489	429.489	00:07:12.273	432.273	00:00:02.784	2.784	No, we don’t have a family, we’re living here with mother.  [seems contradictory]
+00:07:14.920	434.92	00:07:21.018	441.018	00:00:06.098	6.098	What about you? He said to her, that [Sarah] now, Do you have a family? 
+00:07:31.823	451.823	00:07:33.783	453.783	00:00:01.960	1.96	Why was he asking?
+00:07:34.783	454.783	00:07:37.979	457.979	00:00:03.196	3.196	Whiteman-Erg ask 3Sg Aux to take [us] back that way
+00:07:38.215	458.215	00:07:39.568	459.568	00:00:01.353	1.353	To Delamere
+00:07:40.273	460.273	00:07:41.450	461.45	00:00:01.177	1.177	To open the gates, you know?
+00:07:43.450	463.45	00:07:45.293	465.293	00:00:01.843	1.843	One old man was driving a truck 
+00:07:50.686	470.686	00:07:52.490	472.49	00:00:01.804	1.804	Delamere’s not far, eh?
+00:07:53.254	473.254	00:08:01.352	481.352	00:00:08.098	8.098	Willeroo, old Delamere. All right.
+00:08:01.567	481.567	00:08:07.097	487.097	00:00:05.530	5.53	Come on, the two of let’s go. Let’s you and me go. [the girls say]
+00:08:08.704	488.704	00:08:10.136	490.136	00:00:01.432	1.432	Go and stay there.  [one girl says to the other?]
+00:08:11.097	491.097	00:08:17.646	497.646	00:00:06.549	6.549	Let’s go, you and me. We’ll see them, my dad.  [Presumably Sarah says].
+00:08:22.117	502.117	00:08:26.881	506.881	00:00:04.764	4.764	We two used to go, that whiteman always said to the two of them
+00:08:26.881	506.881	00:08:35.058	515.058	00:00:08.177	8.177	In the kitchen, you know, tell the cooks, the girls that made food for all the whites
+00:08:35.685	515.685	00:08:37.803	517.803	00:00:02.118	2.118	Give these two young girls food too
+00:08:38.391	518.391	00:08:40.215	520.215	00:00:01.824	1.824	They always gave us with a place	
+00:08:45.234	525.234	00:08:52.254	532.254	00:00:07.020	7.02	We always ate over there 
+00:08:53.783	533.783	00:08:56.901	536.901	00:00:03.118	3.118	How are we going to go back? Maybe tomorrow or the day after
+00:08:57.646	537.646	00:08:59.430	539.43	00:00:01.784	1.784	Let’s go to the camp now.
+00:09:00.019	540.019	00:09:01.940	541.94	00:00:01.921	1.921	We went to the camp now. [the Aboriginal camp at the station]
+00:09:05.078	545.078	00:09:07.156	547.156	00:00:02.078	2.078	They’d always call out to my grandfather.
+00:09:07.921	547.921	00:09:11.431	551.431	00:00:03.510	3.51	Old man Yilunjabarndin, your grandchild has come to (see) you.
+00:09:13.724	553.724	00:09:16.861	556.861	00:00:03.137	3.137	Who brought her? A white man. Well.
+00:09:17.783	557.783	00:09:21.469	561.469	00:00:03.686	3.686	You send her to me now; old man sdaid to me.
+00:09:21.803	561.803	00:09:27.764	567.764	00:00:05.961	5.961	Old man, go there to her, your grandchild is calling out.
+00:09:28.626	568.626	00:09:30.116	570.116	00:00:01.490	1.49	I went up there to him. [in the Aboriginal camp]
+00:09:31.235	571.235	00:09:32.313	572.313	00:00:01.078	1.078	What, grandpa?
+00:09:32.862	572.862	00:09:34.764	574.764	00:00:01.902	1.902	Are you here? Yes. [said Sally].
+00:09:34.803	574.803	00:09:36.685	576.685	00:00:01.882	1.882	What for you two fella follerimbat whitefella?
+00:09:39.411	579.411	00:09:41.215	581.215	00:00:01.804	1.804	What for you two fella follerimbat whitefella?
+00:09:41.940	581.94	00:09:52.489	592.489	00:00:10.549	10.549	Merndeyi jorrb nunugan.ga-wuya ngamandagan road there
+00:09:54.508	594.508	00:09:57.273	597.273	00:00:02.765	2.765	He brings us for gate.
+00:09:58.646	598.646	00:10:02.469	602.469	00:00:03.823	3.823	Don’t talk to me like that [grandfather said to her]
+00:10:02.862	602.862	00:10:07.019	607.019	00:00:04.157	4.157	I let that old man my grandfather talk to me like that.
+00:10:07.391	607.391	00:10:08.960	608.96	00:00:01.569	1.569	He spoke to me now.
+00:10:09.901	609.901	00:10:14.372	614.372	00:00:04.471	4.471	I been sleep there again. I slept at his place.
+00:10:15.254	615.254	00:10:22.450	622.45	00:00:07.196	7.196	The day after I got up, we two might go back now, home.
+00:10:22.920	622.92	00:10:25.646	625.646	00:00:02.726	2.726	I can’t come to you here all the time. 
+00:10:26.450	626.45	00:10:27.843	627.843	00:00:01.393	1.393	I said to him.
+00:10:28.214	628.214	00:10:30.293	630.293	00:00:02.079	2.079	
+00:10:31.077	631.077	00:10:32.548	632.548	00:00:01.471	1.471	Mum will look after me.
+00:10:34.764	634.764	00:10:36.411	636.411	00:00:01.647	1.647	Yes, stay there.
+00:10:37.077	637.077	00:10:41.685	641.685	00:00:04.608	4.608	that White man might `disappear’ you two girls
+00:10:44.274	644.274	00:10:47.666	647.666	00:00:03.392	3.392	We went back to Willeroo now
+00:10:54.372	654.372	00:10:59.019	659.019	00:00:04.647	4.647	And that granny of mine [i.e. wife of grandpa] sent clothes for my mother, I took in a bag.
+00:11:09.489	669.489	00:11:11.215	671.215	00:00:01.726	1.726	Yes, I’ll come myself. [said that old man]
+00:11:17.156	677.156	00:11:20.881	680.881	00:00:03.725	3.725	We went back to Willeroo and stayed there.
+00:11:37.254	697.254	00:11:40.273	700.273	00:00:03.019	3.019	[they saw that dust from the whiteman
+00:11:41.038	701.038	00:11:44.685	704.685	00:00:03.647	3.647	Maybe for those two girls, [s/he?[ said to me
+00:11:50.764	710.764	00:11:52.744	712.744	00:00:01.980	1.98	she saw us get off [mami]
+00:11:53.666	713.666	00:11:55.764	715.764	00:00:02.098	2.098	What do you follow that whitefella for?
+00:11:56.665	716.665	00:12:00.587	720.587	00:00:03.922	3.922	No, he takes us to open the gates.
+00:12:06.960	726.96	00:12:10.077	730.077	00:00:03.117	3.117	Don’t  the two of you follow him, you sit down in one place.
+00:12:16.293	736.293	00:12:22.293	742.293	00:00:06.000	6.0	All right, we stayed, they came back from the stockcamp now.
+00:12:23.136	743.136	00:12:26.430	746.43	00:00:03.294	3.294	They said to me, they  told my father now.
+00:12:27.430	747.43	00:12:31.901	751.901	00:00:04.471	4.471	Whitefella’s been takeing the two girls, an old man
+00:12:32.725	752.725	00:12:35.450	755.45	00:00:02.725	2.725	Whitefella’sbeen taking the two that way.
+00:12:37.646	757.646	00:12:41.136	761.136	00:00:03.490	3.49	my father said to him
+00:12:41.627	761.627	00:12:42.607	762.607	00:00:00.980	0.98	My father
+00:12:43.332	763.332	00:12:47.058	767.058	00:00:03.726	3.726	Don’t you take the two girls any more, you leave them	 [father said to white man]
+00:12:49.508	769.508	00:12:52.312	772.312	00:00:02.804	2.804	You get whitefellas, take them
+00:12:53.135	773.135	00:12:55.272	775.272	00:00:02.137	2.137	To open gates for you
+00:13:04.626	784.626	00:13:08.195	788.195	00:00:03.569	3.569	We’re not happy about these two girls
+00:13:09.352	789.352	00:13:11.254	791.254	00:00:01.902	1.902	We’re afraid for them, he said to him
+00:13:15.725	795.725	00:13:16.783	796.783	00:00:01.058	1.058	My father
+00:13:19.371	799.371	00:13:21.391	801.391	00:00:02.020	2.02	I’m telling you about that two
+00:13:24.352	804.352	00:13:25.528	805.528	00:00:01.176	1.176	He stayed.
+00:13:31.019	811.019	00:13:35.372	815.372	00:00:04.353	4.353	That young girl I left her there at Willeroo, they are there
+00:13:37.588	817.588	00:13:40.823	820.823	00:00:03.235	3.235	They told me, I don’t take them there all the time [mernden been say]
+00:13:42.744	822.744	00:13:43.959	823.959	00:00:01.215	1.215	He said to them
+00:13:44.450	824.45	00:13:46.587	826.587	00:00:02.137	2.137	let them two siddown like that
+00:13:47.430	827.43	00:13:48.920	828.92	00:00:01.490	1.49	We sat down there
+00:13:52.823	832.823	00:13:55.391	835.391	00:00:02.568	2.568	We stayed there for good
+00:13:55.705	835.705	00:13:57.058	837.058	00:00:01.353	1.353	He went back
+00:13:58.607	838.607	00:14:01.587	841.587	00:00:02.980	2.98	He went there and came back to Willeroo
+00:14:01.960	841.96	00:14:03.588	843.588	00:00:01.628	1.628	Then he came this way 
+00:14:05.489	845.489	00:14:14.273	854.273	00:00:08.784	8.784	Get tucker y know, food, box, what, milk, teabag sugar and all
+00:14:18.529	858.529	00:14:20.803	860.803	00:00:02.274	2.274	That’s the way my father he been tellim off  

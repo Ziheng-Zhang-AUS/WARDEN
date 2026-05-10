@@ -1,0 +1,20 @@
+00:00:00.000	0.0	00:00:03.429	3.429	00:00:03.429	3.429	yaramarrgu yayu gonjo-ya
+00:00:08.537	8.537	00:00:09.228	9.228	00:00:00.691	0.691	yum-ya
+00:00:12.880	12.88	00:00:14.196	14.196	00:00:01.316	1.316	??? yayu
+00:00:15.302	15.302	00:00:17.284	17.284	00:00:01.982	1.982	yaramarrgu yayu gonjo-ya
+00:00:17.899	17.899	00:00:20.010	20.01	00:00:02.111	2.111	yaramarrgu yayu gonjo-ya
+00:00:20.141	20.141	00:00:20.652	20.652	00:00:00.511	0.511	yawe
+00:00:21.082	21.082	00:00:21.727	21.727	00:00:00.645	0.645	narda-ya
+00:00:24.428	24.428	00:00:33.085	33.085	00:00:08.657	8.657	julu-ya wurranggiya wurr-bujurriya yaramarrgu wu-darriya banggin ??? ngawurnen
+00:00:33.938	33.938	00:00:34.970	34.97	00:00:01.032	1.032	wirrnikirroua ma
+00:00:35.765	35.765	00:00:43.281	43.281	00:00:07.516	7.516	wumunburra warlurr wurrmendiya wudarriya dana ngamanda-wunyin mengmengma yaramarrgu
+00:00:44.731	44.731	00:00:47.919	47.919	00:00:03.188	3.188	nungguru-warra na yibumbu too wurr-gandiya
+00:00:48.666	48.666	00:00:54.259	54.259	00:00:05.593	5.593	wurrgindiya wu-marriya yibumbu-warra yijad-garra wibumbu-warra wudu-warra
+00:00:54.915	54.915	00:00:57.030	57.03	00:00:02.115	2.115	wurrgindiyaaa jamam
+00:00:58.376	58.376	00:01:02.806	62.806	00:00:04.430	4.43	benegin-gu wurranggiya warlbag wurrmendiya benegin nan-gunba agin
+00:01:04.977	64.977	00:01:06.378	66.378	00:00:01.401	1.401	yaramarrgu-wunba
+00:01:13.416	73.416	00:01:17.225	77.225	00:00:03.809	3.809	yaramarrgu and htat goyin yumin-gunba
+00:01:18.079	78.079	00:01:21.808	81.808	00:00:03.729	3.729	benegin yadagbarlan nan-guya na
+00:01:22.776	82.776	00:01:23.387	83.387	00:00:00.611	0.611	yawe
+00:01:25.042	85.042	00:01:29.001	89.001	00:00:03.959	3.959	yaramarrgu-wunba and goyin-gunba yumin-gunba
+00:01:31.098	91.098	00:01:35.434	95.434	00:00:04.336	4.336	yawe yilgbayi-wan

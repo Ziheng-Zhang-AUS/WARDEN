@@ -1,0 +1,33 @@
+00:00:01.570	1.57	00:00:04.470	4.47	00:00:02.900	2.9	Ngan-burr-gandiya gilibi led wu-darriya
+00:00:04.970	4.97	00:00:07.330	7.33	00:00:02.360	2.36	A galgal ya  na galgal yum-garr	
+00:00:08.080	8.08	00:00:10.600	10.6	00:00:02.520	2.52	Ngayugu ngaburr-gindiya galgal	
+00:00:11.300	11.3	00:00:13.990	13.99	00:00:02.690	2.69	Galgal ya, me nana na	
+00:00:14.750	14.75	00:00:15.750	15.75	00:00:01.000	1.0	Gin.gina yanarriya
+00:00:18.882	18.882	00:00:20.804	20.804	00:00:01.922	1.922	Gala yinyeng ngamanda-warang	
+00:00:21.244	21.244	00:00:24.499	24.499	00:00:03.255	3.255	Na yinyeng gila him likey that
+00:00:24.725	24.725	00:00:25.824	25.824	00:00:01.099	1.099	Yinyang ? ga 
+00:00:26.647	26.647	00:00:27.549	27.549	00:00:00.902	0.902	Yingyeng all right 
+00:00:28.764	28.764	00:00:33.059	33.059	00:00:04.295	4.295	Light one yinyeng you can go galgalma there me ? 
+00:00:34.097	34.097	00:00:37.431	37.431	00:00:03.334	3.334	I been wanta getim gilibi na, chuckim down la him
+00:00:39.686	39.686	00:00:42.078	42.078	00:00:02.392	2.392	Barrwa nga-wondiya diwdiw	
+00:00:45.019	45.019	00:00:48.274	48.274	00:00:03.255	3.255	Guramana too when I been wanta look guramana	
+00:00:50.489	50.489	00:00:54.548	54.548	00:00:04.059	4.059	And I been wanna galgal bla that guramana again, kilim galul	
+00:00:57.117	57.117	00:01:04.804	64.804	00:00:07.687	7.687	Warlbawarlbag guramana fall down la gonjon
+00:01:04.979	64.979	00:01:07.509	67.509	00:00:02.530	2.53	Wendiya na Gin.gina garrb 
+00:01:08.019	68.019	00:01:11.254	71.254	00:00:03.235	3.235	but Gin.gina yijad jingindi, wonggo yanggi	
+00:01:11.412	71.412	00:01:14.647	74.647	00:00:03.235	3.235	Yijad Gin.gina	
+00:01:16.058	76.058	00:01:17.470	77.47	00:00:01.412	1.412	Ngayinyja na lurrbu 	
+00:01:21.294	81.294	00:01:23.980	83.98	00:00:02.686	2.686	Guramana-warra and gilibi	
+00:01:28.117	88.117	00:01:30.784	90.784	00:00:02.667	2.667	And goyin-gu yin.gunburr-gandiya
+00:01:35.470	95.47	00:01:39.235	99.235	00:00:03.765	3.765	Yirranggiya same one Gin.gina	
+00:01:41.137	101.137	00:01:49.470	109.47	00:00:08.333	8.333	Gin.gina, Ngabij been wanta follerimbat mefella
+00:01:50.745	110.745	00:01:52.725	112.725	00:00:01.980	1.98	Sometime fishingbat barrwa	
+00:01:53.646	113.646	00:01:54.842	114.842	00:00:01.196	1.196	Getimbat all the ngorrong
+00:01:59.647	119.647	00:02:03.941	123.941	00:00:04.294	4.294	And sometime yirr-mendiya naribu	
+00:02:06.568	126.568	00:02:10.137	130.137	00:00:03.569	3.569	Warlbagwarlbag yirr-mendiya na
+00:02:10.490	130.49	00:02:14.117	134.117	00:00:03.627	3.627	Washim gota wiyan and yirr-gandiya wuja yirr-mendiya
+00:02:14.411	134.411	00:02:19.332	139.332	00:00:04.921	4.921	Ngorrong yirr-mendiya all right yibumbu-ya yirr-gindiya wululu 
+00:02:20.450	140.45	00:02:22.529	142.529	00:00:02.079	2.079	Sometime wiya-warra sometime ngawun	
+00:02:22.773	142.773	00:02:25.675	145.675	00:00:02.902	2.902	Darib yirr-gindiya minyard-ja  ?	
+00:02:29.980	149.98	00:02:31.686	151.686	00:00:01.706	1.706	Yirr-ngundiya dan.ganud too 	
+00:02:33.078	153.078	00:02:35.509	155.509	00:00:02.431	2.431	Ngorrong and naribu 	

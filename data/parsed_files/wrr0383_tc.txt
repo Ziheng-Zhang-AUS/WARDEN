@@ -1,0 +1,107 @@
+00:00:00.818	0.818	00:00:03.215	3.215	00:00:02.397	2.397	Wumunburra wagbawun oni bega-warang 
+00:00:04.828	4.828	00:00:06.181	6.181	00:00:01.353	1.353	Bega-biji nganburr-wondi yirrugu
+00:00:07.044	7.044	00:00:08.090	8.09	00:00:01.046	1.046	Wonggo ngayugu
+00:00:08.999	8.999	00:00:12.783	12.783	00:00:03.784	3.784	Marlarluga nanawunyin bega-biji wurr-mendiya
+00:00:14.943	14.943	00:00:15.875	15.875	00:00:00.932	0.932	SHUT UP [to the dogs]
+00:00:17.829	17.829	00:00:18.852	18.852	00:00:01.023	1.023	Bega-biji wurr-mendiya
+00:00:19.840	19.84	00:00:20.851	20.851	00:00:01.011	1.011	Wonggo yimunburra ngawun 
+00:00:22.306	22.306	00:00:25.670	25.67	00:00:03.364	3.364	Gurruyawan guji ngayugu mailman nga-nyangandi wudu wurren yangwan
+00:00:26.988	26.988	00:00:31.249	31.249	00:00:04.261	4.261	Yirranggiya willeroo-wa swim nanya-wunyin King River liwma
+00:00:32.170	32.17	00:00:38.670	38.67	00:00:06.500	6.5	Calico wurr-gindiya yanima packsaddle backpack ngayugu jaburru wurr-gandiya wurre-yi
+00:00:44.181	44.181	00:00:49.374	49.374	00:00:05.193	5.193	Gurruya nyangandi lurrbu nendo getonim nendo borlema nganjagiya
+00:00:50.215	50.215	00:00:52.272	52.272	00:00:02.057	2.057	Nendo olabat been follerim me
+00:00:54.067	54.067	00:00:55.544	55.544	00:00:01.477	1.477	Mailman wudu yangwan
+00:00:57.067	57.067	00:00:59.942	59.942	00:00:02.875	2.875	No road been yet only packhorse road
+00:01:02.374	62.374	00:01:04.056	64.056	00:00:01.682	1.682	Gurruyawan I been siddown here 
+00:01:04.465	64.465	00:01:06.670	66.67	00:00:02.205	2.205	Workin langa Willeroo big one nga-yanarri 
+00:01:07.295	67.295	00:01:09.102	69.102	00:00:01.807	1.807	Yijarlo-mulu ngawunburr-gandi 
+00:01:10.351	70.351	00:01:14.067	74.067	00:00:03.716	3.716	From Delamere half-caste ngan-gandi 
+00:01:16.158	76.158	00:01:19.101	79.101	00:00:02.943	2.943	Gurruyawan bla Nonomarran brother-wuya 
+00:01:19.477	79.477	00:01:21.783	81.783	00:00:02.306	2.306	And daughter young one daughter bla him
+00:01:23.260	83.26	00:01:26.521	86.521	00:00:03.261	3.261	And blanga marluga Mele-wu brother nother one
+00:01:27.238	87.238	00:01:27.943	87.943	00:00:00.705	0.705	John Gill
+00:01:29.703	89.703	00:01:31.771	91.771	00:00:02.068	2.068	Welfare jarrambu jingindi ngawun 
+00:01:31.772	91.772	00:01:33.465	93.465	00:00:01.693	1.693	All the whitefella been likeim me
+00:01:35.454	95.454	00:01:37.454	97.454	00:00:02.000	2.0	You putim buckjumper horse there wurr-yanarri go
+00:01:38.488	98.488	00:01:40.693	100.693	00:00:02.205	2.205	Buji you wantim Bill Harney you go there rideim horse
+00:01:41.636	101.636	00:01:45.408	105.408	00:00:03.772	3.772	He been getonim he been go diw bard wudbarri
+00:01:45.726	105.726	00:01:48.919	108.919	00:00:03.193	3.193	I not gonna go round lookin for Bill Harney yanarri nganu nanawunyin mernden
+00:01:49.942	109.942	00:01:55.806	115.806	00:00:05.864	5.864	Ah I’m gonna leaveim he’ll never learn anything wurr-yanarri
+00:01:55.828	115.828	00:01:58.056	118.056	00:00:02.228	2.228	But me I been learn I beengo right up on top 
+00:01:58.852	118.852	00:02:01.375	121.375	00:00:02.523	2.523	FM: but what about that Stolen Wages you been work?
+00:02:03.033	123.033	00:02:05.237	125.237	00:00:02.204	2.204	Yeah I been workin no yimunburra ngawun 
+00:02:07.511	127.511	00:02:13.534	133.534	00:00:06.023	6.023	FM: yinggiya nyangandi yang bundi Stolen Wages
+00:02:14.374	134.374	00:02:17.180	137.18	00:00:02.806	2.806	Gurruyawan nanawunyin Stolen Wages yarrulan la Katherine
+00:02:17.680	137.68	00:02:20.362	140.362	00:00:02.682	2.682	But thisun Mefella been allright but no more yimunburra
+00:02:21.783	141.783	00:02:23.067	143.067	00:00:01.284	1.284	Ani bega-biji
+00:02:25.931	145.931	00:02:28.545	148.545	00:00:02.614	2.614	Gurruyawan nanwunyin yimunburra-wan wudjingindiya 
+00:02:29.772	149.772	00:02:33.477	153.477	00:00:03.705	3.705	Nganburr-wondi 5 shilling 
+00:02:33.556	153.556	00:02:37.260	157.26	00:00:03.704	3.704	5 shilling gurruyawan 10 bob
+00:02:38.772	158.772	00:02:40.204	160.204	00:00:01.432	1.432	10 bob yirr-gindiya 
+00:02:41.033	161.033	00:02:42.943	162.943	00:00:01.910	1.91	10 bob yiwarlng yirr-mendiya 
+00:02:44.886	164.886	00:02:47.852	167.852	00:00:02.966	2.966	Wonggo yijad yimunburra but  yimunburra-wunyin nana 10 bob yijad
+00:02:50.022	170.022	00:02:53.112	173.112	00:00:03.090	3.09	Yanimawunyin gurruyawan yidjangandi keep going
+00:02:54.453	174.453	00:02:58.601	178.601	00:00:04.148	4.148	And marnden nyangandi nganu whitefella called (s)Cottment? [?]
+00:03:00.420	180.42	00:03:02.681	182.681	00:00:02.261	2.261	Name been wannim name been Peter Hawke 
+00:03:03.090	183.09	00:03:06.828	186.828	00:00:03.738	3.738	FM: Peter Hawke? Nyangandi and guda yanarri
+00:03:06.852	186.852	00:03:08.238	188.238	00:00:01.386	1.386	Yanarri nganu-wan 
+00:03:09.033	189.033	00:03:10.499	190.499	00:00:01.466	1.466	He been workin there too
+00:03:11.590	191.59	00:03:14.124	194.124	00:00:02.534	2.534	I wanta learnim you bla read and write yanarri
+00:03:15.180	195.18	00:03:16.885	196.885	00:00:01.705	1.705	We been getim jabalawarna flatone 
+00:03:17.556	197.556	00:03:22.578	202.578	00:00:05.022	5.022	Gurra mandagan wuja-wa meyn.ga 
+00:03:23.942	203.942	00:03:27.249	207.249	00:00:03.307	3.307	Minyardin minyardin-wunyin pencil he been haveim
+00:03:28.090	208.09	00:03:29.965	209.965	00:00:01.875	1.875	He been learin me nab la ABC 
+00:03:30.988	210.988	00:03:31.817	211.817	00:00:00.829	0.829	Bill Harney and all that
+00:03:31.829	211.829	00:03:32.465	212.465	00:00:00.636	0.636	FM: derma
+00:03:32.544	212.544	00:03:33.487	213.487	00:00:00.943	0.943	Derrma ngan-gindi
+00:03:33.760	213.76	00:03:34.544	214.544	00:00:00.784	0.784	Been writeim down
+00:03:35.749	215.749	00:03:37.215	217.215	00:00:01.466	1.466	I been pickimup no worry
+00:03:38.465	218.465	00:03:39.863	219.863	00:00:01.398	1.398	Peter Hawke been learnim me
+00:03:41.113	221.113	00:03:42.590	222.59	00:00:01.477	1.477	Nanba-wunyin I never look back
+00:03:43.488	223.488	00:03:45.113	225.113	00:00:01.625	1.625	FM: guda jingindi Peter Hawke
+00:03:45.135	225.135	00:03:46.908	226.908	00:00:01.773	1.773	Peter Hawke him from Scotland
+00:03:47.317	227.317	00:03:50.135	230.135	00:00:02.818	2.818	FM: Scotland but guda jingindi
+00:03:50.488	230.488	00:03:51.169	231.169	00:00:00.681	0.681	Willeroo 
+00:03:51.749	231.749	00:03:56.340	236.34	00:00:04.591	4.591	Willeroo yeah yeah nanyawunyin he been showim me everything
+00:03:58.737	238.737	00:04:04.340	244.34	00:00:05.603	5.603	And old man  yinggiyan yugurni showim ngan-yanarri forge
+00:04:05.397	245.397	00:04:07.737	247.737	00:00:02.340	2.34	They been makeim traphorse shoe 
+00:04:09.409	249.409	00:04:11.340	251.34	00:00:01.931	1.931	Jockey ah racehorse shoe 
+00:04:12.521	252.521	00:04:17.055	257.055	00:00:04.534	4.534	Stockhorse shoe we been makeim la forge buuwuuubuuu
+00:04:17.102	257.102	00:04:18.943	258.943	00:00:01.841	1.841	Makeim all the shoe
+00:04:19.204	259.204	00:04:20.931	260.931	00:00:01.727	1.727	I been learn makeim all the shoe
+00:04:21.795	261.795	00:04:26.602	266.602	00:00:04.807	4.807	Gurruyawan yanarri nganu youngfella I gonna learnim you makeim saddle
+00:04:28.306	268.306	00:04:29.999	269.999	00:00:01.693	1.693	He been learnim me makeim saddle
+00:04:31.033	271.033	00:04:31.624	271.624	00:00:00.591	0.591	Me saddler
+00:04:32.818	272.818	00:04:35.181	275.181	00:00:02.363	2.363	And yiwarnagari gurruyawan I been finish that 
+00:04:36.022	276.022	00:04:37.828	277.828	00:00:01.806	1.806	I wanta show you putim well yanarri nganu
+00:04:38.226	278.226	00:04:39.817	279.817	00:00:01.591	1.591	Put a well down forty foot deep
+00:04:40.829	280.829	00:04:45.476	285.476	00:00:04.647	4.647	And we been puta windmill they been Southern Cross and Comet
+00:04:46.283	286.283	00:04:47.328	287.328	00:00:01.045	1.045	Dan.ganu-wunyin 
+00:04:48.306	288.306	00:04:55.408	295.408	00:00:07.102	7.102	Gurruyawan nga-jingindi thatun paddock fencer yard builder jokol? motor nga-gindi
+00:04:56.670	296.67	00:04:58.726	298.726	00:00:02.056	2.056	Gurruyawan nga-gandi darni 
+00:04:59.806	299.806	00:05:03.249	303.249	00:00:03.443	3.443	 Yiwarnagari nyangandi you wanta makeim all the whatsaname bolt
+00:05:04.090	304.09	00:05:06.147	306.147	00:00:02.057	2.057	Bolt bla tightim
+00:05:06.897	306.897	00:05:10.204	310.204	00:00:03.307	3.307	I been makeim bolt big mob of bolt
+00:05:10.238	310.238	00:05:13.840	313.84	00:00:03.602	3.602	Thread AC wood? They been callim like that
+00:05:13.874	313.874	00:05:17.419	317.419	00:00:03.545	3.545	I been make millions of bolt 
+00:05:17.442	317.442	00:05:19.578	319.578	00:00:02.136	2.136	From wudu big one
+00:05:20.442	320.442	00:05:22.987	322.987	00:00:02.545	2.545	All the bolt I been learn all them
+00:05:23.976	323.976	00:05:26.124	326.124	00:00:02.148	2.148	And from there onefella mernden he been come
+00:05:27.612	327.612	00:05:29.090	329.09	00:00:01.478	1.478	From London
+00:05:29.761	329.761	00:05:31.227	331.227	00:00:01.466	1.466	He been learnim me bla mechanic
+00:05:32.635	332.635	00:05:35.840	335.84	00:00:03.205	3.205	Takeim out all the engine putim everything piston all kind
+00:05:35.885	335.885	00:05:37.942	337.942	00:00:02.057	2.057	He been learnim me mechanic I been 
+00:05:39.908	339.908	00:05:42.408	342.408	00:00:02.500	2.5	I been pickim up whole lot yibam-nya
+00:05:44.362	344.362	00:05:47.987	347.987	00:00:03.625	3.625	Somefella been workin whitefella way but me this one from talkin
+00:05:48.840	348.84	00:05:50.192	350.192	00:00:01.352	1.352	Ngorlogba-wa that’s all
+00:05:51.033	351.033	00:05:51.999	351.999	00:00:00.966	0.966	That’s what I been learn
+00:05:54.760	354.76	00:05:56.124	356.124	00:00:01.364	1.364	FM: wudu wumunburra
+00:05:57.465	357.465	00:05:58.897	358.897	00:00:01.432	1.432	No yimunburra 
+00:06:04.306	364.306	00:06:06.044	366.044	00:00:01.738	1.738	And from there when we been work na all the way
+00:06:07.476	367.476	00:06:08.908	368.908	00:00:01.432	1.432	Ah how much I been getim?
+00:06:09.079	369.079	00:06:11.988	371.988	00:00:02.909	2.909	10 bob  yeah
+00:06:12.170	372.17	00:06:16.181	376.181	00:00:04.011	4.011	10 bob whatyou callim I don’t know what you callim ten bob today
+00:06:16.408	376.408	00:06:17.238	377.238	00:00:00.830	0.83	5 dollar
+00:06:17.306	377.306	00:06:19.193	379.193	00:00:01.887	1.887	5 dollar might be yeah 
+00:06:22.783	382.783	00:06:23.987	383.987	00:00:01.204	1.204	That kind na yimunburra 
+00:06:25.204	385.204	00:06:25.636	385.636	00:00:00.432	0.432	FM: all right
