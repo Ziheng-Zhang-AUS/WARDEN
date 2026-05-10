@@ -19,6 +19,59 @@ conda activate whisper_release
 pip install -r asr/requirements.txt
 ```
 
+`ffmpeg` is also required for audio downloading, conversion, and segmentation.
+
+```
+brew install ffmpeg
+```
+
+or:
+
+```
+conda install -c conda-forge ffmpeg
+```
+
+## **Preparing ASR Data**
+
+The ASR data can be prepared with the utility scripts in:
+
+```
+asr/
+├── download_wrr_media.py
+└── build_transcribe_data.py
+```
+
+
+To prepare the full ASR dataset in one step:
+
+```
+python asr/download_wrr_media.py --txt-dir ./data/parsed_files/
+python asr/build_transcribe_data.py --txt-dir ./data/parsed_files/
+```
+
+This will download and convert source audio into:
+
+```
+data/wave_files/
+├── wrr0048/
+│   └── wrr0048.wav
+└── ...
+```
+
+and build the final training data in:
+
+```
+data/transcribe/
+├── train.jsonl
+├── val.jsonl
+├── test.jsonl
+├── train/
+├── validation/
+└── test/
+```
+
+The scripts keep segments where both transcription and translation annotations are available, then concatenate segments from the same source audio up to 30 seconds without crossing source boundaries.
+
 ## **Data Format**
 
 The directory structure must be:
@@ -36,8 +89,10 @@ data/transcribe/
 Each JSON line file should follow this format:
 
 ```
-{ "audio": "filename.wav", "text": "transcription" }
+{ "audio": "train/wrr0048_01.wav", "text": "transcription" }
 ```
+
+The `audio` field is a relative path from `data/transcribe/`.
 
 ## Training
 
@@ -52,10 +107,10 @@ python asr/train_whisper.py \
 
 ## **Output**
 
-Fine-tuned Whisper checkpoints are saved to:
+Fine-tuned Whisper checkpoints are saved to the directory specified by `--output_dir`, for example:
 
 ```
-result/
+results/whisper_medium/
 ```
 
 ## **Checkpoint**
@@ -79,9 +134,7 @@ It performs:
 A cleaned lexicon file is provided at:
 
 ```text
-
 data/lexicon/lexicon.csv
-
 ```
 
 This file is used for information injection during the transcription-translation stage. More than 2,000 lexicon entries were manually cleaned and some of the content was transcribed into natural language to make it easier for large models to understand their meaning more intuitively.
@@ -89,9 +142,7 @@ This file is used for information injection during the transcription-translation
 Lexicon must be a CSV file, required columns:
 
 ```
-
 lexical_unit, variant, pos, gloss
-
 ```
 
 ## **Injection Input Format**
@@ -99,15 +150,12 @@ lexical_unit, variant, pos, gloss
 Input JSONL (from ASR output):
 
 ```
-
 { "text": "transcription sentence" }
-
 ```
 
 ## **Run Lexicon Injection**
 
 ```
-
 python lexicon/lexinject.py \
  --input data/transcribe/train.jsonl \
  --output data/translate/train_with_lexicon.jsonl \
@@ -115,7 +163,6 @@ python lexicon/lexinject.py \
  --top_k 2 \
  --cer_threshold 0.2 \
  --output_mode flat_json
-
 ```
 
 ## **Output**
@@ -123,7 +170,6 @@ python lexicon/lexinject.py \
 Each sample will include an additional field:
 
 ```
-
 {
 "text": "...",
 "lexicon": {
@@ -131,7 +177,6 @@ Each sample will include an additional field:
 "word2": ["gloss3"]
 }
 }
-
 ```
 
 ## **Statistics**
@@ -160,7 +205,7 @@ pip install -r translation/requirements.txt
 
 ## **Dataset Format**
 
-Place translation data in:
+The processed translation data is already provided in:
 
 ```
 data/translate/
